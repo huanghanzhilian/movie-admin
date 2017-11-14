@@ -1,0 +1,8 @@
+{
+  "success": true,
+  "message": "用户存在",
+  "object": {
+    "userName": "150112132132",
+    "phone": "150112132132"
+  }
+}

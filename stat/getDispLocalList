@@ -1,0 +1,21 @@
+{
+  "success": true,
+  "object": [
+    {
+      "value": "1",
+      "name": "北京"
+    },
+    {
+      "value": "2",
+      "name": "上海"
+    },
+    {
+      "value": "102",
+      "name": "成都"
+    },
+    {
+      "value": "483",
+      "name": "西安"
+    }
+  ]
+}

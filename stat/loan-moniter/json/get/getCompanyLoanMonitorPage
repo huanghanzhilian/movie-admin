@@ -1,0 +1,128 @@
+{
+  "success": true,
+  "object": {
+    "infoList": [
+      {
+        "createTime": "2016-09-12 00:10:09",
+        "status": "0",
+        "updateTime": "2016-09-12 00:10:09",
+        "currentValue": "15094315624",
+        "briefName": "运营中心",
+        "recordStatus": "0",
+        "id": "775003508259704832",
+        "companyid": "770877742815141888",
+        "ruleName": "近7天存在房管员第一天23点到第二天7点扫描二维码"
+      },
+      {
+        "createTime": "2016-09-05 09:04:09",
+        "status": "0",
+        "updateTime": "2016-09-05 09:04:09",
+        "currentValue": "18020131453",
+        "briefName": "运营中心",
+        "recordStatus": "0",
+        "id": "772601180005101568",
+        "companyid": "770875746720710656",
+        "ruleName": "近7天存在房管员第一天23点到第二天7点扫描二维码"
+      },
+      {
+        "createTime": "2016-09-05 09:04:06",
+        "status": "0",
+        "updateTime": "2016-09-05 09:04:06",
+        "currentValue": "2.6576",
+        "briefName": "蜀山店",
+        "recordStatus": "0",
+        "id": "772601167497678849",
+        "companyid": "770473493719441408",
+        "ruleName": "近7天放款金额较近14至7天上涨200%且未还款金额超过50万"
+      },
+      {
+        "createTime": "2016-08-31 00:10:04",
+        "status": "0",
+        "updateTime": "2016-08-31 00:10:04",
+        "currentValue": "2.5787",
+        "briefName": "包河店",
+        "recordStatus": "0",
+        "id": "770654833760821248",
+        "companyid": "770472226502758400",
+        "ruleName": "近7天放款金额较近14至7天上涨200%且未还款金额超过50万"
+      },
+      {
+        "createTime": "2016-09-19 00:10:10",
+        "status": "0",
+        "updateTime": "2016-09-19 00:10:10",
+        "currentValue": "13349600079",
+        "briefName": "湖南易安家",
+        "recordStatus": "0",
+        "id": "777540226074570752",
+        "companyid": "768005845215641600",
+        "ruleName": "近7天存在房管员第一天23点到第二天7点扫描二维码"
+      },
+      {
+        "createTime": "2016-09-26 00:10:05",
+        "status": "0",
+        "updateTime": "2016-09-26 00:10:05",
+        "currentValue": "2.0519",
+        "briefName": "湖南易安家",
+        "recordStatus": "0",
+        "id": "780076920569094144",
+        "companyid": "768005845215641600",
+        "ruleName": "近7天放款金额较近14至7天上涨200%且未还款金额超过50万"
+      },
+      {
+        "createTime": "2016-09-26 00:10:08",
+        "status": "0",
+        "updateTime": "2016-09-26 00:10:08",
+        "currentValue": "163.64292308",
+        "briefName": "湖南易安家",
+        "recordStatus": "0",
+        "id": "780076932271198208",
+        "companyid": "768005845215641600",
+        "ruleName": "近7天放款还款比超过10倍且未还金额超过50万"
+      },
+      {
+        "createTime": "2016-10-03 00:10:08",
+        "status": "0",
+        "updateTime": "2016-10-03 00:10:08",
+        "currentValue": "11.59412755",
+        "briefName": "湖南易安家",
+        "recordStatus": "0",
+        "id": "782613649108791296",
+        "companyid": "768005845215641600",
+        "ruleName": "近7天放款还款比超过10倍且未还金额超过50万"
+      },
+      {
+        "createTime": "2016-10-10 00:10:06",
+        "status": "0",
+        "updateTime": "2016-10-10 00:10:06",
+        "currentValue": "5.8786",
+        "briefName": "湖南易安家",
+        "recordStatus": "0",
+        "id": "785150353501872128",
+        "companyid": "768005845215641600",
+        "ruleName": "近7天放款金额较近14至7天上涨200%且未还款金额超过50万"
+      },
+      {
+        "createTime": "2016-10-10 00:10:08",
+        "status": "0",
+        "updateTime": "2016-10-10 00:10:08",
+        "currentValue": "27.22304699",
+        "briefName": "湖南易安家",
+        "recordStatus": "0",
+        "id": "785150363924717568",
+        "companyid": "768005845215641600",
+        "ruleName": "近7天放款还款比超过10倍且未还金额超过50万"
+      }
+    ],
+    "pageNum": 1,
+    "pageSize": 10,
+    "totalPage": 107,
+    "totalCount": 1065,
+    "defaultPageNum": "10",
+    "__isset_bit_vector": [
+      1,
+      1,
+      1,
+      1
+    ]
+  }
+}

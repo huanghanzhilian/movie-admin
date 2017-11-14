@@ -1,0 +1,23 @@
+<link rel="stylesheet" href="RelationalAnomaly.less?__inline" />
+<div class="form-body">
+    <div class="thumbnail clearfix" style="position: relative;">
+        <form name="searchForm" novalidate ng-submit="search($event)">
+
+            <div class="list-filter-col">
+                <jr-dropdown-button options="queryOptions.graphLevel" value="queryParams.graphLevel" class="w120"></jr-dropdown-button>
+            </div>
+            <div class="list-filter-col">
+                <input id="filtername" class="form-control" ng-model="queryParams.filtername" placeholder="请输入用户名" style="width:150px;" />
+            </div>
+            <div class="list-filter-col">
+                <button class="btn btn-primary" type="submit"><i class="icon icon-search"></i>查找</button>
+            </div>
+            <span style="line-height: 30px;position: absolute;right: 30px;top: 15px;">操作说明：按住ctrl键，同时单击页面上的姓名,可以自动展开一个人的关系图</span>
+        </form>
+    </div>
+    <div class="table-con" id="apigt">
+        <div class="quanpinbtn" title="使用快捷键Esc进行切换" ng-click="quanpin()">全屏切换</div>
+        <div id="successView" class="chart-body"></div>
+    </div>
+
+</div>

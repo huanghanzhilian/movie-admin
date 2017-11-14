@@ -1,0 +1,13 @@
+{
+  "success": true,
+  "object": [
+    {
+      "ietmValue": "按钮权限",
+      "itemId": "button"
+    },
+    {
+      "ietmValue": "导航项",
+      "itemId": "navigation"
+    }
+  ]
+}

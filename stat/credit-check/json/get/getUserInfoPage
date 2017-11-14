@@ -1,0 +1,138 @@
+{
+  "success": true,
+  "object": {
+    "infoList": [
+      {
+        "userIdCard": "140621198208115539",
+        "location": "北京市清缘里中区4号楼7单元705室单间",
+        "applyTime": "2015-10-27 10:56:55",
+        "companyName": "美丽家园",
+        "orderStatus": "已还清",
+        "city": "北京市",
+        "agentName": "赵伟伟",
+        "userName": "郝金龙",
+        "userPhone": "13681486576",
+        "orderId": "18"
+      },
+      {
+        "userIdCard": "410426198502017522",
+        "location": "郑州市锦江国际花园10号楼1单元11楼1111",
+        "applyTime": "2015-10-27 11:38:22",
+        "companyName": "美华",
+        "orderStatus": "清退已结清",
+        "city": "郑州市",
+        "agentName": "吴惠芳",
+        "userName": "宋旭娜",
+        "userPhone": "13027677157",
+        "orderId": "19"
+      },
+      {
+        "userIdCard": "610125198903163912",
+        "location": "西安市雅荷春天三期21-1-3102",
+        "applyTime": "2015-10-27 11:45:06",
+        "companyName": "壹人壹家",
+        "orderStatus": "用户主动放弃废单",
+        "city": "西安市",
+        "agentName": "夏兴建",
+        "userName": "杨凯毅",
+        "userPhone": "13572113985",
+        "orderId": "20"
+      },
+      {
+        "userIdCard": "522121199405207002",
+        "location": "北京市大牛坊二期2号楼13单元902室",
+        "applyTime": "2015-10-27 12:05:38",
+        "companyName": "世纪鸿源",
+        "orderStatus": "已还清",
+        "city": "北京市",
+        "agentName": "许海东",
+        "userName": "李佳洋",
+        "userPhone": "13146964820",
+        "orderId": "21"
+      },
+      {
+        "userIdCard": "51152919860405231X",
+        "location": "成都市青龙鹭苑5栋1单元403号",
+        "applyTime": "2015-10-27 12:13:22",
+        "companyName": "幸福居",
+        "orderStatus": "用户主动放弃废单",
+        "city": "成都市",
+        "agentName": "王彪",
+        "userName": "何奎",
+        "userPhone": "13438183393",
+        "orderId": "22"
+      },
+      {
+        "userIdCard": "410329199011260016",
+        "location": "北京市世华龙樾11号楼2单元1001室南主",
+        "applyTime": "2015-10-27 13:43:03",
+        "companyName": "美丽家园",
+        "orderStatus": "已还清",
+        "city": "北京市",
+        "agentName": "赵伟伟",
+        "userName": "郭雷涛",
+        "userPhone": "15810645045",
+        "orderId": "24"
+      },
+      {
+        "userIdCard": "332525199406080930",
+        "location": "杭州市世纪新筑4幢2单元1002",
+        "applyTime": "2015-10-27 13:44:22",
+        "companyName": "U租",
+        "orderStatus": "已还清",
+        "city": "杭州市",
+        "agentName": "吴晓锋",
+        "userName": "龚程辉",
+        "userPhone": "15257464423",
+        "orderId": "25"
+      },
+      {
+        "userIdCard": "142625199204281339",
+        "location": "北京市中鑫嘉园一期西座702",
+        "applyTime": "2015-10-27 14:24:51",
+        "companyName": "鹏基伟业",
+        "orderStatus": "用户主动放弃废单",
+        "city": "北京市",
+        "agentName": "吉学",
+        "userName": "樊振英",
+        "userPhone": "18859000211",
+        "orderId": "26"
+      },
+      {
+        "userIdCard": "511024199311243142",
+        "location": "成都市南城都汇四期11栋805",
+        "applyTime": "2015-10-27 15:08:57",
+        "companyName": "如米",
+        "orderStatus": "用户主动放弃废单",
+        "city": "成都市",
+        "agentName": "雷航铭",
+        "userName": "曾霞",
+        "userPhone": "18328404585",
+        "orderId": "27"
+      },
+      {
+        "userIdCard": "140322198902097553",
+        "location": "北京市华严北里2号院5号楼",
+        "applyTime": "2015-10-27 15:25:28",
+        "companyName": "鹏基伟业",
+        "orderStatus": "已还清",
+        "city": "北京市",
+        "agentName": "李志宾",
+        "userName": "王春雨",
+        "userPhone": "18636898985",
+        "orderId": "28"
+      }
+    ],
+    "pageNum": 1,
+    "pageSize": 10,
+    "totalPage": 6900,
+    "totalCount": 68995,
+    "defaultPageNum": "10",
+    "__isset_bit_vector": [
+      1,
+      1,
+      1,
+      1
+    ]
+  }
+}

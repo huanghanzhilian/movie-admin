@@ -1,0 +1,118 @@
+{
+  "success": true,
+  "object": {
+    "infoList": [
+      {
+        "warningStatus": "10",
+        "ruleGroup": "授信额度预警",
+        "ruleDesc": "未还金额达到授信额度的80%",
+        "triggerTime": "2016-11-04 01:00:08",
+        "forbiddenFlag": "正常",
+        "briefName": "坤维",
+        "id": "794222643304747008",
+        "companyid": "720535258222592000",
+        "dealType": "",
+        "ruleCorrectType": 1
+      },
+      {
+        "warningStatus": "10",
+        "ruleGroup": "逾期预警",
+        "ruleDesc": "未还金额达到授信额度的90%",
+        "triggerTime": "2016-11-04 17:27:00",
+        "forbiddenFlag": "正常",
+        "briefName": "坤维",
+        "id": "794470994688368640",
+        "companyid": "720535258222592000",
+        "dealType": "",
+        "relativeOrderCount": "1",
+        "ruleCorrectType": 1,
+        "orderIds": "24203"
+      },
+      {
+        "warningStatus": "10",
+        "ruleGroup": "清退预警",
+        "ruleDesc": "清退时间10天以上且未结清达到1笔以上",
+        "triggerTime": "2016-10-25 01:00:01",
+        "forbiddenFlag": "人工冻结",
+        "briefName": "美华",
+        "id": "790598733912899584",
+        "companyid": "712565806407385088",
+        "relativeOrderCount": "1",
+        "dealType": "禁止推单",
+        "orderIds": "24203",
+        "ruleCorrectType": 2
+      },
+      {
+        "warningStatus": "10",
+        "ruleGroup": "授信额度预警",
+        "ruleDesc": "未还金额达到授信额度的80%",
+        "triggerTime": "2016-11-04 01:00:08",
+        "forbiddenFlag": "正常",
+        "briefName": "爱家",
+        "id": "794222643090845696",
+        "companyid": "703111150044205056",
+        "dealType": "",
+        "orderIds": "24203"
+      },
+      {
+        "warningStatus": "10",
+        "ruleGroup": "授信额度预警",
+        "ruleDesc": "未还金额达到授信额度的90%",
+        "triggerTime": "2016-11-04 01:00:09",
+        "forbiddenFlag": "正常",
+        "briefName": "爱家",
+        "id": "794222648195305472",
+        "companyid": "703111150044205056",
+        "dealType": "",
+        "orderIds": "24203"
+      },
+      {
+        "warningStatus": "10",
+        "ruleGroup": "授信额度预警",
+        "ruleDesc": "未还金额达到授信额度的80%",
+        "triggerTime": "2016-11-04 01:00:08",
+        "forbiddenFlag": "正常",
+        "briefName": "同程",
+        "id": "794222642977591296",
+        "companyid": "678156677152780288",
+        "dealType": "",
+        "orderIds": "24203"
+      },
+      {
+        "warningStatus": "10",
+        "ruleGroup": "授信额度预警",
+        "ruleDesc": "未还金额达到授信额度的90%",
+        "triggerTime": "2016-11-04 01:00:09",
+        "forbiddenFlag": "正常",
+        "briefName": "同程",
+        "id": "794222647977209856",
+        "companyid": "678156677152780288",
+        "dealType": "",
+        "orderIds": "24203"
+      },
+      {
+        "warningStatus": "10",
+        "ruleGroup": "授信额度预警",
+        "ruleDesc": "未还金额达到授信额度的80%",
+        "triggerTime": "2016-11-04 01:00:08",
+        "forbiddenFlag": "正常",
+        "briefName": "集家",
+        "id": "794222642784661504",
+        "companyid": "641517666636406784",
+        "dealType": "",
+        "orderIds": "24203"
+      }
+    ],
+    "pageNum": 1,
+    "pageSize": 10,
+    "totalPage": 1,
+    "totalCount": 8,
+    "defaultPageNum": "10",
+    "__isset_bit_vector": [
+      1,
+      1,
+      1,
+      1
+    ]
+  }
+}

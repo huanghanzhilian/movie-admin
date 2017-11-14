@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "object": [
+    {
+      "isChoose": "1",
+      "agentName": "贾正",
+      "agentId": "73613645458239744"
+    },
+    {
+      "isChoose": "0",
+      "agentName": "xxx",
+      "agentId": "7361364558239744"
+    },
+    {
+      "isChoose": "0",
+      "agentName": "xxx",
+      "agentId": "7361958239744"
+    },
+    {
+      "isChoose": "0",
+      "agentName": "xxx",
+      "agentId": "736136459744"
+    },
+    {
+      "isChoose": "0",
+      "agentName": "xxx",
+      "agentId": "736454958239744"
+    }
+  ]
+}

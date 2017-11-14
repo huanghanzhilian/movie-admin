@@ -1,0 +1,118 @@
+{
+  "success": true,
+  "object": {
+    "infoList": [
+      {
+        "id": "1",
+        "roleDesc": "开发人员",
+        "userCount": "23",
+        "rightIds": "53,47,39,31,25,17,11,103,9,5,43,35,7,49,41,33,27,19,115,105,95,51,45,37,29,21,13,107,1,3,23,15,109,101",
+        "createTime": "2016-09-09 16:00:48",
+        "systemName": "admin",
+        "roleName": "RD",
+        "systemDesc": "审核系统"
+      },
+      {
+        "id": "3",
+        "roleDesc": "上海客服",
+        "userCount": "7",
+        "rightIds": "1,13,21,5",
+        "createTime": "2016-09-09 17:53:34",
+        "systemName": "admin",
+        "roleName": "ShangHaiCustomerService",
+        "systemDesc": "审核系统"
+      },
+      {
+        "id": "7",
+        "roleDesc": "审核经理",
+        "userCount": "1",
+        "rightIds": "1,101,105,107,3,37,5,95",
+        "createTime": "2016-09-09 17:56:09",
+        "systemName": "admin",
+        "roleName": "Audit_ Manager",
+        "systemDesc": "审核系统"
+      },
+      {
+        "id": "9",
+        "roleDesc": "风控经理",
+        "userCount": "9",
+        "rightIds": "41,15,5,43,17,7,47,19,9,21,1,23,101,25,103,27,105,29,107,3,11,31,119,37,13",
+        "createTime": "2016-09-09 18:02:06",
+        "systemName": "admin",
+        "roleName": "Risk_ Manager",
+        "systemDesc": "审核系统"
+      },
+      {
+        "id": "11",
+        "roleDesc": "贷后监控",
+        "userCount": "10",
+        "rightIds": "29,31,5,7,9,1,11,119,13,15,17,19,21,23,25,27",
+        "createTime": "2016-09-09 18:06:27",
+        "systemName": "admin",
+        "roleName": "Monitor_AfterLoan",
+        "systemDesc": "审核系统"
+      },
+      {
+        "id": "13",
+        "roleDesc": "市场专员",
+        "userCount": "4",
+        "rightIds": "9,1,11,119,13,15,27,29,3,5,7",
+        "createTime": "2016-09-09 18:09:27",
+        "systemName": "admin",
+        "roleName": "Marketing_Specialist",
+        "systemDesc": "审核系统"
+      },
+      {
+        "id": "15",
+        "roleDesc": "初审人员",
+        "userCount": "7",
+        "rightIds": "1",
+        "createTime": "2016-09-10 14:49:09",
+        "systemName": "admin",
+        "roleName": "check_first",
+        "systemDesc": "审核系统"
+      },
+      {
+        "id": "17",
+        "roleDesc": "复审人员",
+        "userCount": "2",
+        "rightIds": "1,105,107,5",
+        "createTime": "2016-09-10 14:49:59",
+        "systemName": "admin",
+        "roleName": "check_second",
+        "systemDesc": "审核系统"
+      },
+      {
+        "id": "19",
+        "roleDesc": "财务专员",
+        "userCount": "1",
+        "rightIds": "11,117,13,15,17,31,5",
+        "createTime": "2016-09-13 20:06:22",
+        "systemName": "admin",
+        "roleName": "Finance_User",
+        "systemDesc": "审核系统"
+      },
+      {
+        "id": "37",
+        "roleDesc": "大58财务",
+        "userCount": "2",
+        "rightIds": "17,31",
+        "createTime": "2016-09-26 12:12:18",
+        "systemName": "admin",
+        "roleName": "58_Finance",
+        "systemDesc": "审核系统"
+      }
+    ],
+    "pageNum": 1,
+    "pageSize": 10,
+    "totalPage": 2,
+    "totalCount": 12,
+    "defaultPageNum": "10",
+    "__isset_bit_vector": [
+      1,
+      1,
+      1,
+      1
+    ]
+  }
+}

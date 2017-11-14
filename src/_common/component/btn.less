@@ -1,0 +1,247 @@
+@import '../less-config.less';
+
+@btn-default-bg-color-hover: #f7f9fa;
+@btn-default-bg-color-active: #f7f9fa;
+@btn-primary-bg-color: #2dd19d;
+@btn-primary-bg-color-hover: #26b286;
+@btn-primary-bg-color-active: #26b286;
+
+.btn {
+  padding: 6px 16px;
+
+    height: 30px;
+    font-size: @default-font-size;
+/*
+    &:hover {
+        background-color: @btn-default-bg-color-hover;
+    }
+
+    &:focus {
+        background-color: @btn-default-bg-color-hover;
+    }
+
+    &:active {
+        .box-shadow(none);
+        background-color: @btn-default-bg-color-active;
+    }*/
+}
+
+
+.btn-primary {
+    background-color: @btn-primary-bg-color;
+    border: none;
+
+    &:hover {
+        background-color: @btn-primary-bg-color-hover;
+      color: #fff;
+    }
+
+    &:focus {
+      background-color: @btn-primary-bg-color-hover;
+      color: #fff;
+    }
+
+    &:active {
+      background-color: @btn-primary-bg-color;
+      color: #fff;
+    }
+  &[disabled],&.disabled{
+    background: #2dd19d;
+    color: #fff;
+  }
+}
+.btn-cancel{
+  color: #585858;
+  background: #fff;
+  border: 1px solid #ddd;
+&:hover{
+  background: #f5f5f5;
+  color: #585858;
+}
+}
+.btn-info{
+  &:hover{
+    color: #fff;
+  }
+}
+
+.btn-output{
+background: #ffffff;
+  border: 1px solid #2dd19d;
+  color: #2dd19d;
+
+  &:hover {
+    background: #ebebeb;
+    color: #2dd19d;
+  }
+
+  &:focus {
+    background: #ebebeb;
+    color: #2dd19d;
+  }
+
+  &:active {
+    color: #2dd19d;
+    background: none;
+  }
+  &[disabled],&.disabled{
+    border-color: #dcdcdc;
+    color: #dcdcdc;
+  }
+}
+
+a {
+    &.btn {
+        color: #333;
+    }
+
+    &.btn-primary {
+        color: #333;
+    }
+}
+
+.dropdown-btn {
+  min-width: 80px;
+  background: #fff;
+  &.w150 {
+    min-width: 150px;
+
+    .dropdown-menu {
+      min-width: 120px;
+    }
+  }
+
+  &.w180 {
+    min-width: 180px;
+
+    .dropdown-menu {
+      min-width: 150px;
+    }
+  }
+
+  .display-input {
+    width: 98% !important;
+    height: auto !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    border: none !important;
+    outline: none;
+    background-color: #FFF;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
+}
+.dropdown-btn.open{
+
+  .caret{
+    background-color: #dcdcdc;
+  }
+}
+.block.clearfix{
+  .dropdown-toggle{
+    min-width: 130px;
+  }
+}
+.dropdown-toggle {
+    width: 100%;
+  min-width: 80px;
+  height: 30px;
+  padding: 5px;
+  padding-right: 40px;
+    border: 1px solid #dcdcdc;
+    .border-radius(0);
+    text-align: left;
+     &:hover,
+    &:focus,&:active {
+       .box-shadow(none);
+       border: 1px solid #dcdcdc;
+       color: #333;
+       background: #fff;
+       .caret{
+         background-color: #dcdcdc;
+       }
+    }
+  &:focus{
+    .caret{
+      background-color: #dcdcdc;
+    }
+  }
+
+   /*  &.btn-primary:hover,
+   &.btn-primary:focus {
+       background-color: @btn-primary-bg-color-hover;
+   }
+
+   &.btn-primary:active {
+       background-color: @btn-primary-bg-color-active;
+   } */
+    .caret {
+      border: 0;
+        background: #f5f5f5 url("../nimg/icon-caret.png") no-repeat center;
+      width: 28px;
+      height: 28px;
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      border-left:1px solid #dcdcdc;
+    }
+
+    &+.dropdown-menu {
+      border: 1px solid #eaeaea;
+        max-height: 300px;
+        overflow-y: auto;
+        overflow-x: hidden;
+        margin: 0;
+      min-width: 160px;
+        top:110%;
+      .border-radius(0);
+        li {
+            text-align: left;
+          &:last-child{
+            border-bottom: 0;
+          }
+        }
+
+        a {
+            /* .border-radius(); */
+          padding: 0;
+            cursor: pointer;
+            height: 32px;
+            line-height: 32px;
+            padding-left: 20px;
+          color: #999;
+            &:hover {
+              color: #333;
+                background-color: #f7fffd;
+            }
+        }
+    }
+}
+
+.btn-group.open .dropdown-toggle {
+  .box-shadow(none);
+  border-color:#dcdcdc;
+
+}
+
+.btn-basic {
+    background-color: #fff;
+
+    &:hover {
+        background-color: @btn-default-bg-color-hover;
+    }
+
+    &:active {
+
+        background-color: @btn-primary-bg-color-active;
+        color: #fff;
+    }
+}
+   /**
+**  城市选择下拉
+*/
+ .jr-city-select-wrap .jr-city-select-item {
+   display: inline-block;
+   width: 120px;
+ }

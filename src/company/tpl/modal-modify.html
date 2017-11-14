@@ -1,0 +1,283 @@
+<div class="modal-header">
+    <a href="javascript:void(0)" ng-click="$dismiss('cancel')" class="modal-close"></a>
+    <h3 class="modal-title">编辑经纪公司信息</h3>
+</div>
+<form name="modifyForm" novalidate class="modify-agent-info">
+    <div class="modal-body">
+        <div class="modal-group">
+            <label for="companyName" class="col-lg-5"><span class="star">*</span>公司名称：</label>
+            <div class="group-item col-lg-7">
+                <input type="text" name="companyName" value="" autocomplet ng-model="data.companyName" />
+            </div>
+        </div>
+        <div class="modal-group">
+            <label for="briefName" class="col-lg-5"><span class="star">*</span>公司简称：</label>
+            <div class="group-item col-lg-7">
+                <input type="text" name="briefName" value="" autocomplete="off"  ng-model="data.briefName" />
+            </div>
+        </div>
+        <div class="modal-group">
+            <label for="logoUrl" class="col-lg-5">公司logo：</label>
+            <div class="group-item col-lg-7">
+                <input type="text" name="logoUrl" value="" autocomplete="off"  ng-model="data.logoUrl" />
+            </div>
+        </div>
+        <div class="modal-group">
+            <label for="license" class="col-lg-5">营业执照号：</label>
+            <div class="group-item col-lg-7">
+                <input type="text" name="license" value="" autocomplete="off"  ng-model="data.license" disabled/>
+            </div>
+        </div>
+        <div class="modal-group">
+            <label for="city" class="col-lg-5">城市：</label>
+            <jr-dropdown-button options="queryOptions.companyProvinceCode" value="data.companyProvinceCode" class="w110" id="provices" ng-click="provices()"></jr-dropdown-button>
+            <jr-dropdown-button options="queryOptions.companyCityCode" value="data.companyCityCode" class="w110" id="citys"></jr-dropdown-button>
+        </div>
+        <div class="modal-group">
+            <label for="parentName" class="col-lg-5">上级公司名称：</label>
+            <div class="group-item col-lg-7">
+                <input type="text" name="parentName" value="" autocomplete="off" ng-model="data.parentName" />
+            </div>
+        </div>
+        <div class="modal-group">
+            <label for="companyType" class="col-lg-5">公司类型：</label>
+            <div class="list-filter-col col-lg-7">
+                <jr-dropdown-button options="queryOptions.companyType" value="data.companyType" class="mw120"></jr-dropdown-button>
+            </div>
+        </div>
+        <div class="modal-group">
+            <label for="roomCount" class="col-lg-5">房间数：</label>
+            <div class="group-item col-lg-7">
+                <input type="text" name="roomCount" value="" autocomplete="off"  ng-model="data.roomCount" />
+            </div>
+        </div>
+        <div class="modal-group">
+            <label for="maxLoanMonth" class="col-lg-5"><span class="star">*</span>最大借款月数：</label>
+            <div class="group-item col-lg-7">
+                <input type="text" name="maxLoanMonth" value="" autocomplete="off"  ng-model="data.maxLoanMonth" />
+            </div>
+        </div>
+        <div class="modal-group">
+            <label for="creditAmount" class="col-lg-5">授信额度(元)：</label>
+            <div class="group-item col-lg-7">
+                <input type="text" name="creditAmount" value="" autocomplete="off" ng-model="data.creditAmount" />
+            </div>
+        </div>
+        <div class="modal-group">
+            <label for="companyConfigRate" class="col-lg-5">费率：</label>
+            <div class="list-filter-col col-lg-7">
+                <jr-dropdown-button options="queryOptions.companyConfigRate" value="data.companyConfigRate" class="mw120"></jr-dropdown-button>
+            </div>
+        </div>
+        <!--<div class="modal-group">-->
+            <!--<label for="penatlyRate" class="col-lg-5">罚息费率：</label>-->
+            <!--&lt;!&ndash; <div class="group-item">-->
+                <!--<input type="text" name="penatlyRate" value="" autocomplete="off"  ng-model="data.penatlyRate"/>-->
+            <!--</div> &ndash;&gt;-->
+            <!--<div class="list-filter-col col-lg-7">-->
+                <!--<jr-dropdown-button options="queryOptions.penatlyRate" value="data.penatlyRate" class="mw120"></jr-dropdown-button>-->
+            <!--</div>-->
+        <!--</div>-->
+        <div class="modal-group">
+            <label for="cooperationStart" class="col-lg-5">合作期起：</label>
+            <div class="list-filter-col col-lg-7">
+                <jr-datepicker title="开始" time="data.cooperationStart"></jr-datepicker>
+            </div>
+        </div>
+        <div class="modal-group">
+            <label for="cooperationEnd" class="col-lg-5">合作期止：</label>
+            <div class="list-filter-col col-lg-7">
+                <jr-datepicker title="结束" time="data.cooperationEnd"></jr-datepicker>
+            </div>
+        </div>
+        <div class="modal-group">
+            <label for="isRealHouse" class="col-lg-5">是否开通品质房源：</label>
+            <div class="list-filter-col col-lg-7">
+                <jr-dropdown-button options="queryOptions.isRealHouse" value="data.isRealHouse" class="mw120"></jr-dropdown-button>
+            </div>
+        </div>
+        <div class="modal-group">
+            <label for="isRealHouse" class="col-lg-5">是否开通月付：</label>
+            <div class="list-filter-col col-lg-7">
+                <jr-dropdown-button options="queryOptions.gongyu_yuefu" value="data.gongyu_yuefu" class="mw120"></jr-dropdown-button>
+            </div>
+        </div>
+        <div class="modal-group">
+            <label for="legalPersonName" class="col-lg-5">法人姓名：</label>
+            <div class="group-item col-lg-7">
+                <input type="text" name="legalPersonName" value="" autocomplete="off"  ng-model="data.legalPersonName"/>
+            </div>
+        </div>
+        <div class="modal-group">
+            <label for="legalPersonIdCardText" class="col-lg-5">法人身份证号：</label>
+            <div class="group-item col-lg-7">
+                <input type="text" name="legalPersonIdCardText" value="" autocomplete="off"  ng-model="data.legalPersonIdCardText"/>
+            </div>
+        </div>
+        <div class="modal-group">
+            <label for="legalPersonPhone" class="col-lg-5">法人联系方式：<span class="star">*</span></label>
+            <div class="group-item col-lg-7">
+                <input type="text" name="legalPersonPhone" value="" autocomplete="off"  ng-model="data.legalPersonPhone"/>
+            </div>
+        </div>
+        <div class="modal-group">
+            <label for="actualControllerName" class="col-lg-5">实际控制人姓名：</label>
+            <div class="group-item col-lg-7">
+                <input type="text" name="actualControllerName" value="" autocomplete="off"  ng-model="data.actualControllerName"/>
+            </div>
+        </div>
+        <div class="modal-group">
+            <label for="actualControllerPhone" class="col-lg-5">实际控制人电话：</label>
+            <div class="group-item col-lg-7">
+                <input type="text" name="actualControllerPhone" value="" autocomplete="off"  ng-model="data.actualControllerPhone"/>
+            </div>
+        </div>
+        <div class="modal-group">
+            <label for="financeContactName" class="col-lg-5">财务对接人姓名：</label>
+            <div class="group-item col-lg-7">
+                <input type="text" name="financeContactName" value="" autocomplete="off"  ng-model="data.financeContactName"/>
+            </div>
+        </div>
+        <div class="modal-group">
+            <label for="financeContactPhone" class="col-lg-5">财务对接人电话：</label>
+            <div class="group-item col-lg-7">
+                <input type="text" name="financeContactPhone" value="" autocomplete="off"  ng-model="data.financeContactPhone"/>
+            </div>
+        </div>
+        <div class="modal-group">
+            <label for="provices2" class="col-lg-5">收租卡所在省市：</label>
+            <jr-dropdown-button options="queryOptions.companyProvinceCode" value="data.provinceCode" class="w110" id="provices2" ng-click="provices2()"></jr-dropdown-button>
+            <jr-dropdown-button options="queryOptions.companyCityCode2" value="data.cityCode" class="w110" id="citys2"></jr-dropdown-button>
+
+        </div>
+        <div class="modal-group">
+            <label for="ownerName" class="col-lg-5">收租账户名：</label>
+            <div class="group-item col-lg-7">
+                <input type="text" name="ownerName" value="" autocomplete="off"  ng-model="data.ownerName"/>
+            </div>
+        </div>
+        <div class="modal-group">
+            <label for="rentCollectorPhone" class="col-lg-5">收租账户电话：</label>
+            <div class="group-item col-lg-7">
+                <input type="text" name="rentCollectorPhone" value="" autocomplete="off"  ng-model="data.rentCollectorPhone"/>
+            </div>
+        </div>
+        
+        <div class="modal-group">
+            <label for="accountText" class="col-lg-5">收租银行卡号：</label>
+            <div class="group-item col-lg-7">
+                <input type="text" name="accountText" value="" autocomplete="off"  ng-model="data.accountText" />
+            </div>
+        </div>
+        <div class="modal-group">
+            <label for="bankName" class="col-lg-5">收租卡开户行：</label>
+            <div class="group-item col-lg-7 ui-suggestion">
+                <input type="text" name="bankName" value="" autocomplete="off"  ng-model="data.bankName" ng-change="getBankName('bankName')" ng-blur="clearBankName('bankName')"/>
+                <div class="dropdown-tooltip" ng-if="bankName.length > 0" >
+                    <ul>
+                        <li ng-repeat="name in bankName" ng-click="selectbankName(name.id, name.bankName,'bankName')">
+                            <cite>{{name.bankName}}</cite>
+                        </li>
+                    </ul>
+                </div>
+                <span class="error-info" ng-show="bankNameFlag">
+                    <span>请选择正确的银行名称</span>
+                </span>
+            </div>
+        </div>
+        <div class="modal-group">
+            <label for="branchBankName" class="col-lg-5">收租卡开户支行名称：</label>
+            <div class="group-item col-lg-7">
+                <input type="text" name="branchBankName" value="" autocomplete="off"  ng-model="data.branchBankName" />
+            </div>
+        </div>
+        <div class="modal-group">
+            <label for="bankChain" class="col-lg-5">支行联行号：</label>
+            <div class="group-item col-lg-7">
+                <input type="text" name="bankChain" value="" autocomplete="off"  ng-model="data.bankChain"/>
+            </div>
+        </div>
+        <div class="modal-group">
+            <label for="isQingtuiDaiKou" class="col-lg-5">是否清退代扣：</label>
+            <div class="list-filter-col col-lg-7">
+                <jr-dropdown-button options="queryOptions.isQingtuiDaiKou" value="data.isQingtuiDaiKou" class="mw120" ng-click="changeQT()"></jr-dropdown-button>
+            </div>
+        </div>
+        <div class="modal-group">
+            <label for="isQingtuiDaiKou" class="col-lg-5">是否收违约金：</label>
+            <div class="list-filter-col col-lg-7">
+                <jr-dropdown-button options="queryOptions.isReturnFeeMoney" value="data.isReturnFeeMoney" class="mw120"></jr-dropdown-button>
+            </div>
+        </div>
+        <div class="modal-group">
+            <label for="provices3" class="col-lg-5">清退卡所在省市：</label>
+            <jr-dropdown-button options="queryOptions.companyProvinceCode" value="data.chargeProvinceCode" class="w110" id="provices3" ng-click="provices3()" disabled="qtFlag"></jr-dropdown-button>
+            <jr-dropdown-button options="queryOptions.companyCityCode3" value="data.chargeCityCode" class="w110" id="citys3" disabled="qtFlag"></jr-dropdown-button>
+        </div>
+        <div class="modal-group">
+            <label for="chargeOwnerName" class="col-lg-5">清退账户名：</label>
+            <div class="group-item col-lg-7">
+                <input type="text" name="chargeOwnerName" value="" autocomplete="off"  ng-model="data.chargeOwnerName" ng-disabled="qtFlag"/>
+            </div>
+        </div>
+
+        <div class="modal-group">
+            <label for="chargePhone" class="col-lg-5">清退账户电话：</label>
+            <div class="group-item col-lg-7">
+                <input type="text" name="chargePhone" value="" autocomplete="off"  ng-model="data.chargePhone" ng-disabled="qtFlag"/>
+            </div>
+        </div>
+
+        <div class="modal-group">
+            <label for="chargeOwnerIdCardText" class="col-lg-5">清退账户身份证：</label>
+            <div class="group-item col-lg-7">
+                <input type="text" name="chargeOwnerIdCardText" value="" autocomplete="off"  ng-model="data.chargeOwnerIdCardText" ng-disabled="qtFlag"/>
+            </div>
+        </div>
+
+        <div class="modal-group">
+            <label for="chargeAccountText" class="col-lg-5">清退银行卡号：</label>
+            <div class="group-item col-lg-7">
+                <input type="text" name="chargeAccountText" value="" autocomplete="off"  ng-model="data.chargeAccountText"  ng-disabled="qtFlag"/>
+            </div>
+        </div>
+        
+        <div class="modal-group">
+            <label for="chargeBankName" class="col-lg-5">清退开户行：</label>
+            <div class="group-item col-lg-7 ui-suggestion">
+                <input type="text" name="chargeBankName" value="" autocomplete="off"  ng-model="data.chargeBankName" ng-change="getBankName('chargeBankName')" ng-blur="clearBankName('chargeBankName')"  ng-disabled="qtFlag"/>
+                <div class="dropdown-tooltip" ng-if="chargeBankName.length > 0">
+                    <ul>
+                        <li ng-repeat="name in chargeBankName" ng-click="selectbankName(name.id, name.bankName, 'chargeBankName')">
+                            <cite>{{name.bankName}}</cite>
+                        </li>
+                    </ul>
+                </div>
+                <span class="error-info" ng-show="chargeBankNameFlag">
+                    <span>请选择正确的银行名称</span>
+                </span>
+            </div>
+        </div>
+
+        <div class="modal-group">
+            <label for="chargeBranchBankName" class="col-lg-5">清退开户支行：</label>
+            <div class="group-item col-lg-7">
+                <input type="text" name="chargeBranchBankName" value="" autocomplete="off"  ng-model="data.chargeBranchBankName" ng-disabled="qtFlag"/>
+            </div>
+        </div>
+
+
+       <!-- <div class="modal-group">
+            <label for="briefName">附件：</label>
+            <div class="group-item">
+                <input type="text" id="uploadfile" ng-model="fileurl"><input type="button" id="btn" value="添加附件">
+                <input type="file" id="uploader" nv-file-select="" uploader="uploader" multiple />
+            <div>
+        </div>-->
+    </div>
+    <div class="modal-footer">
+        <p class="error-info">{{errorInfo}}</p>
+        <button class="btn btn-primary btn-submit" ng-click="submit()" type="submit">确定</button>
+        <button class="btn btn-primary btn-cancel" ng-click="$dismiss('cancel')" >取消</button>
+    </div>
+</form>

@@ -1,0 +1,29 @@
+{
+  "success": true,
+  "object": {
+    "alertChangePwd": false,
+    "authority": "all",
+    "enterpriseStatus": "0",
+    "rights": {
+      "optAgentV4": true
+    },
+    "calcQingtuiOverdue": "1",
+    "companyLogo": "http://j1.58cdn.com.cn/jinrong/yuefu/company/menglin.jpg",
+    "appTestCompany": "1",
+    "hasSubCompany": true,
+    "companyName": "58-App测试",
+    "managerUser": {
+      "id": 682481948639105000,
+      "companyId": 632546068705329200,
+      "companyName": "五八测试公寓",
+      "userName": "杨军龙",
+      "password": "15415a7d8d02aebe26ff6ee2a6d14dbc",
+      "rights": "1000-1999",
+      "authority": "all",
+      "recordStatus": 0,
+      "createTime": "Dec 31, 2015 4:42:23 PM",
+      "updateTime": "Dec 31, 2015 4:42:23 PM"
+    },
+    "showMessage": "1"
+  }
+}

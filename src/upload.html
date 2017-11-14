@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html ng-app="app">
+    <!-- $Id: upload.html 12500 2016-01-21 10:04:18Z yangjunlong $ -->
+    <head>
+        <meta charset="utf-8">
+        <title>上传房屋视频</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="shortcut icon" href="http://static.58.com/back/favicon.ico" />
+       
+        <script src="_common/libs/jquery/1.10.2/jquery.js"></script>
+        <script src="../dep/angularjs_1.2.25/angular.min"></script>
+        <script src="../dep/angular-upload-file/angular-file-upload.min.js"></script>
+        
+        <style type="text/css">
+            /* 屏幕适配 */
+            html{font-size: 43px;}
+
+            /*锤子*/
+            @media screen and (min-width: 360px){
+                html {font-size: 48px}
+            }
+
+            /*iphone 6*/
+            @media screen and (min-width: 375px){
+                html {font-size: 50px}
+            }
+
+            /*iphone 6 plus*/
+            @media screen and (min-width: 414px){
+                html {font-size: 55px}
+            }
+
+            @media screen and (min-width: 480px){
+                html {font-size: 64px}
+            }
+
+            @media screen and (min-width: 640px){
+                html {font-size: 85px}
+            }
+
+            @media screen and (min-width: 750px){
+                html {font-size: 100px}
+            }
+
+            @media screen and (min-width: 800px){
+                html {font-size: 107px}
+            }
+
+            body, p{
+                text-align: center;
+                margin:0;
+                padding: 0;
+            }
+
+            .upload-video{
+                position: absolute;
+                top: 0;
+                left: 0;
+                filter: alpha(opacity=0);
+                -moz-opacity: 0;
+                opacity: 0;
+                width: 100%;
+                height: .86rem;
+                cursor: pointer;
+                outline: none;
+            }
+
+            .logo{
+
+            }
+            .logo img{
+                width: 1.44rem;
+                height:1.44rem;
+                display: block;
+                margin: 1.5rem auto;
+            }
+
+            .upload-video-btn{
+                position: relative;
+                margin: 1.7rem 0.75rem 0;
+                height: .86rem;
+                margin-bottom: 0.1rem;
+            }
+
+            .btn-submit{
+                position: absolute;
+                top: 0;
+                left: 0;
+                -webkit-border-radius: .06rem;
+                   -moz-border-radius: .06rem;
+                        border-radius: .06rem;
+                width: 100%;
+                height: .86rem;
+                background-color: #F6923D;
+                font-size: .4rem;
+                color: #fff;
+                border: none;
+                outline: none;
+            }
+
+            .footer{
+                width: 100%;
+                text-align: center;
+                font-size: .2rem;
+                position: absolute;
+                bottom: 2%;
+                color: #aaa;
+            }
+            .error-tip{
+                font-size: .30rem;
+                color: #666;
+            }
+            .error-tip span{
+                border-bottom:1px solid #e7e7e7;
+                padding-bottom: 0.05rem;
+            }
+            .progress-tip{
+                margin: 1.7rem 0.75rem 0.2rem;
+                font-size: .25rem;
+                color: #666;
+            }
+            .progress-bar{
+                height: 0.05rem;
+                background-color: #ccc;
+            }
+
+            video{
+                width: 100%;
+                height: 100%;
+                cursor: pointer;
+                text-align: center;
+                vertical-align: middle;
+                -webkit-transition: all .2s ease-in;
+                transition: all .2s ease-in;
+            }
+            .u-error{
+                text-align: center;
+                color: #666;
+                display: none;
+            }
+            .u-error .icon{
+                width: 1.24rem;
+                height: 1.24rem;
+                margin: 1rem auto;
+                background: url(u-error.png) no-repeat;
+                background-size: contain;
+            }
+            .u-error p{
+                font-size: 0.6rem;
+            }
+            .u-error span{
+                font-size: 0.3rem;
+            }
+            .u-succ{
+                display: none;
+                padding: 0.5rem;
+            }
+            .video-wrap{
+                margin-bottom: 0.3rem;
+            }
+        </style>
+    </head>
+
+    <body ng-controller="CtrlApp">
+        <div class="u-wrap">
+        <div class="logo">
+            <img src="u-logo.png" />
+        </div>
+
+        <div ng-if="item.isUploading" ng-repeat="item in uploader.queue" class="progress-tip">
+            <span>{{item.progress + '%'}}</span>
+            <div class="progress-bar" ng-style="{ 'width': item.progress + '%' }"></div>
+        </div>
+
+        <p ng-if="!uploader.isUploading && !uploader.isUploaded" style="font-size:0.36rem; color:#666">请选择您拍摄该房屋的【秒拍】视频</p>
+        <p ng-if="uploader.isUploading" style="font-size:0.36rem; color:#666">视频上传中，请勿关闭页面！</p>
+        
+        </div>
+        
+        <div class="u-succ">
+        <div class="video-wrap">
+            
+        </div>
+        <p class="error-tip">视频上传成功</p>
+        </div>
+
+        <div class="u-error">
+            <div class="icon"></div>
+            <p>上传失败</p>
+            <span>请检查您的网络连接</span>
+        </div>
+        
+
+        <div ng-if="!uploader.isUploading" class="upload-video-btn clearfix">
+            <button type="submit" class="btn-submit" disabled>选择视频</button>
+            <input type="file" class="upload-video" nv-file-select="" uploader="uploader" multiple="multiple" accept=".mp4" />
+        </div>
+        <p class="error-tip"><span>{{tips}}</span></p>
+        
+        <div class="footer">
+            欢迎使用58月付-品质公寓服务！
+        </div>
+    </body>
+
+    <script type="text/javascript">
+        'use strict';
+        angular
+        .module('app', ['angularFileUpload'])
+        .controller('CtrlApp', ['$scope', 'FileUploader', function($scope, FileUploader) {
+
+        var houseid = getUrlParam('houseid') || 0;
+        var url = getUrlParam('url') || '';
+
+        var uploader = $scope.uploader = new FileUploader({
+            url: decodeURIComponent(url)
+        });
+
+        // FILTERS
+
+        uploader.filters.push({
+            name: 'customFilter',
+            fn: function(item /*{File|FileLikeObject}*/, options) {
+                $scope.tips = '';
+                uploader.queue = [];
+                $('.u-error').hide();
+                $('.u-wrap').show();
+                $('.u-succ').hide();
+                $('.video-wrap').html('');
+
+                var type = item.type.slice(item.type.lastIndexOf('/') + 1);
+                    var allowType = ['mp4'];
+
+                    if(allowType.indexOf(type) == -1){
+                        $scope.tips = '请上传mp4格式的视频!';
+                        return false;
+                    }
+                    if(this.queue.length > 1) {
+                        //TODO 图片数量过多
+                        
+                        return false;
+                    }
+
+                    return true;
+            }
+        });
+
+        // CALLBACKS
+
+        uploader.onWhenAddingFileFailed = function(item /*{File|FileLikeObject}*/, filter, options) {
+            //console.info('onWhenAddingFileFailed', item, filter, options);
+        };
+        uploader.onAfterAddingFile = function(fileItem) {
+            //fileItem.url = fileItem.url + '?realHouseInfoId='+$scope.realHouseInfoId;
+
+            // 添加完文件立刻上传
+            fileItem.upload();
+        };
+        
+        uploader.onSuccessItem = function(fileItem, response, status, headers) {
+            if(response.success) {
+                var video_src = response.object.attachmentUrl;
+                $('.video-wrap').append('<video src="'+video_src+'"></video>');
+
+                $('.u-wrap').hide();
+                $('.u-succ').show();
+            } else {
+                $scope.tips = '上传有误, 重新上传！';
+            }
+
+            //console.log(uploader);
+        };
+        uploader.onErrorItem = function(fileItem, response, status, headers) {
+            // 网络出错
+            // $scope.tips = '上传有误, 重新上传！';
+
+            $('.u-error').show();
+            $('.u-wrap').hide();
+        };
+        
+    }]);
+
+
+    function getUrlParam(name){
+        var temp = location.search.split( name+"=" )[1] || "";
+        return temp.indexOf("&") >= 0 ? temp.split("&")[0] : temp; 
+    }
+    </script>
+</html>

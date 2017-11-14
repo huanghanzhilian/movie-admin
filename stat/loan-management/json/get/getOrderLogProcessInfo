@@ -1,0 +1,128 @@
+{
+  "success": true,
+  "object": {
+    "infoList": [
+      {
+        "date": "2016-11-07",
+        "loanFinishCount": "0",
+        "avgCheckUsedTime": "20.3",
+        "avgFinancingLoanUsedTime": "",
+        "financingFinishCount": "43",
+        "avgLoanUsedTime": "",
+        "avgFinancingUsedTime": "1.2",
+        "unfinishLoanCount": "174",
+        "informMoneyBox": "174"
+      },
+      {
+        "date": "2016-11-06",
+        "loanFinishCount": "164",
+        "avgCheckUsedTime": "16.0",
+        "avgFinancingLoanUsedTime": "23.0",
+        "financingFinishCount": "164",
+        "avgLoanUsedTime": "21.1",
+        "avgFinancingUsedTime": "2.0",
+        "unfinishLoanCount": "0",
+        "informMoneyBox": "164"
+      },
+      {
+        "date": "2016-11-05",
+        "loanFinishCount": "86",
+        "avgCheckUsedTime": "9.4",
+        "avgFinancingLoanUsedTime": "46.7",
+        "financingFinishCount": "86",
+        "avgLoanUsedTime": "43.3",
+        "avgFinancingUsedTime": "3.4",
+        "unfinishLoanCount": "0",
+        "informMoneyBox": "86"
+      },
+      {
+        "date": "2016-11-04",
+        "loanFinishCount": "124",
+        "avgCheckUsedTime": "9.3",
+        "avgFinancingLoanUsedTime": "72.9",
+        "financingFinishCount": "125",
+        "avgLoanUsedTime": "68.8",
+        "avgFinancingUsedTime": "4.1",
+        "unfinishLoanCount": "1",
+        "informMoneyBox": "125"
+      },
+      {
+        "date": "2016-11-03",
+        "loanFinishCount": "147",
+        "avgCheckUsedTime": "6.8",
+        "avgFinancingLoanUsedTime": "25.6",
+        "financingFinishCount": "147",
+        "avgLoanUsedTime": "21.9",
+        "avgFinancingUsedTime": "3.7",
+        "unfinishLoanCount": "0",
+        "informMoneyBox": "147"
+      },
+      {
+        "date": "2016-11-02",
+        "loanFinishCount": "173",
+        "avgCheckUsedTime": "8.1",
+        "avgFinancingLoanUsedTime": "25.8",
+        "financingFinishCount": "173",
+        "avgLoanUsedTime": "22.6",
+        "avgFinancingUsedTime": "3.2",
+        "unfinishLoanCount": "0",
+        "informMoneyBox": "173"
+      },
+      {
+        "date": "2016-11-01",
+        "loanFinishCount": "219",
+        "avgCheckUsedTime": "15.6",
+        "avgFinancingLoanUsedTime": "24.8",
+        "financingFinishCount": "219",
+        "avgLoanUsedTime": "21.2",
+        "avgFinancingUsedTime": "3.7",
+        "unfinishLoanCount": "0",
+        "informMoneyBox": "219"
+      },
+      {
+        "date": "2016-10-31",
+        "loanFinishCount": "351",
+        "avgCheckUsedTime": "21.9",
+        "avgFinancingLoanUsedTime": "27.2",
+        "financingFinishCount": "351",
+        "avgLoanUsedTime": "22.8",
+        "avgFinancingUsedTime": "4.5",
+        "unfinishLoanCount": "0",
+        "informMoneyBox": "351"
+      },
+      {
+        "date": "2016-10-30",
+        "loanFinishCount": "144",
+        "avgCheckUsedTime": "16.4",
+        "avgFinancingLoanUsedTime": "24.1",
+        "financingFinishCount": "144",
+        "avgLoanUsedTime": "22.1",
+        "avgFinancingUsedTime": "1.9",
+        "unfinishLoanCount": "0",
+        "informMoneyBox": "144"
+      },
+      {
+        "date": "2016-10-29",
+        "loanFinishCount": "115",
+        "avgCheckUsedTime": "16.5",
+        "avgFinancingLoanUsedTime": "47.8",
+        "financingFinishCount": "115",
+        "avgLoanUsedTime": "45.0",
+        "avgFinancingUsedTime": "2.8",
+        "unfinishLoanCount": "0",
+        "informMoneyBox": "115"
+      }
+    ],
+    "pageNum": 1,
+    "pageSize": 10,
+    "totalPage": 40,
+    "totalCount": 396,
+    "defaultPageNum": "10",
+    "__isset_bit_vector": [
+      1,
+      1,
+      1,
+      1
+    ]
+  }
+}

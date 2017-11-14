@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "",
+  "object": {
+    "infoList": [
+      {
+        "id": "1",
+        "rentArea": "99.99",
+        "createTime": "2015-11-24 10:52:39",
+        "title": "酒仙桥 3室2厅 整租",
+        "monthRent": "2500",
+        "publishUserName": "测试者",
+        "houseStatus": "已保存",
+        "canRent": false,
+        "canOffline": false,
+        "canPublish": false,
+        "canDel": false,
+        "canEdit": true
+      }
+    ],
+    "pageNum": 0,
+    "pageSize": 0,
+    "totalPage": 0,
+    "totalCount": 1
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "success": true,
+  "object": {
+    "base": {
+      "dataMap": {
+        "distributeOrderSwitch": "1",
+        "rightUrls": "/manage/agent-v4/json/update/forbiddenAgent"
+      }
+    },
+    "id": "88",
+    "userName": "maguohui",
+       "roleId": "101",
+    "password": "a7c5da05b5a4a3db9cdd401ab78b17b9",
+    "loginTime": "2016-11-07 15:46:59.0",
+    "loginIp": "10.252.9.134",
+    "status": "0",
+    "authority": "all",
+    "rights": "JinJian_ResetCheckMan,AgentManage_FreezeAndUnFreeze,JinJian_CheckManQuery,JinJian_ReCheck,JinJian_firstCheckSuper,AgentCompanyManage_Freeze",
+    "optionals": [
+      "ROLE_ID",
+      "PHONE",
+      "EMAIL",
+      "CREATE_TIME",
+      "UPDATE_TIME",
+      "RECORD_STATUS"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "success": true,
+  "object": {
+    "detailNum": 1,
+    "attachmentName": "56655d59d39661559.mp4",
+    "attachmentUrl": "http://test1-10011010.video.myqcloud.com/test/679953874731159552.56655d59d39661559.mp4",
+    "attachmentDesc": "房源视频",
+    "optType": 3,
+    "foreignId": 201512240000016
+  },
+  "message": "上传成功"
+}

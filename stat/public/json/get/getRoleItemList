@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "object": [
+    {
+      "roleDesc": "开发人员",
+      "roleName": "RD",
+      "roleId": "1"
+    },
+    {
+      "roleDesc": "上海客服",
+      "roleName": "ShangHaiCustomerService",
+      "roleId": "3"
+    },
+    {
+      "roleDesc": "审核经理",
+      "roleName": "Audit_ Manager",
+      "roleId": "7"
+    },
+    {
+      "roleDesc": "风控经理",
+      "roleName": "Risk_ Manager",
+      "roleId": "9"
+    },
+    {
+      "roleDesc": "贷后监控",
+      "roleName": "Monitor_AfterLoan",
+      "roleId": "11"
+    },
+    {
+      "roleDesc": "市场专员",
+      "roleName": "Marketing_Specialist",
+      "roleId": "13"
+    },
+    {
+      "roleDesc": "初审人员",
+      "roleName": "check_first",
+      "roleId": "15"
+    },
+    {
+      "roleDesc": "复审人员",
+      "roleName": "check_second",
+      "roleId": "17"
+    },
+    {
+      "roleDesc": "财务专员",
+      "roleName": "Finance_User",
+      "roleId": "19"
+    },
+    {
+      "roleDesc": "大58财务",
+      "roleName": "58_Finance",
+      "roleId": "37"
+    },
+    {
+      "roleDesc": "拜访记录",
+      "roleName": "Stat_CallRecords",
+      "roleId": "39"
+    },
+    {
+      "roleDesc": "超级管理员",
+      "roleName": "superAdmin",
+      "roleId": "43"
+    }
+  ]
+}

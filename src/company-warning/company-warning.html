@@ -1,0 +1,93 @@
+<link rel="stylesheet" href="company-warning.less?__inline">
+<div class="thumbnail clearfix pt pb">
+    <form name="searchForm" novalidate>
+        <div class="clearfix">
+            <div class="list-filter-col">
+                <input type="text" class="form-control" ng-model="queryParams.briefName" jr-placeholder="公寓名称" style="width:150px;"/>
+            </div>
+            <div class="list-filter-col">
+                <jr-dropdown-button options="queryOptions.ruleGroup" value="queryParams.ruleGroup" ></jr-dropdown-button>
+            </div>
+            <div class="list-filter-col">
+                <jr-dropdown-button options="queryOptions.warningStatus" value="queryParams.warningStatus" ></jr-dropdown-button>
+            </div>
+            <div class="list-filter-col">
+                <jr-dropdown-button options="queryOptions.triggerType" value="queryParams.triggerType" ></jr-dropdown-button>
+            </div>
+            <div class="list-filter-col">
+                <jr-dropdown-button options="queryOptions.unfreezeType" value="queryParams.unfreezeType" ></jr-dropdown-button>
+            </div>
+            <div class="list-filter-col">
+                <!--<jr-datepicker title="触发时间" time="queryParams.startDate" class="width"></jr-datepicker>-->
+                <jr-datepicker title="触发时间" time="queryParams.startDate" style="width: 140px;"></jr-datepicker>
+            </div>
+            <div class="list-filter-col text" >
+                到
+            </div>
+            <div class="list-filter-col">
+                <jr-datepicker title="触发时间" time="queryParams.endDate" style="width: 140px;"></jr-datepicker>
+            </div>
+
+        </div>
+        <div class="list-filter-col">
+            <!--<jr-datepicker title="触发时间" time="queryParams.startDate" class="width"></jr-datepicker>-->
+            <jr-datepicker title="解除时间" time="queryParams.startUnfreezeDate" style="width: 140px;"></jr-datepicker>
+        </div>
+        <div class="list-filter-col text" >
+            到
+        </div>
+        <div class="list-filter-col">
+            <jr-datepicker title="解除时间" time="queryParams.endUnfreezeDate" style="width: 140px;"></jr-datepicker>
+        </div>
+
+        <div class="list-filter-col">
+            <button class="btn btn-default" type="button" ng-click="clearParams()">清空查询项</button>
+            <button class="btn btn-primary" ng-click="search($event)"><i class="icon icon-search"></i>查找</button>
+        </div>
+    </form>
+</div>
+<table class="table">
+    <col width="100">
+    <col width="80">
+    <col width="150">
+    <col width="80">
+    <col width="120">
+    <col width="80">
+    <col width="80">
+    <col width="80">
+    <col width="120">
+    <col width="80">
+    <thead>
+        <tr>
+            <th>公寓名称</th>
+            <th>类型</th>
+            <th>策略</th>
+            <th>涉及订单</th>
+            <th>触发时间</th>
+            <th>触发方式</th>
+            <th>时效</th>
+            <th>解除方式</th>
+            <th>解除时间</th>
+            <th>是否解决</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        <tr ng-repeat="item in orders.infoList">
+            <td><a ng-href="#/agent-company/{{item.companyid}}" target="_blank">{{item.briefName}}</a></td>
+            <td>{{item.ruleGroup}}</td>
+            <td>{{item.ruleDesc}}</td>
+            <td ng-if="item.warningStatus!=20"><a href="" target="_blank" ng-click="toOrderPage(item)">{{item.relativeOrderCount}}</a></td>
+            <td ng-if="item.warningStatus==20">{{item.relativeOrderCount}}</td>
+            <td>{{item.triggerTime}}</td>
+            <td>{{item.triggerTypeStr}}</td>
+            <td>{{item.timeDealType}}</td>
+            <td>{{item.unfreezeTypeStr}}</td>
+            <td>{{item.optTime}}</td>
+            <td>{{item.warningStatusStr}}</td>
+
+        </tr>
+    </tbody>
+</table>
+<!--<pagination total-items="orders.totalCount" page="orders.pageNum" max-size="9"></pagination>-->
+<ul jr-pagination total-items="orders.totalCount" page="orders.pageNum" items-per-page="orders.pageSize"></ul>

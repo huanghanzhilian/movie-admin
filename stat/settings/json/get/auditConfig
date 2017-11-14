@@ -1,0 +1,3752 @@
+{
+  "success": true,
+  "object": {
+    "citys": {
+      "成都市": [
+        {
+          "id": "637089507551756288",
+          "companyName": "四川意合居信息技术有限公司",
+          "city": "成都市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "640790706226479104",
+          "companyName": "成都贝客信息科技有限公司",
+          "city": "成都市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "642216965028450304",
+          "companyName": "成都帝维网络科技有限公司",
+          "city": "成都市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "642239221523816448",
+          "companyName": "成都菜鸟白领酒店管理有限公司",
+          "city": "成都市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "653491889617510400",
+          "companyName": "成都美寓酒店管理有限公司",
+          "city": "成都市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "656746409768263680",
+          "companyName": "四川果果生活科技有限公司",
+          "city": "成都市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "656775135910445056",
+          "companyName": "如米",
+          "city": "成都市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "658609386335256576",
+          "companyName": "成都专注科技有限公司",
+          "city": "成都市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "660046254494982144",
+          "companyName": "成都万屋信息技术有限公司",
+          "city": "成都市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "660102379697344512",
+          "companyName": "四川玥华物业管理有限公司",
+          "city": "成都市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "661082046038286336",
+          "companyName": "成都地和房地产经纪有限公司",
+          "city": "成都市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "661786019946831872",
+          "companyName": "成都住哪儿网络科技有限公司",
+          "city": "成都市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "662153288682057728",
+          "companyName": "成都创居科技有限公司",
+          "city": "成都市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "669442756724142080",
+          "companyName": "成都美佳源资产管理有限公司",
+          "city": "成都市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "682123314751086592",
+          "companyName": "成都米友科技股份有限公司",
+          "city": "成都市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "701626667335970816",
+          "companyName": "成都品家居房地产营销策划有限公司",
+          "city": "成都市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "703117677215903744",
+          "companyName": "四川蜂巢小筑酒店管理有限公司",
+          "city": "成都市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "707439037157236736",
+          "companyName": "成都品合祐德科技有限公司",
+          "city": "成都市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "714338041849729024",
+          "companyName": "四川省创客汇科技有限公司",
+          "city": "成都市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "717301363188461568",
+          "companyName": "成都恒水网络科技有限公司",
+          "city": "成都市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "720189725561868288",
+          "companyName": "成都房塔屋物业管理有限公司",
+          "city": "成都市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "720560014875459584",
+          "companyName": "成都天禄房地产经纪有限公司",
+          "city": "成都市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "720884255068016640",
+          "companyName": "成都专注科技有限公司二部",
+          "city": "成都市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "720919605408718848",
+          "companyName": "成都专注科技有限公司三部",
+          "city": "成都市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "724904806883295232",
+          "companyName": "成都乐巢信息技术有限公司",
+          "city": "成都市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "725298974029803520",
+          "companyName": "成都自由自宅网络科技有限公司",
+          "city": "成都市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "732129247690260480",
+          "companyName": "成都智造家科技有限公司",
+          "city": "成都市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "733558863017574400",
+          "companyName": "四川尚元房地产经纪有限公司",
+          "city": "成都市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "740100983438209024",
+          "companyName": "成都美宿美栖科技有限公司",
+          "city": "成都市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "745815175692570624",
+          "companyName": "四川专注匠心科技有限公司",
+          "city": "成都市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "750540317370896384",
+          "companyName": "成都普天同创科技有限公司",
+          "city": "成都市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "752342325761441792",
+          "companyName": "成都市浩邻房屋经纪有限公司",
+          "city": "成都市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "752379246105624576",
+          "companyName": "成都租窝网络科技有限公司",
+          "city": "成都市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "753151709500440576",
+          "companyName": "四川喜蜗信息科技有限公司",
+          "city": "成都市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "789024033663381504",
+          "companyName": "成都优易居房地产营销策划有限公司",
+          "city": "成都市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        }
+      ],
+      "厦门市": [
+        {
+          "id": "706736022335021056",
+          "companyName": "厦门市青友信息科技有限公司",
+          "city": "厦门市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        }
+      ],
+      "南京市": [
+        {
+          "id": "641886322830622721",
+          "companyName": "江苏贝客邦投资管理有限公司",
+          "city": "南京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "674831700869521408",
+          "companyName": "江苏朗寓商业管理有限公司",
+          "city": "南京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "689700653995413504",
+          "companyName": "南京联客物业管理有限公司",
+          "city": "南京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "699146301719207937",
+          "companyName": "南京小鹿家资产管理有限公司",
+          "city": "南京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "699149871675899904",
+          "companyName": "南京麦享家物业管理有限公司",
+          "city": "南京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "711880628135559168",
+          "companyName": "南京自在寓资产管理有限公司",
+          "city": "南京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "712526053549047808",
+          "companyName": "江苏米陌资产管理有限公司",
+          "city": "南京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "755329860368367616",
+          "companyName": "江苏未来域酒店管理有限公司",
+          "city": "南京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "760301174816538624",
+          "companyName": "南京域满天下资产管理有限公司",
+          "city": "南京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "770875746720710656",
+          "companyName": "运营中心",
+          "city": "南京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "770876738061238272",
+          "companyName": "运营中心",
+          "city": "南京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "770877032094527488",
+          "companyName": "运营中心",
+          "city": "南京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "770877416850608128",
+          "companyName": "运营中心",
+          "city": "南京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "770877742815141888",
+          "companyName": "运营中心",
+          "city": "南京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        }
+      ],
+      "济南市": [
+        {
+          "id": "648346085386895360",
+          "companyName": "济南U家青年公寓",
+          "city": "济南市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "659929863875989504",
+          "companyName": "济南青年物业管理有限公司",
+          "city": "济南市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "664382094729822208",
+          "companyName": "济南哈考特不动产经纪有限公司",
+          "city": "济南市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "664384317287317504",
+          "companyName": "山东一托房地产经纪有限公司",
+          "city": "济南市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "669403517714186240",
+          "companyName": "济南淘房不动产经纪有限公司",
+          "city": "济南市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "671555527221710848",
+          "companyName": "山东寓到家公寓管理有限公司",
+          "city": "济南市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "672730340460081152",
+          "companyName": "济南柠果房地产经纪有限公司",
+          "city": "济南市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "676251377520885760",
+          "companyName": "济南宝阳房地产咨询有限公司",
+          "city": "济南市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "679213026896777216",
+          "companyName": "济南金牌管家房地产经纪有限公司",
+          "city": "济南市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "715115231822499840",
+          "companyName": "济南简尚商务服务有限公司",
+          "city": "济南市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "715813719757586432",
+          "companyName": "山东乐租物业管理有限公司",
+          "city": "济南市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "736099400945790976",
+          "companyName": "山东不期而遇商务服务有限公司",
+          "city": "济南市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "745460429383303168",
+          "companyName": "济南思拓物业管理有限公司",
+          "city": "济南市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        }
+      ],
+      "长春市": [
+        {
+          "id": "652377168650706944",
+          "companyName": "长春市富恒房地产经纪有限公司",
+          "city": "长春市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        }
+      ],
+      "西安市": [
+        {
+          "id": "634265272169021440",
+          "companyName": "西安好熙家房屋托管有限公司",
+          "city": "西安市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "641912917758849024",
+          "companyName": "西安拾光盒物业管理有限公司",
+          "city": "西安市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "652043092592955392",
+          "companyName": "陕西壹人壹家资产管理有限公司",
+          "city": "西安市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "688249524904292352",
+          "companyName": "西安万科商业运营管理有限公司第四分公司",
+          "city": "西安市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "699561165394575360",
+          "companyName": "西安美遇物业有限公司",
+          "city": "西安市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "715811027144429568",
+          "companyName": "西安市浩云房地产营销策划有限责任公司",
+          "city": "西安市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "723032925548859392",
+          "companyName": "西安乐生活物业管理有限公司",
+          "city": "西安市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "732476078794235904",
+          "companyName": "陕西许愿商务信息咨询有限公司",
+          "city": "西安市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "748345660650061824",
+          "companyName": "西安墨果网络科技有限公司",
+          "city": "西安市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        }
+      ],
+      "苏州市": [
+        {
+          "id": "725517557515190272",
+          "companyName": "郑州克尔达房地产营销策划有限公司苏州分公司",
+          "city": "苏州市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        }
+      ],
+      "青岛市": [
+        {
+          "id": "659264647517442049",
+          "companyName": "青岛华夏管家不动产管理咨询有限公司",
+          "city": "青岛市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "687536918316994560",
+          "companyName": "一站快租",
+          "city": "青岛市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "702787338190741504",
+          "companyName": "青岛美加房地产营销策划有限公司",
+          "city": "青岛市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "717291363795755008",
+          "companyName": "青岛悦家伟业房产经纪咨询有限公司",
+          "city": "青岛市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        }
+      ],
+      "合肥市": [
+        {
+          "id": "640790708822745088",
+          "companyName": "安徽荣尊房屋托管有限公司",
+          "city": "合肥市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "642194390785212416",
+          "companyName": "合肥佳木房地产投资咨询有限公司",
+          "city": "合肥市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "642241530395901952",
+          "companyName": "合肥孟邻资产管理有限公司",
+          "city": "合肥市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "670071804202594304",
+          "companyName": "合肥永辉房地产销售代理有限公司",
+          "city": "合肥市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "699074699992260608",
+          "companyName": "合肥悦客艾家投资管理有限公司",
+          "city": "合肥市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "704590079129051137",
+          "companyName": "合肥优尚美家信息科技有限公司",
+          "city": "合肥市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "720527954110607360",
+          "companyName": "合肥乐橙置业有限公司",
+          "city": "合肥市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "722021803588878336",
+          "companyName": "安徽一地故乡资产管理有限公司",
+          "city": "合肥市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "750218774426181632",
+          "companyName": "合肥居欣缘房屋托管服务有限公司",
+          "city": "合肥市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "752341301617250304",
+          "companyName": "安徽梦梵商务管理有限公司",
+          "city": "合肥市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "770472226502758400",
+          "companyName": "包河店",
+          "city": "合肥市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        }
+      ],
+      "石家庄市": [
+        {
+          "id": "664378540627607552",
+          "companyName": "石家庄淘房客商贸有限公司",
+          "city": "石家庄市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        }
+      ],
+      "杭州市": [
+        {
+          "id": "653526091486470144",
+          "companyName": "杭州溯品信息科技有限公司",
+          "city": "杭州市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "672718974546350080",
+          "companyName": "杭州房家加资产管理有限公司",
+          "city": "杭州市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "675649511267250176",
+          "companyName": "杭州筑巢网络技术有限公司",
+          "city": "杭州市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "680268973069049856",
+          "companyName": "杭州驻客网络技术有限公司",
+          "city": "杭州市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "682128518519201792",
+          "companyName": "杭州爱上租科技有限公司",
+          "city": "杭州市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "688221577484992512",
+          "companyName": "杭州禾家资产管理有限公司",
+          "city": "杭州市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "689702927039758336",
+          "companyName": "杭州米屋信息技术有限公司",
+          "city": "杭州市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "702680518046535680",
+          "companyName": "广州窝趣公寓管理有限公司",
+          "city": "杭州市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "720535258222592000",
+          "companyName": "杭州坤维房地产咨询代理有限公司",
+          "city": "杭州市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "750540098239492096",
+          "companyName": "杭州随寓网络科技有限公司",
+          "city": "杭州市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "750634383869767680",
+          "companyName": "杭州诚客嘉园房地产咨询有限公司",
+          "city": "杭州市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        }
+      ],
+      "上海市": [
+        {
+          "id": "638534065934315520",
+          "companyName": "寓见资产管理（上海）有限公司",
+          "city": "上海市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "670130618499076096",
+          "companyName": "上海租乐投资管理有限公司",
+          "city": "上海市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "674449061020966912",
+          "companyName": "上海展客商务信息咨询有限公司",
+          "city": "上海市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "680264255202672640",
+          "companyName": "哈考特房地产经纪（上海）有限公司",
+          "city": "上海市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "690376859048759296",
+          "companyName": "摩居（上海）资产管理有限公司",
+          "city": "上海市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "699483017168576512",
+          "companyName": "上海壹火网络科技有限公司",
+          "city": "上海市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "727435336795316224",
+          "companyName": "上海湟跃实业有限公司",
+          "city": "上海市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "740065950212050944",
+          "companyName": "上海晨家投资管理有限公司",
+          "city": "上海市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "750941420323368960",
+          "companyName": "上海曹杰投资管理有限公司",
+          "city": "上海市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "752398469271941120",
+          "companyName": "上海众寓公寓管理有限公司",
+          "city": "上海市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "753174147277815808",
+          "companyName": "上海小寓信息科技有限公司",
+          "city": "上海市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        }
+      ],
+      "郑州市": [
+        {
+          "id": "641186871702982656",
+          "companyName": "河南魔飞房屋租赁(分租)有限公司",
+          "city": "郑州市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "644733383678640128",
+          "companyName": "郑州福万家房地产营销策划有限公司",
+          "city": "郑州市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "655955969800417280",
+          "companyName": "河南百斯通房地产营销策划有限公司",
+          "city": "郑州市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "662178232237309952",
+          "companyName": "河南米客之家信息技术有限公司",
+          "city": "郑州市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "663973530446073856",
+          "companyName": "河南悦如资产管理有限公司",
+          "city": "郑州市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "666856613428084736",
+          "companyName": "河南魔飞房屋租赁(整租)有限公司",
+          "city": "郑州市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "667250355054059520",
+          "companyName": "河南鸿康企业管理咨询有限公司",
+          "city": "郑州市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "667644192486330368",
+          "companyName": "郑州鑫丰房地产营销策划有限公司",
+          "city": "郑州市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "669799517876396032",
+          "companyName": "河南福满堂房地产营销策划有限公司",
+          "city": "郑州市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "671547140190777344",
+          "companyName": "郑州良佣房地产营销策划有限公司",
+          "city": "郑州市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "678133188551254016",
+          "companyName": "北京青柠时尚咨询服务有限公司",
+          "city": "郑州市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "680322609241403392",
+          "companyName": "河南鑫博尔资产管理有限公司",
+          "city": "郑州市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "688220143662157824",
+          "companyName": "郑州青苹果房地产营销策划有限公司",
+          "city": "郑州市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "704905811322757120",
+          "companyName": "郑州厅嗵科技有限公司",
+          "city": "郑州市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "709264592433344512",
+          "companyName": "河南万合居房地产营销策划有限公司",
+          "city": "郑州市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "712565806407385088",
+          "companyName": "郑州市美华房地产营销策划有限公司",
+          "city": "郑州市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "718355601800855552",
+          "companyName": "郑州克尔达房地产营销策划有限公司",
+          "city": "郑州市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "720190853460553728",
+          "companyName": "河南嘉讯房地产营销策划有限公司",
+          "city": "郑州市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "721883639201161216",
+          "companyName": "河南东家房地产营销策划有限公司",
+          "city": "郑州市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "722270824702177280",
+          "companyName": "河南红番茄房地产营销策划有限公司",
+          "city": "郑州市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "724802718635413504",
+          "companyName": "郑州厚泽房地产营销策划有限公司",
+          "city": "郑州市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "727407346384396288",
+          "companyName": "郑州聚龙居房地产营销策划有限公司",
+          "city": "郑州市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "729927269140684800",
+          "companyName": "河南众之鑫房地产营销策划有限公司",
+          "city": "郑州市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "732057797826469888",
+          "companyName": "郑州昆仑房地产营销策划有限公司",
+          "city": "郑州市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "732102309827334144",
+          "companyName": "郑州富悦信息技术有限公司",
+          "city": "郑州市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "751250735210979328",
+          "companyName": "郑州好心情房地产营销策划有限公司",
+          "city": "郑州市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "791209329377169408",
+          "companyName": "郑州澜庭房地产营销策划有限公司",
+          "city": "郑州市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        }
+      ],
+      "北京市": [
+        {
+          "id": "1",
+          "companyName": "公司",
+          "city": "北京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "632546068705329152",
+          "companyName": "58-App测试",
+          "city": "北京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "637184079015448576",
+          "companyName": "北京鹏基伟业房地产经纪有限公司",
+          "city": "北京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "637235140002586624",
+          "companyName": "北京中联盛世房地产经纪有限公司",
+          "city": "北京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "638584744304451584",
+          "companyName": "北京世纪鸿源房地产经纪有限公司",
+          "city": "北京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "640428029713072128",
+          "companyName": "北京鹏基伟业房地产经纪有限公司-安贞店",
+          "city": "北京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "640428031680200704",
+          "companyName": "北京鹏基伟业房地产经纪有限公司-上地店",
+          "city": "北京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "640428032649072640",
+          "companyName": "北京鹏基伟业房地产经纪有限公司-皂君庙店",
+          "city": "北京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "640428033320173568",
+          "companyName": "北京家乐美地房地产经纪有限公司东坝店",
+          "city": "北京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "640428033588600832",
+          "companyName": "北京鹏基伟业房地产经纪有限公司-海淀南路店",
+          "city": "北京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "640428034582646784",
+          "companyName": "北京鹏基伟业房地产经纪有限公司-知春路店",
+          "city": "北京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "640428034624598016",
+          "companyName": "北京鹏基伟业房地产经纪有限公司-青云店",
+          "city": "北京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "640428036075819008",
+          "companyName": "北京家乐美地房地产经纪有限公司芳园里店",
+          "city": "北京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "640428036654641152",
+          "companyName": "北京鹏基伟业房地产经纪有限公司-牡丹园店",
+          "city": "北京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "640428038449803264",
+          "companyName": "北京家乐美地房地产经纪有限公司姚家园店",
+          "city": "北京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "640506212814696448",
+          "companyName": "北京美丽家园房地产经纪有限公司",
+          "city": "北京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "641096921355661312",
+          "companyName": "北京宏创嘉业房地产经纪有限公司",
+          "city": "北京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "645216548088193024",
+          "companyName": "北京沃客乐居资产管理有限公司",
+          "city": "北京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "646228473643278336",
+          "companyName": "家乐美地",
+          "city": "北京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "659917214295535616",
+          "companyName": "北京世纪鸿源房地产经纪有限公司大牛坊一店",
+          "city": "北京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "659917227385950208",
+          "companyName": "北京世纪鸿源房地产经纪有限公司大牛坊二店",
+          "city": "北京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "659929636922208256",
+          "companyName": "北京世纪鸿源房地产经纪有限公司总部",
+          "city": "北京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "665083979648475136",
+          "companyName": "北京金浩嘉业房地产经纪有限公司",
+          "city": "北京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "667590764779290624",
+          "companyName": "紫梧桐（北京）资产管理有限公司",
+          "city": "北京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "669709657958264832",
+          "companyName": "58-H5测试公寓",
+          "city": "北京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "672733231279255552",
+          "companyName": "青年乐（北京）企业管理有限公司",
+          "city": "北京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "674470940981080064",
+          "companyName": "北京辉煌置地房地产经纪有限公司",
+          "city": "北京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "674839375850254336",
+          "companyName": "北京互联世创资产管理有限公司",
+          "city": "北京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "677336346146119680",
+          "companyName": "北京自然部落科技有限公司",
+          "city": "北京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "678156677152780288",
+          "companyName": "同程（北京）房地产经纪有限公司",
+          "city": "北京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "688236346115911680",
+          "companyName": "北京德信置地房地产经纪有限公司",
+          "city": "北京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "691462900283363328",
+          "companyName": "北京典盛置地房地产经纪有限公司",
+          "city": "北京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "699892287341088768",
+          "companyName": "北京微家投资管理有限公司",
+          "city": "北京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "699894377060794368",
+          "companyName": "北京名远房地产经纪有限公司",
+          "city": "北京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "704202692213374976",
+          "companyName": "北京市安居乐业房地产经济有限公司",
+          "city": "北京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "705289911762182144",
+          "companyName": "成长大象（北京）资产管理有限公司",
+          "city": "北京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "706745398751948801",
+          "companyName": "北京相见缘房地产中介有限公司",
+          "city": "北京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "709308698907934720",
+          "companyName": "北京中投永诚投资管理有限公司",
+          "city": "北京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "711448060319780864",
+          "companyName": "北京英泰佳家信息技术有限公司",
+          "city": "北京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "714336931533582336",
+          "companyName": "北京远江房地产经纪有限公司",
+          "city": "北京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "718347134633529344",
+          "companyName": "北京艾斯家科技有限公司",
+          "city": "北京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "723069175525834752",
+          "companyName": "北京博创嘉业房地产经纪有限公司",
+          "city": "北京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "728069441555816448",
+          "companyName": "北京金华爱家房地产经纪有限公司",
+          "city": "北京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "732782179439890432",
+          "companyName": "北京长宏盛世房地产经纪有限公司",
+          "city": "北京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "734930276672630784",
+          "companyName": "北京宏韵锦城房地产经纪有限公司",
+          "city": "北京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "739741202659696640",
+          "companyName": "北京众联安泰资产管理有限公司",
+          "city": "北京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "750939746796068864",
+          "companyName": "北京龙鼎易居房地产经纪有限公司",
+          "city": "北京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "757498249710952448",
+          "companyName": "包租婆（北京）房地产经纪有限公司",
+          "city": "北京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "760308947788779520",
+          "companyName": "测试",
+          "city": "北京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "764753601561133056",
+          "companyName": "卢红武区域",
+          "city": "北京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "764754514958897152",
+          "companyName": "江国伟区域",
+          "city": "北京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "764755130481405952",
+          "companyName": "谭帅区域",
+          "city": "北京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "764755678572077056",
+          "companyName": "张岩松区域",
+          "city": "北京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "771329361394552832",
+          "companyName": "测试公寓B",
+          "city": "北京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "784949260687790080",
+          "companyName": "北京鹏基伟业房地产经纪有限公司-清华东路店",
+          "city": "北京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "784950380441137152",
+          "companyName": "北京鹏基伟业房地产经纪有限公司-六道口店",
+          "city": "北京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "789313785809633280",
+          "companyName": "北京鸿福嘉业房地产经纪有限公司",
+          "city": "北京市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        }
+      ],
+      "长沙市": [
+        {
+          "id": "642164950462107648",
+          "companyName": "湖南漫生活米窝房屋租赁管理服务有限公司",
+          "city": "长沙市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "642193175217188864",
+          "companyName": "长沙客饰一家网络科技有限公司",
+          "city": "长沙市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "676278687905095680",
+          "companyName": "长沙住哪儿信息技术有限公司",
+          "city": "长沙市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "707440932521267200",
+          "companyName": "湖南咖啡猫网络科技有限公司",
+          "city": "长沙市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "730232115077074944",
+          "companyName": "湖南丁丁花园软装设计有限公司",
+          "city": "长沙市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "745858808382775296",
+          "companyName": "湖南允和物业管理有限公司",
+          "city": "长沙市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "767634096976326656",
+          "companyName": "长沙新链家房地产代理有限公司",
+          "city": "长沙市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "768005845215641600",
+          "companyName": "湖南易安家房地产经纪有限公司",
+          "city": "长沙市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        }
+      ],
+      "沈阳市": [
+        {
+          "id": "703111150044205056",
+          "companyName": "沈阳爱友家物业管理有限公司",
+          "city": "沈阳市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "723095940931547136",
+          "companyName": "沈阳邵氏房管家房地产代理有限公司",
+          "city": "沈阳市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "750961902691053568",
+          "companyName": "沈阳逸客房屋信息咨询有限公司",
+          "city": "沈阳市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        }
+      ],
+      "天津市": [
+        {
+          "id": "667671917737549824",
+          "companyName": "天津市嘉寰房地产置业有限公司",
+          "city": "天津市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "669061602288353280",
+          "companyName": "天津金管家房产经纪有限公司",
+          "city": "天津市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "675210717846056960",
+          "companyName": "天津市青春界资产管理有限公司",
+          "city": "天津市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        }
+      ],
+      "广州市": [
+        {
+          "id": "653527142759403520",
+          "companyName": "GO窝国际青年连锁公寓",
+          "city": "广州市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "704628272457080832",
+          "companyName": "广州团租资产管理有限公司",
+          "city": "广州市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        }
+      ],
+      "重庆市": [
+        {
+          "id": "641460124149354496",
+          "companyName": "重庆管家婆房地产经纪有限公司",
+          "city": "重庆市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "644480988155482112",
+          "companyName": "重庆房博士房地产经纪有限公司",
+          "city": "重庆市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "658934428524875776",
+          "companyName": "重庆新凯房地产经纪有限公司",
+          "city": "重庆市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "674155145877008384",
+          "companyName": "重庆市东牧连城房地顾问有限公司",
+          "city": "重庆市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "675215372030316544",
+          "companyName": "重庆安图房地产经纪有限公司",
+          "city": "重庆市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "709328930477211648",
+          "companyName": "重庆小租乐房地产经纪有限公司",
+          "city": "重庆市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "715117743971532800",
+          "companyName": "重庆市房保姆房产经纪有限责任公司",
+          "city": "重庆市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "715804253037285376",
+          "companyName": "重庆戈立房地产经纪有限公司",
+          "city": "重庆市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "742649841569525760",
+          "companyName": "重庆自由自宅网络科技有限公司",
+          "city": "重庆市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "748399653124337664",
+          "companyName": "重庆众帮房屋经纪有限公司",
+          "city": "重庆市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        }
+      ],
+      "武汉市": [
+        {
+          "id": "641517666636406784",
+          "companyName": "武汉集家投资管理有限公司",
+          "city": "武汉市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "641819361077633024",
+          "companyName": "武汉半橙资产管理有限公司",
+          "city": "武汉市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "642264803867377664",
+          "companyName": "武汉万鸣营销策划有限公司",
+          "city": "武汉市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "659247398249308160",
+          "companyName": "武汉同渊居科技有限公司",
+          "city": "武汉市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "659934500486131712",
+          "companyName": "武汉舒客资产管理有限公司",
+          "city": "武汉市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "661826886975885312",
+          "companyName": "武汉梦想屋房产管理有限公司",
+          "city": "武汉市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "665015385916973056",
+          "companyName": "武汉海豚湾酒店投资管理有限公司",
+          "city": "武汉市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "671975847149711360",
+          "companyName": "武汉大通盛世房地产营销策划有限公司",
+          "city": "武汉市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "714332432081375232",
+          "companyName": "武汉美滋梦投资管理有限公司",
+          "city": "武汉市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "718359267932921856",
+          "companyName": "武汉可遇投资管理有限公司",
+          "city": "武汉市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "719793431915814912",
+          "companyName": "郑州克尔达房地产营销策划有限公司武汉分公司",
+          "city": "武汉市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "724546081970487296",
+          "companyName": "武汉美忆寓房地产经纪有限公司",
+          "city": "武汉市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "728551882615709696",
+          "companyName": "武汉驿栈地产经纪有限公司",
+          "city": "武汉市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "737559139986726912",
+          "companyName": "武汉青春驿站资产管理有限公司",
+          "city": "武汉市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        }
+      ],
+      "深圳市": [
+        {
+          "id": "644482210195324928",
+          "companyName": "深圳好易居科技有限公司",
+          "city": "深圳市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "706737705819598848",
+          "companyName": "深圳市迈芒资产管理有限公司",
+          "city": "深圳市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "737216518701481984",
+          "companyName": "深圳市轻凡酒店管理有限公司",
+          "city": "深圳市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        }
+      ],
+      "十堰市": [
+        {
+          "id": "708240782871519232",
+          "companyName": "湖北省好助手房地产经纪有限公司",
+          "city": "十堰市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        }
+      ],
+      "南宁市": [
+        {
+          "id": "642263910572888064",
+          "companyName": "广西左邻右舍信息科技有限公司",
+          "city": "南宁市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        }
+      ],
+      "太原市": [
+        {
+          "id": "672315590236442624",
+          "companyName": "山西住好点网络科技有限公司",
+          "city": "太原市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        },
+        {
+          "id": "673771236983062528",
+          "companyName": "山西美好时代科技有限公司",
+          "city": "太原市",
+          "optionals": [
+            "FORBIDDEN_FLAG",
+            "BANK_CHAIN",
+            "ACTUAL_CONTROLLER_NAME",
+            "ACTUAL_CONTROLLER_PHONE",
+            "FINANCE_CONTACT_NAME",
+            "FINANCE_CONTACT_PHONE",
+            "IS_CERTIFICATION",
+            "ID_CARD_PIC_URL"
+          ]
+        }
+      ]
+    },
+    "auditors": [
+      "zqm",
+      "chenkai",
+      "杨彩霞",
+      "贾超宇",
+      "王艺潼",
+      "刘发荣",
+      "崔洁",
+      "gqh",
+      "xiedi",
+      "陈立功",
+      "jz",
+      "ltb",
+      "lan",
+      "方永胜",
+      "wangxingguang",
+      "占飞",
+      "金东明",
+      "王欣",
+      "孙长禹",
+      "宁国东",
+      "陈琏妃",
+      "鲁曙浩",
+      "姜路路",
+      "陈丞",
+      "史娜",
+      "张亚利",
+      "李丹",
+      "陈正康",
+      "李雪",
+      "maguohui",
+      "蒋梦茹",
+      "刘志猛",
+      "王韩兴",
+      "涂铭鉴",
+      "田乐",
+      "孙彩萍",
+      "文美玲",
+      "王文昌",
+      "陈凤",
+      "刘志睿",
+      "王津",
+      "王翠萍",
+      "李超",
+      "丁雪峻",
+      "李良宁",
+      "张松",
+      "苏敏",
+      "王静",
+      "徐立梦",
+      "汪倩雯"
+    ]
+  }
+}

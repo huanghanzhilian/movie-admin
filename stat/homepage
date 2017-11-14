@@ -1,0 +1,71 @@
+{
+  "success": true,
+  "object": {
+    "overview": {
+      "repayingSum": {
+        "sum": "1,217,123.3",
+        "data": [
+          {
+            "name": "清退未结清",
+            "value": "236930"
+          },
+          {
+            "name": "清退已结清",
+            "value": "980193.3"
+          }
+        ]
+      },
+      "pushListSum": {
+        "sum": "770",
+        "data": [
+          {
+            "name": "还款中",
+            "value": "678"
+          },
+          {
+            "name": "逾期共计",
+            "value": "0"
+          },
+          {
+            "name": "已还清",
+            "value": "2"
+          },
+          {
+            "name": "清退共计",
+            "value": "78"
+          }
+        ]
+      },
+      "paidListSum": {
+        "sum": "12,771,415.22",
+        "data": [
+          {
+            "name": "已放款总金额",
+            "value": "12612442.1"
+          },
+          {
+            "name": "待放款总金额",
+            "value": "158973.12"
+          }
+        ]
+      },
+      "orderCntSum": {
+        "sum": "970",
+        "data": [
+          {
+            "name": "申请中",
+            "value": "118"
+          },
+          {
+            "name": "申请成功",
+            "value": "770"
+          },
+          {
+            "name": "申请失败",
+            "value": "82"
+          }
+        ]
+      }
+    }
+  }
+}

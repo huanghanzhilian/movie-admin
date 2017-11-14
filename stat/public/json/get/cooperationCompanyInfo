@@ -1,0 +1,131 @@
+{
+  "success": true,
+  "object": {
+    "agentInfo": {
+      "agentName": "杭金毅",
+      "agentIdCard": "413026199002039028",
+      "workStatus": "在职",
+      "wbUserName": "",
+      "agentPhone": "13523559943",
+      "childCompany": "北京青柠"
+    },
+    "bankCardInfo": {
+      "accountText": "6214863715615555",
+      "ownerName": "李燕辉",
+      "bankName": "招商银行",
+      "reservePhone": "",
+      "city": "郑州市"
+    },
+    "rentSituationTable": [
+      {
+        "fieldName": "房间出租数",
+        "fieldValue": "8000套",
+        "isPic": false
+      },
+      {
+        "fieldName": "平均租房价格（月结款额）",
+        "fieldValue": "1,311.86元/套/月",
+        "isPic": false
+      },
+      {
+        "fieldName": "平均租房期限（借款期限）",
+        "fieldValue": "10.36个月",
+        "isPic": false
+      },
+      {
+        "fieldName": "逾期数量/占比",
+        "fieldValue": "11套/0.01%",
+        "isPic": false
+      },
+      {
+        "fieldName": "清退数量/占比",
+        "fieldValue": "420套/20.15%",
+        "isPic": false
+      }
+    ],
+    "companyTable": {
+      "legalPersonIdCard": "410105197407261612",
+      "legalPersonPhone": "15503716078(郑州)",
+      "legalPersonName": "李燕辉",
+      "companyName": "北京青柠时尚咨询服务有限公司",
+      "briefName": "北京青柠"
+    },
+    "financeCondition": {
+      "zjqk": "72.00%"
+    },
+    "chargeBankCardInfo": {
+      "accountText": "6214863715615555",
+      "ownerName": "李燕辉",
+      "bankName": "招商银行",
+      "reservePhone": "15503716078",
+      "city": "北京市"
+    },
+    "rentHouseMonitorTable": [
+      {
+        "fieldName": "企业授信额度",
+        "fieldValue": "20,000,000.00元",
+        "isPic": false
+      },
+      {
+        "fieldName": "已放款总笔数",
+        "fieldValue": "2084笔",
+        "isPic": false
+      },
+      {
+        "fieldName": "已放款总金额",
+        "fieldValue": "28,315,259.00元",
+        "isPic": false
+      },
+      {
+        "fieldName": "已还款总金额",
+        "fieldValue": "9,473,730.00元",
+        "isPic": false
+      },
+      {
+        "fieldName": "待放款总金额",
+        "fieldValue": "94,455.00元",
+        "isPic": false
+      },
+      {
+        "fieldName": "未还款总金额",
+        "fieldValue": "14,494,072.00元",
+        "isPic": false
+      },
+      {
+        "fieldName": "逾期总金额",
+        "fieldValue": "16,180.00元",
+        "isPic": false
+      },
+      {
+        "fieldName": "清退总金额",
+        "fieldValue": "5,655,650.00元",
+        "isPic": false
+      },
+      {
+        "fieldName": "当月已放款笔数",
+        "fieldValue": "30笔",
+        "isPic": false
+      },
+      {
+        "fieldName": "当月已放款金额",
+        "fieldValue": "412,575.00元",
+        "isPic": false
+      },
+      {
+        "fieldName": "当月待放款笔数",
+        "fieldValue": "7笔",
+        "isPic": false
+      },
+      {
+        "fieldName": "当月待放款金额",
+        "fieldValue": "94,455.00元",
+        "isPic": false
+      },
+      {
+        "fieldName": "当月剩余信用金额",
+        "fieldValue": "19,492,970.00元",
+        "isPic": false
+      }
+    ]
+  }
+}

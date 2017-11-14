@@ -1,0 +1,44 @@
+{
+    "success": true,
+    "object": {
+        "infoList": [
+            {
+                "id": "700566963318968320",
+                 "houseid": "201601160000021",//房屋编号
+                "houseInfo": "珞狮南路 2室1厅 整租",//房屋名称
+                "visitorNum":1,//访客数
+                "clickNum":1,//点击数
+                "allCallNum":1,//总通话次数
+                "allCallTimeLength":1,//总通话时长
+                "callPhone":"15101175662",//主叫号码，被叫号码，通话时间，通话时长
+                "calledPhone":"15101175662",//被叫号码
+                "callTime":"2016-1-1",//通话时间
+                "callTimeLength":"65"通话时长
+            },
+            {
+               "id": "700566963318968320",
+               "houseid": "201601160000021",//房屋编号
+              "houseInfo": "珞狮南路 2室1厅 整租",//房屋名称
+              "visitorNum":1,//访客数
+              "clickNum":1,//点击数
+              "allCallNum":1,//总通话次数
+              "allCallTimeLength":1,//总通话时长
+              "callPhone":"15101175662",//主叫号码，被叫号码，通话时间，通话时长
+              "calledPhone":"15101175662",//被叫号码
+              "callTime":"2016-1-1",//通话时间
+              "callTimeLength":"65"通话时长
+            }
+        ],
+        "pageNum": 1,
+        "pageSize": 10,
+        "totalPage": 1,
+        "totalCount": 3,
+        "defaultPageNum": "10",
+        "__isset_bit_vector": [
+            1,
+            1,
+            1,
+            1
+        ]
+    }
+}

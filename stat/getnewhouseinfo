@@ -1,0 +1,468 @@
+{
+  "success": true,
+  "object": {
+    "selectItem": {
+      "bedRoomTypeList": [
+        {
+          "value": "31",
+          "name": "主卧",
+          "isSelect": false
+        },
+        {
+          "value": "32",
+          "name": "次卧",
+          "isSelect": false
+        }
+      ],
+      "agentList": [
+        {
+          "value": "670813269388169216",
+          "name": "陈立功",
+          "isSelect": false
+        },
+        {
+          "value": "670813269388169217",
+          "name": "zqm测试",
+          "isSelect": false
+        },
+        {
+          "value": "670813623672639488",
+          "name": "谢娣",
+          "isSelect": false
+        },
+        {
+          "value": "682397867649806336",
+          "name": "qqq",
+          "isSelect": false
+        }
+      ],
+      "picLableList": [
+        {
+          "value": "110",
+          "name": "卧室",
+          "isSelect": false
+        },
+        {
+          "value": "111",
+          "name": "客厅",
+          "isSelect": false
+        },
+        {
+          "value": "112",
+          "name": "卫生间",
+          "isSelect": false
+        },
+        {
+          "value": "113",
+          "name": "厨房",
+          "isSelect": false
+        },
+        {
+          "value": "114",
+          "name": "阳台",
+          "isSelect": false
+        },
+        {
+          "value": "115",
+          "name": "餐厅",
+          "isSelect": false
+        },
+        {
+          "value": "116",
+          "name": "外景",
+          "isSelect": false
+        },
+        {
+          "value": "117",
+          "name": "其他",
+          "isSelect": false
+        }
+      ],
+      "detailPointList": [
+        {
+          "value": "71",
+          "name": "床",
+          "isSelect": true,
+          "icon": "http://j1.58cdn.com.cn/jinrong/realhouse/icon/i-tag-1.png"
+        },
+        {
+          "value": "72",
+          "name": "衣柜",
+          "isSelect": true,
+          "icon": "http://j1.58cdn.com.cn/jinrong/realhouse/icon/i-tag-2.png"
+        },
+        {
+          "value": "73",
+          "name": "书桌",
+          "isSelect": true,
+          "icon": "http://j1.58cdn.com.cn/jinrong/realhouse/icon/i-tag-3.png"
+        },
+        {
+          "value": "74",
+          "name": "空调",
+          "isSelect": true,
+          "icon": "http://j1.58cdn.com.cn/jinrong/realhouse/icon/i-tag-4.png"
+        },
+        {
+          "value": "75",
+          "name": "暖气",
+          "isSelect": false,
+          "icon": "http://j1.58cdn.com.cn/jinrong/realhouse/icon/i-tag-5.png"
+        },
+        {
+          "value": "76",
+          "name": "电视机",
+          "isSelect": false,
+          "icon": "http://j1.58cdn.com.cn/jinrong/realhouse/icon/i-tag-6.png"
+        },
+        {
+          "value": "77",
+          "name": "燃气",
+          "isSelect": false,
+          "icon": "http://j1.58cdn.com.cn/jinrong/realhouse/icon/i-tag-7.png"
+        },
+        {
+          "value": "78",
+          "name": "微波炉",
+          "isSelect": false,
+          "icon": "http://j1.58cdn.com.cn/jinrong/realhouse/icon/i-tag-8.png"
+        },
+        {
+          "value": "79",
+          "name": "电磁炉",
+          "isSelect": false,
+          "icon": "http://j1.58cdn.com.cn/jinrong/realhouse/icon/i-tag-9.png"
+        },
+        {
+          "value": "80",
+          "name": "热水器",
+          "isSelect": false,
+          "icon": "http://j1.58cdn.com.cn/jinrong/realhouse/icon/i-tag-10.png"
+        },
+        {
+          "value": "81",
+          "name": "洗衣机",
+          "isSelect": false,
+          "icon": "http://j1.58cdn.com.cn/jinrong/realhouse/icon/i-tag-11.png"
+        },
+        {
+          "value": "82",
+          "name": "冰箱",
+          "isSelect": false,
+          "icon": "http://j1.58cdn.com.cn/jinrong/realhouse/icon/i-tag-12.png"
+        },
+        {
+          "value": "83",
+          "name": "WIFI",
+          "isSelect": false,
+          "icon": "http://j1.58cdn.com.cn/jinrong/realhouse/icon/i-tag-13.png"
+        },
+        {
+          "value": "84",
+          "name": "沙发",
+          "isSelect": false,
+          "icon": "http://j1.58cdn.com.cn/jinrong/realhouse/icon/i-tag-21.png"
+        },
+        {
+          "value": "85",
+          "name": "橱柜",
+          "isSelect": false,
+          "icon": "http://j1.58cdn.com.cn/jinrong/realhouse/icon/i-tag-22.png"
+        },
+        {
+          "value": "86",
+          "name": "油烟机",
+          "isSelect": false,
+          "icon": "http://j1.58cdn.com.cn/jinrong/realhouse/icon/i-tag-23.png"
+        }
+      ],
+      "servicePointList": [
+        {
+          "value": "91",
+          "name": "健身房",
+          "isSelect": false,
+          "icon": "http://j1.58cdn.com.cn/jinrong/realhouse/icon/i-tag-14.png"
+        },
+        {
+          "value": "92",
+          "name": "公寓超市",
+          "isSelect": false,
+          "icon": "http://j1.58cdn.com.cn/jinrong/realhouse/icon/i-tag-15.png"
+        },
+        {
+          "value": "93",
+          "name": "智能门锁",
+          "isSelect": false,
+          "icon": "http://j1.58cdn.com.cn/jinrong/realhouse/icon/i-tag-16.png"
+        },
+        {
+          "value": "94",
+          "name": "ATM机",
+          "isSelect": false,
+          "icon": "http://j1.58cdn.com.cn/jinrong/realhouse/icon/i-tag-17.png"
+        },
+        {
+          "value": "95",
+          "name": "代收快递",
+          "isSelect": false,
+          "icon": "http://j1.58cdn.com.cn/jinrong/realhouse/icon/i-tag-18.png"
+        },
+        {
+          "value": "96",
+          "name": "专属客服",
+          "isSelect": false,
+          "icon": "http://j1.58cdn.com.cn/jinrong/realhouse/icon/i-tag-19.png"
+        },
+        {
+          "value": "97",
+          "name": "房间清洁",
+          "isSelect": false,
+          "icon": "http://j1.58cdn.com.cn/jinrong/realhouse/icon/i-tag-20.png"
+        }
+      ],
+      "rejectUsersList": [
+        {
+          "value": "101",
+          "name": "已经退休的爷爷奶奶们",
+          "isSelect": false
+        },
+        {
+          "value": "102",
+          "name": "50岁以上的单身大叔",
+          "isSelect": false
+        },
+        {
+          "value": "103",
+          "name": "制造噪音打扰邻居的朋友们",
+          "isSelect": false
+        },
+        {
+          "value": "104",
+          "name": "离开吸烟不能装酷耍帅的朋友",
+          "isSelect": false
+        },
+        {
+          "value": "105",
+          "name": "“霸气冲天”的土豪小伙",
+          "isSelect": false
+        },
+        {
+          "value": "106",
+          "name": "带领小baby的入住的年轻父母",
+          "isSelect": false
+        },
+        {
+          "value": "107",
+          "name": "乱扔垃圾，不爱护环境的小伙伴",
+          "isSelect": false
+        },
+        {
+          "value": "108",
+          "name": "学历低于大专的小伙伴",
+          "isSelect": false
+        },
+        {
+          "value": "109",
+          "name": "无宠物不欢，无宠物不能生活，无宠物不能自理的小伙伴",
+          "isSelect": false
+        }
+      ],
+      "styleTagList": [
+        {
+          "value": "21",
+          "name": "清新蓝",
+          "isSelect": false
+        },
+        {
+          "value": "22",
+          "name": "浪漫粉",
+          "isSelect": false
+        },
+        {
+          "value": "23",
+          "name": "白加黑",
+          "isSelect": false
+        },
+        {
+          "value": "24",
+          "name": "拿铁咖啡",
+          "isSelect": false
+        },
+        {
+          "value": "25",
+          "name": "阳关绿",
+          "isSelect": false
+        }
+      ],
+      "faceToTypeList": [
+        {
+          "value": "60",
+          "name": "东",
+          "isSelect": false
+        },
+        {
+          "value": "61",
+          "name": "南",
+          "isSelect": false
+        },
+        {
+          "value": "62",
+          "name": "西",
+          "isSelect": false
+        },
+        {
+          "value": "63",
+          "name": "北",
+          "isSelect": false
+        },
+        {
+          "value": "64",
+          "name": "东南",
+          "isSelect": false
+        },
+        {
+          "value": "65",
+          "name": "西南",
+          "isSelect": false
+        },
+        {
+          "value": "66",
+          "name": "东北",
+          "isSelect": false
+        },
+        {
+          "value": "67",
+          "name": "西北",
+          "isSelect": false
+        },
+        {
+          "value": "68",
+          "name": "东西",
+          "isSelect": false
+        },
+        {
+          "value": "69",
+          "name": "南北",
+          "isSelect": false
+        }
+      ],
+      "featureTagList": [
+        {
+          "value": "10",
+          "name": "离地铁近",
+          "isSelect": false,
+          "icon": "subway"
+        },
+        {
+          "value": "11",
+          "name": "独立阳台",
+          "isSelect": false
+        },
+        {
+          "value": "12",
+          "name": "独立卫生间",
+          "isSelect": false,
+          "icon": "wc"
+        },
+        {
+          "value": "13",
+          "name": "厨房",
+          "isSelect": false
+        },
+        {
+          "value": "14",
+          "name": "公共阳台",
+          "isSelect": false,
+          "icon": "wc"
+        },
+        {
+          "value": "15",
+          "name": "公共卫生间",
+          "isSelect": false
+        }
+      ]
+    },
+    "houseInfo": {
+      "houseDesc": "null",
+      "mediaMobileUploadUrl": "/rs/manage/uploadrealhousemediamobile?realHouseInfoId=201512310000029&companyId=666",
+      "count": "null",
+      "queryFieldStr": "null",
+      "street": "null",
+      "cityName": "null",
+      "cityCode": "null",
+      "useYuefu": "null",
+      "moreSqlStr": "null",
+      "provinceName": "null",
+      "styleTag": "null",
+      "housePicMinNum": "9",
+      "rentRoomArea": "null",
+      "subway": "null",
+      "hasVideo": "null",
+      "totalFloor": "null",
+      "mediaSizeLimit": "100",
+      "housePicMaxNum": "24",
+      "shortRent": "null",
+      "houseTitle": "null",
+      "bedRoomNum": "null",
+      "poiId": "null",
+      "updateTime": "null",
+      "monthRent": "null",
+      "expandTableSql": "null",
+      "publishUserName": "admin",
+      "houseContractMaxNum": "3",
+      "companyName": "月付-大脸猫测试公寓",
+      "countyCode": "null",
+      "idStr": "201512310000029",
+      "featureTag": "null",
+      "districtName": "null",
+      "rentStartDateStr": "null",
+      "rentPayType": "null",
+      "faceToType": "null",
+      "houseType": "null",
+      "rejectUsers": "null",
+      "querySize": "null",
+      "createTime": "null",
+      "xCoord": "null",
+      "sort": "null",
+      "houseOptStep": "null",
+      "bedRoomType": "null",
+      "queryStart": "null",
+      "provinceCode": "null",
+      "servicePoint": "null",
+      "rentType": "null",
+      "mediaMobileUploadSign": "201512310000029",
+      "recordStatus": "-2",
+      "remainNum": "null",
+      "id": "201512310000029",
+      "countyName": "null",
+      "rentStartDate": "null",
+      "order": "null",
+      "toiletNum": "null",
+      "totalArea": "null",
+      "detailPoint": "71,72,73,74",
+      "houseFloor": "null",
+      "areaCode": "null",
+      "extraSql": "null",
+      "dataMap": "null",
+      "publishUserId": "1",
+      "agentId": "null",
+      "yCoord": "null",
+      "houseContractMinNum": "1",
+      "templateId": "null",
+      "totalNum": "null",
+      "livingRoomNum": "null",
+      "districtCode": "null",
+      "aroundDesc": "null",
+      "areaName": "null",
+      "address": "null",
+      "agentName": "null",
+      "trafficDesc": "null",
+      "outHouseId": "null",
+      "rentGender": "null",
+      "geotableId": "null",
+      "companyId": "666",
+      "houseStatus": "1000"
+    }
+  },
+  "message": "201512310000029"
+}

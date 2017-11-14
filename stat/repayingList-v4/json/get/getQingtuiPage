@@ -1,0 +1,47 @@
+{
+  "success": true,
+  "object": {
+    "infoList": [
+     {
+           "payAmount": "30000",
+           "orderId": "58984515",
+           "comfirmQingtuiTime": "2017-06-25 18:35:56",
+           "userPhone": "13300000001",
+           "companyName": "函数-美月付公寓",
+           "orderStatusDesc": "清退已结清",
+           "qingtuiTime": "2017-03-25 18:35:56",
+           "agentName": "陈立功",
+           "orderStatus": "6100",
+           "rentTotal": "1040",
+           "userName": "任永利",
+           "feeMoney": "40"
+         },
+            {
+                    "payAmount": "30000",
+                    "orderId": "58984515",
+                    "comfirmQingtuiTime": "2017-06-25 18:35:56",
+                    "userPhone": "13300000001",
+                    "companyName": "函数-美月付公寓",
+                    "orderStatusDesc": "清退已结清",
+                    "qingtuiTime": "2017-03-25 18:35:56",
+                    "agentName": "陈立功",
+                    "orderStatus": "6000",
+                    "rentTotal": "1040",
+                    "userName": "任永利",
+                    "feeMoney": "40"
+                  }
+    ],
+    "pageNum": 1,
+    "pageSize": 10,
+    "totalPage": 35,
+    "totalCount": 344,
+    "defaultPageNum": "10",
+    "__isset_bit_vector": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  "resCode": "0"
+}

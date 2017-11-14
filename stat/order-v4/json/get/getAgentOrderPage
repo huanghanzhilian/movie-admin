@@ -1,0 +1,128 @@
+{
+  "success": true,
+  "object": {
+    "infoList": [
+      {
+        "houseAddress": "1号楼4单元902室1号楼4单元902室1号楼4单元902室1号楼4单元902室1号楼4单元902室",
+        "orderId": "5834120",
+        "createTime": "2016-11-23 14:14:56",
+        "houseCourtName": "北花园小区三号院",
+        "briefName": "世纪鸿源总部",
+        "orderStatus": "人工确认中",
+        "agentName": "周拥",
+        "userId": "801308453552287744",
+        "userName": "廉浩"
+      },
+      {
+        "houseAddress": "1号楼3单元201C",
+        "orderId": "5827948",
+        "createTime": "2016-11-19 19:17:07",
+        "houseCourtName": "高碑店北花园小区",
+        "briefName": "世纪鸿源",
+        "orderStatus": "还款中",
+        "agentName": "韩笑然",
+        "userId": "799935105110929408",
+        "userName": "焦程浩"
+      },
+      {
+        "houseAddress": "9号楼1门101室",
+        "orderId": "28744",
+        "createTime": "2016-03-05 12:18:48",
+        "houseCourtName": "六里屯二区",
+        "briefName": "世纪鸿源大牛坊一店",
+        "orderStatus": "已还清",
+        "agentName": "陈坤",
+        "userId": "705970951992410113",
+        "userName": "陈佳锋"
+      },
+      {
+        "houseAddress": "2-4-802",
+        "orderId": "3641260",
+        "createTime": "2016-07-09 16:49:31",
+        "houseCourtName": "六里屯二区",
+        "briefName": "世纪鸿源总部",
+        "orderStatus": "清退已结清",
+        "agentName": "徐龙",
+        "userId": "751675614078988288",
+        "userName": "洪闰辉"
+      },
+      {
+        "houseAddress": "1-3-202次卧",
+        "orderId": "4513579",
+        "createTime": "2016-08-13 14:43:06",
+        "houseCourtName": "六里屯二区",
+        "briefName": "世纪鸿源大牛坊一店",
+        "orderStatus": "清退已结清",
+        "agentName": "程艳武",
+        "userId": "764352192814534656",
+        "userName": "曾爱华"
+      },
+      {
+        "houseAddress": "9号楼1门101",
+        "orderId": "34361",
+        "createTime": "2016-03-29 18:45:02",
+        "houseCourtName": "六里屯二区",
+        "briefName": "世纪鸿源大牛坊一店",
+        "orderStatus": "已还清",
+        "agentName": "陈坤",
+        "userId": "714765827533991936",
+        "userName": "殷小安"
+      },
+      {
+        "houseAddress": "4号楼2单元102室B",
+        "orderId": "3053821",
+        "createTime": "2016-06-30 18:23:20",
+        "houseCourtName": "六里屯二区",
+        "briefName": "世纪鸿源大牛坊一店",
+        "orderStatus": "清退已结清",
+        "agentName": "许海东",
+        "userId": "748462484871999488",
+        "userName": "章俊伟"
+      },
+      {
+        "houseAddress": "9号楼1单元101E间",
+        "orderId": "585599",
+        "createTime": "2016-05-21 19:20:52",
+        "houseCourtName": "六里屯二区",
+        "briefName": "世纪鸿源",
+        "orderStatus": "已还清",
+        "agentName": "肖月",
+        "userId": "667946364344221696",
+        "userName": "付顺才"
+      },
+      {
+        "houseAddress": "10号楼6单元201室",
+        "orderId": "3883638",
+        "createTime": "2016-07-16 11:33:33",
+        "houseCourtName": "六里屯二区",
+        "briefName": "世纪鸿源大牛坊一店",
+        "orderStatus": "清退已结清",
+        "agentName": "吴佳琦",
+        "userId": "754157603331792896",
+        "userName": "刘洋洋"
+      },
+      {
+        "houseAddress": "1号楼3单元202C",
+        "orderId": "4482648",
+        "createTime": "2016-08-11 16:22:24",
+        "houseCourtName": "六里屯二区",
+        "briefName": "世纪鸿源",
+        "orderStatus": "清退已结清",
+        "agentName": "韩笑然",
+        "userId": "763652671725916160",
+        "userName": "郝业鸣"
+      }
+    ],
+    "pageNum": 1,
+    "pageSize": 10,
+    "totalPage": 6,
+    "totalCount": 58,
+    "defaultPageNum": "10",
+    "__isset_bit_vector": [
+      1,
+      1,
+      1,
+      1
+    ]
+  }
+}

@@ -1,0 +1,1 @@
+exclude map,force,scatter,k,radar,chord

@@ -1,0 +1,49 @@
+{
+  "success": true,
+  "object": {
+    "reasons": [
+      {
+        "value": "手持身份证照片没有租客本人",
+        "name": "手持身份证照片没有租客本人",
+        "isSelect": false,
+        "__isset_bit_vector": []
+      },
+      {
+        "value": "手持身份证照片模糊不清",
+        "name": "手持身份证照片模糊不清",
+        "isSelect": false,
+        "__isset_bit_vector": []
+      },
+      {
+        "value": "身份证号码部分被遮住",
+        "name": "身份证号码部分被遮住",
+        "isSelect": false,
+        "__isset_bit_vector": []
+      },
+      {
+        "value": "手持证件非身份证",
+        "name": "手持证件非身份证",
+        "isSelect": false,
+        "__isset_bit_vector": []
+      },
+      {
+        "value": "非租客本人身份证",
+        "name": "非租客本人身份证",
+        "isSelect": false,
+        "__isset_bit_vector": []
+      },
+      {
+        "value": "手持身份证非正面",
+        "name": "手持身份证非正面",
+        "isSelect": false,
+        "__isset_bit_vector": []
+      },
+      {
+        "value": "无租客手持身份证照片",
+        "name": "无租客手持身份证照片",
+        "isSelect": false,
+        "__isset_bit_vector": []
+      }
+    ]
+  }
+}

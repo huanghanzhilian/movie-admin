@@ -1,0 +1,169 @@
+{
+  "success": true,
+  "object": {
+    "reasons": [
+      {
+        "value": "合同缺少租客身份证信息",
+        "name": "合同缺少租客身份证信息",
+        "isSelect": false,
+        "__isset_bit_vector": []
+      },
+      {
+        "value": "租客身份证信息不完整",
+        "name": "租客身份证信息不完整",
+        "isSelect": false,
+        "__isset_bit_vector": []
+      },
+      {
+        "value": "租客身份证信息填写错误",
+        "name": "租客身份证信息填写错误",
+        "isSelect": false,
+        "__isset_bit_vector": []
+      },
+      {
+        "value": "合同缺少租客联系方式",
+        "name": "合同缺少租客联系方式",
+        "isSelect": false,
+        "__isset_bit_vector": []
+      },
+      {
+        "value": "合同与系统提供联系方式不一致",
+        "name": "合同与系统提供联系方式不一致",
+        "isSelect": false,
+        "__isset_bit_vector": []
+      },
+      {
+        "value": "非租客本人联系方式",
+        "name": "非租客本人联系方式",
+        "isSelect": false,
+        "__isset_bit_vector": []
+      },
+      {
+        "value": "合同缺少租住地详细地址",
+        "name": "合同缺少租住地详细地址",
+        "isSelect": false,
+        "__isset_bit_vector": []
+      },
+      {
+        "value": "合同与系统提供租赁地址不一致",
+        "name": "合同与系统提供租赁地址不一致",
+        "isSelect": false,
+        "__isset_bit_vector": []
+      },
+      {
+        "value": "租赁地址错误",
+        "name": "租赁地址错误",
+        "isSelect": false,
+        "__isset_bit_vector": []
+      },
+      {
+        "value": "合同缺少租赁起止日期",
+        "name": "合同缺少租赁起止日期",
+        "isSelect": false,
+        "__isset_bit_vector": []
+      },
+      {
+        "value": "借款期限与租赁期限不符",
+        "name": "借款期限与租赁期限不符",
+        "isSelect": false,
+        "__isset_bit_vector": []
+      },
+      {
+        "value": "合同缺少租金金额",
+        "name": "合同缺少租金金额",
+        "isSelect": false,
+        "__isset_bit_vector": []
+      },
+      {
+        "value": "合同与系统租金金额不符",
+        "name": "合同与系统租金金额不符",
+        "isSelect": false,
+        "__isset_bit_vector": []
+      },
+      {
+        "value": "合同没有盖公章",
+        "name": "合同没有盖公章",
+        "isSelect": false,
+        "__isset_bit_vector": []
+      },
+      {
+        "value": "合同章模糊不清",
+        "name": "合同章模糊不清",
+        "isSelect": false,
+        "__isset_bit_vector": []
+      },
+      {
+        "value": "合同上无租客签字",
+        "name": "合同上无租客签字",
+        "isSelect": false,
+        "__isset_bit_vector": []
+      },
+      {
+        "value": "租客签字连笔看不清楚",
+        "name": "租客签字连笔看不清楚",
+        "isSelect": false,
+        "__isset_bit_vector": []
+      },
+      {
+        "value": "无业主托管合同",
+        "name": "无业主托管合同",
+        "isSelect": false,
+        "__isset_bit_vector": []
+      },
+      {
+        "value": "托管合同租赁日期与租赁合同不符",
+        "name": "托管合同租赁日期与租赁合同不符",
+        "isSelect": false,
+        "__isset_bit_vector": []
+      },
+      {
+        "value": "合同缺页",
+        "name": "合同缺页",
+        "isSelect": false,
+        "__isset_bit_vector": []
+      },
+      {
+        "value": "合同照片放大后无法看清楚",
+        "name": "合同照片放大后无法看清楚",
+        "isSelect": false,
+        "__isset_bit_vector": []
+      },
+      {
+        "value": "非本人租赁合同",
+        "name": "非本人租赁合同",
+        "isSelect": false,
+        "__isset_bit_vector": []
+      },
+      {
+        "value": "合同模糊不清",
+        "name": "合同模糊不清",
+        "isSelect": false,
+        "__isset_bit_vector": []
+      },
+      {
+        "value": "合同签字日期有误",
+        "name": "合同签字日期有误",
+        "isSelect": false,
+        "__isset_bit_vector": []
+      },
+      {
+        "value": "合同联系方式填写错误",
+        "name": "合同联系方式填写错误",
+        "isSelect": false,
+        "__isset_bit_vector": []
+      },
+      {
+        "value": "合同租赁起止日期填写错误",
+        "name": "合同租赁起止日期填写错误",
+        "isSelect": false,
+        "__isset_bit_vector": []
+      },
+      {
+        "value": "合同租金大小写不一致",
+        "name": "合同租金大小写不一致",
+        "isSelect": false,
+        "__isset_bit_vector": []
+      }
+    ]
+  }
+}

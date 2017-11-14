@@ -1,0 +1,118 @@
+{
+  "success": true,
+  "object": {
+    "infoList": [
+      {
+        "orderId": "637242321410199552",
+        "visitMsg": "未回访",
+        "status": "还款结束",
+        "dueAmount": "0",
+        "userName": "李晶",
+        "userPhone": "13310986363",
+        "loanDate": "2015-08-31",
+        "briefName": "好熙家"
+      },
+      {
+        "orderId": "637834886144593920",
+        "visitMsg": "未回访",
+        "status": "还款结束",
+        "dueAmount": "0",
+        "userName": "王路生",
+        "userPhone": "18811726137",
+        "loanDate": "2015-08-31",
+        "briefName": "中联盛世"
+      },
+      {
+        "orderId": "637842081036898304",
+        "visitMsg": "未回访",
+        "status": "还款结束",
+        "dueAmount": "0",
+        "userName": "杨苏杰",
+        "userPhone": "15501126689",
+        "loanDate": "2015-08-31",
+        "briefName": "中联盛世"
+      },
+      {
+        "orderId": "637843181202845696",
+        "visitMsg": "未回访",
+        "status": "还款结束",
+        "dueAmount": "0",
+        "userName": "鲍思杰",
+        "userPhone": "18800115803",
+        "loanDate": "2015-08-31",
+        "briefName": "中联盛世"
+      },
+      {
+        "orderId": "637845872926797824",
+        "visitMsg": "未回访",
+        "status": "还款结束",
+        "dueAmount": "0",
+        "userName": "任璐凯",
+        "userPhone": "18519160694",
+        "loanDate": "2015-08-31",
+        "briefName": "中联盛世"
+      },
+      {
+        "orderId": "637846732872355840",
+        "visitMsg": "未回访",
+        "status": "还款结束",
+        "dueAmount": "0",
+        "userName": "齐祺",
+        "userPhone": "13146970184",
+        "loanDate": "2015-08-31",
+        "briefName": "中联盛世"
+      },
+      {
+        "orderId": "637902263246925824",
+        "visitMsg": "未回访",
+        "status": "还款结束",
+        "dueAmount": "0",
+        "userName": "岳婷",
+        "userPhone": "15701201708",
+        "loanDate": "2015-08-31",
+        "briefName": "鹏基伟业知春路店"
+      },
+      {
+        "orderId": "637944083624505344",
+        "visitMsg": "未回访",
+        "status": "还款结束",
+        "dueAmount": "0",
+        "userName": "周慧娟",
+        "userPhone": "18612929503",
+        "loanDate": "2015-09-01",
+        "briefName": "鹏基伟业青云店"
+      },
+      {
+        "orderId": "638585928889147392",
+        "visitMsg": "未回访",
+        "status": "还款结束",
+        "dueAmount": "0",
+        "userName": "唐少强",
+        "userPhone": "13891820365",
+        "loanDate": "2015-09-06",
+        "briefName": "世纪鸿源总部"
+      },
+      {
+        "orderId": "638589512842223616",
+        "visitMsg": "未回访",
+        "status": "还款结束",
+        "dueAmount": "0",
+        "userName": "储娟娟",
+        "userPhone": "13865100913",
+        "loanDate": "2015-09-02",
+        "briefName": "鹏基伟业上地店"
+      }
+    ],
+    "pageNum": 1,
+    "pageSize": 10,
+    "totalPage": 5947,
+    "totalCount": 59467,
+    "defaultPageNum": "10",
+    "__isset_bit_vector": [
+      1,
+      1,
+      1,
+      1
+    ]
+  }
+}

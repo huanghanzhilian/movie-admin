@@ -1,0 +1,439 @@
+{
+  "success": true,
+  "object": {
+    "logTable": [],
+    "visitMap": {
+      "visitRemark": "",
+      "visitShowFlag": false,
+      "visitPeople": "",
+      "visitResult": ""
+    },
+    "riskSysPass": "1",
+    "phoneTable": {
+      "dataList": [],
+      "headList": [
+        "时间",
+        "审核人",
+        "接听情况",
+        "备注",
+        "checkId"
+      ]
+    },
+    "showAgentAnswer": [
+      {
+        "base": {
+          "recordStatus": "0"
+        },
+        "id": "Check_00001",
+        "checkName": "checkRefuse1",
+        "checkStep": "1",
+        "checkType": "5",
+        "checkAuto": "0",
+        "itemGroup": "1",
+        "question": "用户资料填写错误",
+        "visible": "1",
+        "displayorder": "1",
+        "fromOrg": "五八内部"
+      },
+      {
+        "base": {
+          "recordStatus": "0"
+        },
+        "id": "Check_00002",
+        "checkName": "checkRefuse2",
+        "checkStep": "1",
+        "checkType": "5",
+        "checkAuto": "0",
+        "itemGroup": "1",
+        "question": "租客3个工作日联系不上",
+        "visible": "1",
+        "displayorder": "2",
+        "fromOrg": "五八内部"
+      },
+      {
+        "base": {
+          "recordStatus": "0"
+        },
+        "id": "Check_00003",
+        "checkName": "checkRefuse3",
+        "checkStep": "1",
+        "checkType": "5",
+        "checkAuto": "0",
+        "itemGroup": "1",
+        "question": "租客和房管员均2个工作日联系不上",
+        "visible": "1",
+        "displayorder": "3",
+        "fromOrg": "五八内部"
+      },
+      {
+        "base": {
+          "recordStatus": "0"
+        },
+        "id": "Check_00025",
+        "checkName": "checkRefuse25",
+        "checkStep": "1",
+        "checkType": "5",
+        "checkAuto": "0",
+        "itemGroup": "1",
+        "question": "租客紧急联系人2个工作日联系不上",
+        "visible": "1",
+        "displayorder": "3",
+        "fromOrg": "五八内部"
+      },
+      {
+        "base": {
+          "recordStatus": "0"
+        },
+        "id": "Check_00026",
+        "checkName": "checkRefuse26",
+        "checkStep": "1",
+        "checkType": "5",
+        "checkAuto": "0",
+        "itemGroup": "1",
+        "question": "租客紧急联系人号码异常，拒绝更换",
+        "visible": "1",
+        "displayorder": "3",
+        "fromOrg": "五八内部"
+      },
+      {
+        "base": {
+          "recordStatus": "0"
+        },
+        "id": "Check_00004",
+        "checkName": "checkRefuse4",
+        "checkStep": "1",
+        "checkType": "5",
+        "checkAuto": "0",
+        "itemGroup": "1",
+        "question": "客户取消美月付",
+        "visible": "1",
+        "displayorder": "4",
+        "fromOrg": "五八内部"
+      },
+      {
+        "base": {
+          "recordStatus": "0"
+        },
+        "id": "Check_00005",
+        "checkName": "checkRefuse5",
+        "checkStep": "1",
+        "checkType": "5",
+        "checkAuto": "0",
+        "itemGroup": "1",
+        "question": "公寓通知拒绝",
+        "visible": "1",
+        "displayorder": "5",
+        "fromOrg": "五八内部"
+      },
+      {
+        "base": {
+          "recordStatus": "0"
+        },
+        "id": "Check_00006",
+        "checkName": "checkRefuse6",
+        "checkStep": "1",
+        "checkType": "5",
+        "checkAuto": "0",
+        "itemGroup": "1",
+        "question": "客户身份证件丢失",
+        "visible": "1",
+        "displayorder": "6",
+        "fromOrg": "五八内部"
+      },
+      {
+        "base": {
+          "recordStatus": "0"
+        },
+        "id": "Check_00007",
+        "checkName": "checkRefuse7",
+        "checkStep": "1",
+        "checkType": "5",
+        "checkAuto": "0",
+        "itemGroup": "1",
+        "question": "借款期限大于或等于租赁期限",
+        "visible": "1",
+        "displayorder": "7",
+        "fromOrg": "五八内部"
+      },
+      {
+        "base": {
+          "recordStatus": "0"
+        },
+        "id": "Check_00008",
+        "checkName": "checkRefuse8",
+        "checkStep": "1",
+        "checkType": "5",
+        "checkAuto": "0",
+        "itemGroup": "1",
+        "question": "系统提交租金与合同租金不一致",
+        "visible": "1",
+        "displayorder": "8",
+        "fromOrg": "五八内部"
+      },
+      {
+        "base": {
+          "recordStatus": "0"
+        },
+        "id": "Check_00009",
+        "checkName": "checkRefuse9",
+        "checkStep": "1",
+        "checkType": "5",
+        "checkAuto": "0",
+        "itemGroup": "1",
+        "question": "系统提交租赁期限与合同租赁期限不一致",
+        "visible": "1",
+        "displayorder": "9",
+        "fromOrg": "五八内部"
+      },
+      {
+        "base": {
+          "recordStatus": "0"
+        },
+        "id": "Check_00027",
+        "checkName": "checkRefuse27",
+        "checkStep": "1",
+        "checkType": "5",
+        "checkAuto": "0",
+        "itemGroup": "1",
+        "question": "1个人申请多间房",
+        "visible": "1",
+        "displayorder": "10",
+        "fromOrg": "五八内部"
+      },
+      {
+        "base": {
+          "recordStatus": "0"
+        },
+        "id": "Check_00011",
+        "checkName": "checkRefuse11",
+        "checkStep": "1",
+        "checkType": "5",
+        "checkAuto": "0",
+        "itemGroup": "2",
+        "question": "同一个房间重复申请",
+        "visible": "1",
+        "displayorder": "11",
+        "fromOrg": "五八内部"
+      },
+      {
+        "base": {
+          "recordStatus": "0"
+        },
+        "id": "Check_00012",
+        "checkName": "checkRefuse12",
+        "checkStep": "1",
+        "checkType": "5",
+        "checkAuto": "0",
+        "itemGroup": "2",
+        "question": "非本人手机号码",
+        "visible": "1",
+        "displayorder": "12",
+        "fromOrg": "五八内部"
+      },
+      {
+        "base": {
+          "recordStatus": "0"
+        },
+        "id": "Check_00013",
+        "checkName": "checkRefuse13",
+        "checkStep": "1",
+        "checkType": "5",
+        "checkAuto": "0",
+        "itemGroup": "2",
+        "question": "非本人入住",
+        "visible": "1",
+        "displayorder": "13",
+        "fromOrg": "五八内部"
+      },
+      {
+        "base": {
+          "recordStatus": "0"
+        },
+        "id": "Check_00014",
+        "checkName": "checkRefuse14",
+        "checkStep": "1",
+        "checkType": "5",
+        "checkAuto": "0",
+        "itemGroup": "2",
+        "question": "租房性质不是居住",
+        "visible": "1",
+        "displayorder": "14",
+        "fromOrg": "五八内部"
+      },
+      {
+        "base": {
+          "recordStatus": "0"
+        },
+        "id": "Check_00028",
+        "checkName": "checkRefuse15",
+        "checkStep": "1",
+        "checkType": "5",
+        "checkAuto": "0",
+        "itemGroup": "2",
+        "question": "租客的借贷信息不符我司要求",
+        "visible": "1",
+        "displayorder": "15",
+        "fromOrg": "五八内部"
+      },
+      {
+        "base": {
+          "recordStatus": "0"
+        },
+        "id": "Check_00021",
+        "checkName": "checkRefuse21",
+        "checkStep": "1",
+        "checkType": "5",
+        "checkAuto": "0",
+        "itemGroup": "3",
+        "question": "租客信息造假",
+        "visible": "1",
+        "displayorder": "21",
+        "fromOrg": "五八内部"
+      },
+      {
+        "base": {
+          "recordStatus": "0"
+        },
+        "id": "Check_00022",
+        "checkName": "checkRefuse22",
+        "checkStep": "1",
+        "checkType": "5",
+        "checkAuto": "0",
+        "itemGroup": "3",
+        "question": "公寓内部员工不可申请",
+        "visible": "1",
+        "displayorder": "22",
+        "fromOrg": "五八内部"
+      },
+      {
+        "base": {
+          "recordStatus": "0"
+        },
+        "id": "Check_00023",
+        "checkName": "checkRefuse23",
+        "checkStep": "1",
+        "checkType": "5",
+        "checkAuto": "0",
+        "itemGroup": "3",
+        "question": "虚假订单",
+        "visible": "1",
+        "displayorder": "23",
+        "fromOrg": "五八内部"
+      },
+      {
+        "base": {
+          "recordStatus": "0"
+        },
+        "id": "Check_00024",
+        "checkName": "checkRefuse24",
+        "checkStep": "1",
+        "checkType": "5",
+        "checkAuto": "0",
+        "itemGroup": "3",
+        "question": "租客工作单位的业务涉及地产中介或者放贷业务不可申请",
+        "visible": "1",
+        "displayorder": "24",
+        "fromOrg": "五八内部"
+      },
+      {
+        "base": {
+          "recordStatus": "0",
+          "updateTime": "2016-09-13 09:15:50"
+        },
+        "id": "Check_00015",
+        "checkName": "checkRefuse15",
+        "checkStep": "1",
+        "checkType": "5",
+        "checkAuto": "0",
+        "itemGroup": "1",
+        "question": "其他，详情请咨询客服",
+        "visible": "1",
+        "displayorder": "100",
+        "fromOrg": "五八内部"
+      }
+    ],
+    "checkTable": [],
+    "mustQuestion": [
+      {
+        "base": {
+          "recordStatus": "0"
+        },
+        "id": "FQ_00104",
+        "checkName": "question104",
+        "checkDesc": "NULL",
+        "checkStep": "6",
+        "checkType": "4",
+        "checkAuto": "0",
+        "itemGroup": "1",
+        "question": "请问您所在的公司名字是什么？",
+        "visible": "1",
+        "displayorder": "6104",
+        "fromOrg": "五八内部"
+      },
+      {
+        "base": {
+          "recordStatus": "0"
+        },
+        "id": "FQ_00107",
+        "checkName": "question107",
+        "checkDesc": "NULL",
+        "checkStep": "6",
+        "checkType": "4",
+        "checkAuto": "0",
+        "itemGroup": "1",
+        "question": "请问房子所在的小区名字是什么？",
+        "visible": "1",
+        "displayorder": "6107",
+        "fromOrg": "五八内部"
+      },
+      {
+        "base": {
+          "recordStatus": "0"
+        },
+        "id": "FQ_00108",
+        "checkName": "question108",
+        "checkDesc": "NULL",
+        "checkStep": "6",
+        "checkType": "4",
+        "checkAuto": "0",
+        "itemGroup": "1",
+        "question": "请问小区的地址是哪里？比如说什么区什么街道多少号。",
+        "visible": "1",
+        "displayorder": "6108",
+        "fromOrg": "五八内部"
+      },
+      {
+        "base": {
+          "recordStatus": "0"
+        },
+        "id": "FQ_00109",
+        "checkName": "question109",
+        "checkDesc": "NULL",
+        "checkStep": "6",
+        "checkType": "4",
+        "checkAuto": "0",
+        "itemGroup": "1",
+        "question": "请问月租金是多少？",
+        "visible": "1",
+        "displayorder": "6109",
+        "fromOrg": "五八内部"
+      },
+      {
+        "base": {
+          "recordStatus": "0"
+        },
+        "id": "FQ_00402",
+        "checkName": "question402",
+        "checkDesc": "NULL",
+        "checkStep": "6",
+        "checkType": "4",
+        "checkAuto": "0",
+        "itemGroup": "4",
+        "question": "请问您身份证号码后4位是什么？",
+        "visible": "1",
+        "displayorder": "6402",
+        "fromOrg": "五八内部"
+      }
+    ]
+  }
+}

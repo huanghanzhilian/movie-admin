@@ -1,0 +1,105 @@
+{
+  "success": true,
+  "object": {
+    "userTable": [
+      {
+        "fieldName": "姓名",
+        "fieldValue": "黄晴",
+        "isPic": false
+      },
+      {
+        "fieldName": "手机号",
+        "fieldValue": "18701679052(未知)",
+        "fieldExtra": "1次",
+        "linkUrl": "/user-v4/search/phone/20097/18701679052",
+        "isPic": false
+      },
+      {
+        "fieldName": "推荐人",
+        "fieldValue": "谢娣",
+        "isPic": false
+      },
+      {
+        "fieldName": "借款总额",
+        "fieldValue": "33000 元",
+        "isPic": false
+      },
+      {
+        "fieldName": "打款金额",
+        "fieldValue": "30360 元",
+        "isPic": false
+      },
+      {
+        "fieldName": "放款时间",
+        "fieldValue": "2015-11-27 22:03:04",
+        "isPic": false
+      }
+    ],
+    "orderStatus": "4100",
+    "hasOpenId": "1",
+    "repayTable": [
+      {
+        "fieldName": "还款期数",
+        "fieldValue": "0/11",
+        "isPic": false
+      },
+      {
+        "fieldName": "已还金额",
+        "fieldValue": "0 元",
+        "isPic": false
+      },
+      {
+        "fieldName": "应还款时间",
+        "fieldValue": "2015-12-07",
+        "isPic": false
+      },
+      {
+        "fieldName": "还款状态",
+        "fieldValue": "还款中",
+        "isPic": false
+      },
+      {
+        "fieldName": "逾期天数",
+        "fieldValue": "-",
+        "fieldExtra": "",
+        "fieldExtra2": "showQingTuiBtn",
+        "linkUrl": "",
+        "isPic": false
+      }
+    ],
+    "warnInfo": {
+      "total": "月付-大脸猫测试公寓应退还58月付总计：30900.0元",
+      "total1": "月付-大脸猫测试公寓应退还58月付总计",
+      "total2": "￥2332",
+      "return58Money": "月付-大脸猫测试公寓应返还58月付租金：33000元",
+      "warningMsg": "申请58月付11个月，现需清退11个月，清退后，系统会自动从张亮的银行卡（招商银行，尾号1111）代扣应结清款项，结算如下：",
+      "remark": "一经清退不可撤销，请认真核对，谢谢",
+      "pay58PenaltyMoney": "月付-大脸猫测试公寓应支付58月付违约金：300元",
+      "appTestQingTuiDaiKou": "1",
+      "userInfo": "杨文军，手机号：15922521749",
+      "returnCompanyServiceMoney": "58月付应退还月付-大脸猫测试公寓服务费：2400元"
+    },
+    "houseTable": [
+      {
+        "fieldName": "月租金",
+        "fieldValue": "3000 元",
+        "isPic": false
+      },
+      {
+        "fieldName": "借款月数",
+        "fieldValue": "11 月",
+        "isPic": false
+      },
+      {
+        "fieldName": "小区名称",
+        "fieldValue": "安贞里",
+        "isPic": false
+      },
+      {
+        "fieldName": "房屋详细地址",
+        "fieldValue": "北京市朝阳区望京新城建设",
+        "isPic": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+    "success": true,
+    "object": [
+        {
+            "name": "afterErrorQingTui",
+            "desc": "清退误操作回滚",
+            "path": "/v4/rs/manage/afterErrorQingTui",
+            "params": [
+                {
+                    "name": "orderId",
+                    "desc": "订单ID"
+                }
+            ]
+        },
+        {
+            "name": "afterErrorConfirmQingTui",
+            "desc": "确认清退误操作回滚",
+            "path": "/v4/rs/manage/afterErrorConfirmQingTui",
+            "params": [
+                {
+                    "name": "orderId",
+                    "desc": "订单ID"
+                }
+            ]
+        },
+        {
+            "name": "changeAgentsCompany",
+            "desc": "更换经纪人公司",
+            "path": "/v4/rs/manage/changeAgentsCompany",
+            "params": [
+                {
+                    "name": "agentId",
+                    "desc": "房管员ID"
+                },
+                {
+                    "name": "companyId",
+                    "desc": "公司ID"
+                }
+            ]
+        },
+        {
+            "name": "changeOrderStatusToFushen",
+            "desc": "将审核通过改为复审中",
+            "path": "/v4/rs/manage/changeOrderStatusToFushen",
+            "params": [
+                {
+                    "name": "orderId",
+                    "desc": "订单ID"
+                }
+            ]
+        }
+    ]
+}

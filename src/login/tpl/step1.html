@@ -1,0 +1,18 @@
+<div class="modal-header">
+    <a href="javascript:void(0)" ng-click="$dismiss('cancel')" class="modal-close"></a>
+    <h3 class="modal-title">找回密码</h3>
+</div>
+<form name="addConfigForm" novalidate  class="modify-agent-info">
+    <div class="modal-body">
+        <div class="input-group first-group">
+            <span class="input-group-addon usericon"></span>
+            <input id="userName" type="text" ng-model="data.userName" name="userName" autocomplete="off" class="form-control" ng-required="true" jr-placeholder="请输入用户名/法人手机号"  />
+        </div>
+        <div class="input-group first-group" style="padding-top: 20px;">
+            <p style="text-align: center;padding-top: 10px;padding-left: 35px;" class="error-info" ng-bind="errorInfo"></p>
+        </div>
+        <div style="margin-top: 20px;text-align: center;">
+            <button class="btn btn-primary btn-submit" style="width: 150px;" ng-disabled="addConfigForm.$invalid" ng-click="submit()" type="submit">下一步</button>
+        </div>
+    </div>
+</form>

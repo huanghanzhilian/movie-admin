@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "object": {
+    "infoList": [
+      {
+        "agentId": "656276496872120320",
+        "name": "周拥",
+        "phone": "13240999906",
+        "branch": "总部",
+        "pushNum": 298,
+        "pushSuccess": "10",
+        "pushFail": "3",
+        "overdueAmount": "3000",
+        "overdueSum": "12",
+        "repayAmount": "2000",
+        "repaySum": "12",
+        "repayReturnSum": "13",
+        "repayReturnAmount": "2304"
+      }
+    ],
+    "pageNum": 1,
+    "pageSize": 10,
+    "totalPage": 3,
+    "totalCount": 21
+  }
+}

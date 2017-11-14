@@ -1,0 +1,73 @@
+{
+  "success": true,
+  "object": [
+    {
+      "name": "用户手机号命中经纪人手机号",
+      "value": "User_Mobile_Hit_Agent"
+    },
+    {
+      "name": "用户身份证号命中系统黑名单",
+      "value": "User_IdCard_Hit_System"
+    },
+    {
+      "name": "是否命中前海黑名单",
+      "value": "Qianhai_Black_Risk"
+    },
+    {
+      "name": "安融征信报告是否有不良记录",
+      "value": "Ar_Black_Risk"
+    },
+    {
+      "name": "用户身份证号命中经纪人身份证",
+      "value": "User_IdCard_Hit_Agent"
+    },
+    {
+      "name": "浏览器referer信息是否在黑名单",
+      "value": "Browser_Referer_Black"
+    },
+    {
+      "name": "用户手机号命中虚拟运营商",
+      "value": "User_Mobile_Hit_Virtual"
+    },
+    {
+      "name": "用户是否在自如客黑名单",
+      "value": "Ziroom_Black"
+    },
+    {
+      "name": "用户是否为认证商家（黑名单）",
+      "value": "User_IsBusiness_Black"
+    },
+    {
+      "name": "手机号命中系统黑名单",
+      "value": "User_Mobile_Hit_System"
+    },
+    {
+      "name": "是否命中中智诚黑名单",
+      "value": "Zzc_Black_Risk"
+    },
+    {
+      "name": "用户银行卡验证",
+      "value": "USER_BANKCARD_CHECK"
+    },
+    {
+      "name": "集奥三维统一认证",
+      "value": "JA_3W_TYRZ"
+    },
+    {
+      "name": "集奥手机在网时长",
+      "value": "JA_SJZWSC"
+    },
+    {
+      "name": "集奥手机月消费档次",
+      "value": "JA_SJYXFDC"
+    },
+    {
+      "name": "集奥手机号休息时段地址验证",
+      "value": "JA_SJHXXSDDZYZ"
+    },
+    {
+      "name": "58黑名单",
+      "value": "HMD"
+    }
+  ]
+}

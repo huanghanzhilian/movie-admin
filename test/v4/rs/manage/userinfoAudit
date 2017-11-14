@@ -1,0 +1,170 @@
+{
+	"success": true,
+	"object": {
+		"contractRetranseTable": [
+			{
+		      "fieldName": "详细地址",
+		      "fieldValue": "美景芳邻1号楼1212",
+		      "fieldExtra": "美景芳邻1号楼",
+		      "fieldExtra2": "zqm",
+		      "linkUrl": "2015-11-19 12:04:50.0",
+		      "isPic": false
+		    }
+		],
+		"rentHouseTable": {
+			"houseAddress": "安慧里三区",
+			"bankInfo": {
+				"name": "谢俊",
+				"bankName": "招商银行",
+				"reservePhone": "18601613787",
+				"msg":"(与个人手机号不同)",
+				"city": "上海市"
+			},
+			"houseCourtName": "安慧里三区",
+			"rentStartDate": "-",
+			"monthRent": "2100",
+			"rentPayType": "半年付",
+			"loanLease": "6",
+			"agent": {
+				"agentName": "陈立功",
+				"agentPhoneNum": 0,
+				"agentPhone": "13811560617"
+			}
+		},
+		"picUrl": {
+			"houseContractPic": ["http://pic.58.com/253370974b56c828420db8bbcaae8485/n_v1bl2lwtmjxucfmew3qaba_6c7ea76f39c78102.jpg", "http://pic.58.com/253370974b56c828420db8bbcaae8485/n_v1bkujjdzwxycfmwwehnta_cdebc1e04c8f0db9.jpg", "http://pic.58.com/253370974b56c828420db8bbcaae8485/n_v1bkuymczlx4cfnsg7kraa_55b683d383d7d405.jpg", "http://pic.58.com/253370974b56c828420db8bbcaae8485/n_v1bkuymc2ix4cfnfposfma_55b683d383d7d405.jpg"],
+			"idCardPic": ["http://pic.58.com/47cb273fd6ab5f6acededb19bc699b8e/n_v1bkuymc4xi3svkduelm7q_55b683d383d7d405.jpg"],
+			"sysIdCardPic" : [
+			    "http://pic.58.com/id_photo/n_v1bl2lwtpg45fvmz4qwruq.jpg"
+			  ]
+		},
+		"loginTable": [{
+			"fieldName": "222.66.124.210(中国电信 上海市 上海;)",
+			"fieldValue": "",
+			"fieldExtra": "2015-09-01 14:32:15",
+			"isPic": false
+		}, {
+			"fieldName": "222.66.124.210(中国电信 上海市 上海;)",
+			"fieldValue": "",
+			"fieldExtra": "2015-09-01 13:57:11",
+			"isPic": false
+		}, {
+			"fieldName": "222.66.124.210(中国电信 上海市 上海;)",
+			"fieldValue": "",
+			"fieldExtra": "2015-09-01 10:46:59",
+			"isPic": false
+		}, {
+			"fieldName": "222.66.124.210(中国电信 上海市 上海;)",
+			"fieldValue": "self",
+			"fieldExtra": "2015-09-01 10:14:45",
+			"isPic": false
+		}, {
+			"fieldName": "222.66.124.210(中国电信 上海市 上海;)",
+			"fieldValue": "",
+			"fieldExtra": "2015-08-31 23:41:19",
+			"isPic": false
+		}, {
+			"fieldName": "222.66.124.210(中国电信 上海市 上海;)",
+			"fieldValue": "",
+			"fieldExtra": "2015-08-31 23:02:05",
+			"isPic": false
+		}, {
+			"fieldName": "222.66.124.210(中国电信 上海市 上海;)",
+			"fieldValue": "",
+			"fieldExtra": "2015-08-31 22:52:47",
+			"isPic": false
+		}, {
+			"fieldName": "222.66.124.210(中国电信 上海市 上海;)",
+			"fieldValue": "",
+			"fieldExtra": "2015-08-31 22:51:47",
+			"isPic": false
+		}, {
+			"fieldName": "222.66.124.210(中国电信 上海市 上海;)",
+			"fieldValue": "",
+			"fieldExtra": "2015-08-31 22:25:16",
+			"isPic": false
+		}, {
+			"fieldName": "222.66.124.210(中国电信 上海市 上海;)",
+			"fieldValue": "",
+			"fieldExtra": "2015-08-31 22:24:16",
+			"isPic": false
+		}, {
+			"fieldName": "222.66.124.210(中国电信 上海市 上海;)",
+			"fieldValue": "",
+			"fieldExtra": "2015-08-31 22:15:20",
+			"isPic": false
+		}, {
+			"fieldName": "222.66.124.210(中国电信 上海市 上海;)",
+			"fieldValue": "",
+			"fieldExtra": "2015-08-31 22:13:02",
+			"isPic": false
+		}, {
+			"fieldName": "222.66.124.210(中国电信 上海市 上海;)",
+			"fieldValue": "",
+			"fieldExtra": "2015-08-31 22:11:44",
+			"isPic": false
+		}, {
+			"fieldName": "222.66.124.210(中国电信 上海市 上海;)",
+			"fieldValue": "",
+			"fieldExtra": "2015-08-31 22:06:56",
+			"isPic": false
+		}, {
+			"fieldName": "222.66.124.210(中国电信 上海市 上海;)",
+			"fieldValue": "",
+			"fieldExtra": "2015-08-31 22:06:43",
+			"isPic": false
+		}, {
+			"fieldName": "222.66.124.210(中国电信 上海市 上海;)",
+			"fieldValue": "",
+			"fieldExtra": "2015-08-31 21:50:09",
+			"isPic": false
+		}],
+		"systemTable": [{
+			"fieldName": "用户ip",
+			"fieldValue": "中国电信 上海市 上海;(222.66.124.210)",
+			"fieldExtra": "更多",
+			"linkUrl": "/user-v4/search/ip/641828350481936387/",
+			"isPic": false
+		}, {
+			"fieldName": "入口来源",
+			"isPic": false
+		}, {
+			"fieldName": "终端来源",
+			"fieldValue": "null",
+			"isPic": false
+		}],
+		"basicTable": {
+			"userTypeInfo": {
+				"position": "研发",
+				"email": "",
+				"companyAddr": "上海小寓信息科技有限公司",
+				"income": "15000以上",
+				"workLife": "",
+				"company": "上海小寓信息科技有限公司"
+			},
+			"58username": "fwcjt_p3",
+			"idCard": "362330198608285038(江西省上饶地区波阳县)",
+			"phone": "13466327312(北京)",
+			"name": "侯铁旺",
+			"gender": "男",
+			"wbId": "33684329062921",
+			"phoneUseNum": 8,
+			"orderId": "641828350481936387",
+			"userType": 1
+		},
+		"showContractPdf": 0,
+		"emergencyContact": [
+			[{
+				"phone": "15652742278",
+				"name": "见永杰",
+				"relation": "朋友",
+				"phoneUseNum": "13"
+			}, {
+				"phone": "",
+				"name": "",
+				"relation": "",
+				"phoneUseNum": "0"
+			}]
+		]
+	}
+}

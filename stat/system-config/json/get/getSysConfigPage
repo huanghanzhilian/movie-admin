@@ -1,0 +1,88 @@
+{
+  "success": true,
+  "object": {
+    "infoList": [
+      {
+        "configName": "allowChangeRent",
+        "configType": "1",
+        "configDesc": "换租灰度测试，0不开通，1开通",
+        "defaultValue": "0",
+        "configId": "748349230493487104"
+      },
+      {
+        "configName": "appTestCompany",
+        "configType": "1",
+        "configDesc": "app灰度测试 0禁止使用app 1可以使用app",
+        "defaultValue": "1",
+        "configId": "662209960494505984"
+      },
+      {
+        "configName": "appTestQingTuiDaiKou",
+        "configType": "1",
+        "configDesc": "清退代扣灰度测试：1执行清退代扣，0清退不执行代扣",
+        "defaultValue": "0",
+        "configId": "669475867621068800"
+      },
+      {
+        "configName": "autoSendLoanMoney",
+        "configType": "1",
+        "configDesc": "审核成功后自动放款 0不自动放款 1自动放款",
+        "defaultValue": "1",
+        "configId": "722243268028428288"
+      },
+      {
+        "configName": "calcQingtuiOverdue",
+        "configType": "1",
+        "configDesc": "清退逾期计算灰度测试，0:不计算逾期，1:计算逾期",
+        "defaultValue": "0",
+        "configId": "743272751623593984"
+      },
+      {
+        "configName": "companyDaiKouNoticePhone",
+        "configType": "1",
+        "configDesc": "清退代扣成功给对方多人发送短信提醒手机号码",
+        "defaultValue": "0",
+        "configId": "676673849588199424"
+      },
+      {
+        "configName": "companyIconAndUrl",
+        "configType": "1",
+        "configDesc": "公寓图标和详情链接",
+        "defaultValue": "http://img.58cdn.com.cn/ui8/house/detail/images/mpinpaigongyu.png;null",
+        "configId": "672393749631864832"
+      },
+      {
+        "configName": "companyMaxAgentNum",
+        "configType": "1",
+        "configDesc": "公寓最大房管员数",
+        "defaultValue": "50",
+        "configId": "657527818179063808"
+      },
+      {
+        "configName": "companySynToFangchan",
+        "configType": "1",
+        "configDesc": "开通月付的公寓同步给房产(0/1，同步失败/成功)",
+        "defaultValue": "0",
+        "configId": "735292822562820097"
+      },
+      {
+        "configName": "COMPANY_CONTROLLER",
+        "configType": "1",
+        "configDesc": "公寓控制人",
+        "defaultValue": "0",
+        "configId": "730343771211857920"
+      }
+    ],
+    "pageNum": 1,
+    "pageSize": 10,
+    "totalPage": 5,
+    "totalCount": 47,
+    "defaultPageNum": "10",
+    "__isset_bit_vector": [
+      1,
+      1,
+      1,
+      1
+    ]
+  }
+}

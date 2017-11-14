@@ -1,0 +1,21 @@
+<div class="modal-header">
+    <a href="javascript:void(0)" ng-click="$dismiss('cancel')" class="modal-close"></a>
+    <h3 class="modal-title"></h3>
+</div>
+<form name="modifyForm" novalidate  class="modify-agent-info" autocomplete="off">
+    <div class="modal-body">
+        <div class="modal-group">
+            <label><span class="required-star">*</span>解冻原因：</label>
+            <div class="group-item textarea-wrap">
+                <textarea ng-model="params.freezeReason" required></textarea>
+                <!--<input type="text" ng-model="params.freezeReason" required>-->
+            </div>
+        </div>
+    </div>
+    <div class="modal-footer">
+        <p class="error-info">{{errorInfo}}</p>
+        <button class="btn btn-primary btn-submit" ng-disabled="modifyForm.$invalid" ng-click="submit()" type="submit">确定</button>
+        <button class="btn btn-primary btn-cancel" ng-click="$dismiss('cancel')" >取消</button>
+    </div>
+</form>
+

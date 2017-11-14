@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": 1,
+    "object": {
+        "listData": {
+            "overdueRenterList": [],
+            "payYuefuList": [
+                {
+                    "totalRental": "7420.00",
+                    "orderId": "29166",
+                    "overdueDays": "0",
+                    "remark": "需打款给58月付",
+                    "isUploadVoucher": "0",
+                    "overdueMoney": "0",
+                    "loanMoney": "8,162",
+                    "forceLeaveTime": "2016-05-27",
+                    "dueAmount": "7167.72",
+                    "userName": "谷明城",
+                    "userPhone": "15801293587",
+                    "penalty": "148.40",
+                    "orderId": "29166",
+                    "payAmount": "7167.72",
+                    "monthRent": "742",
+                    "status": "1",
+                    "agentCompanyId": "638584744304451584",
+                    "pay58PenaltyMoney": "148.4",
+                    "orderStatus": "未结清",
+                    "briefName": "世纪鸿源",
+                    "returnCompanyServiceMoney": "400.68",
+                    "return58Money": "7,420",
+                    "payMoney": "7,672.28",
+                    "orderStatusCode": "6000",
+                    "agentName": "武雁斌",
+                    "payStatus": "110",
+                    "payVoucher": "http://pic.58.com/manage.yuefu.58.com/n_v1bj3gzr7ys4ivqv3rdbka_761c4f57dfed11ac.jpg",
+                    "chargeType": "",
+                    "serviceCharge": "400.68"
+                }
+            ],
+            "repayingRenterList": []
+        }
+    }
+}

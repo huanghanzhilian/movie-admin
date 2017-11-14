@@ -1,0 +1,483 @@
+<link rel="stylesheet" href="company-detail.less?__inline">
+<div class="block clearfix col-md-12" ng-if="queryParams.type=='show'&&loading">
+    <form name="searchForm" novalidate>
+
+        <div class="tab-title">公司基本信息</div>
+
+        <table class="table table-style-1">
+            <tbody>
+            <tr>
+                <td class="name-f">公司名称</td>
+                <td class="name-v">
+                    {{orders.company.companyName}}
+                </td>
+                <td class="name-f">公司简称</td>
+                <td class="name-v">
+                    {{orders.company.briefName}}
+                </td>
+                <td class="name-f">所在省-市</td>
+                <td class="name-v">
+                    {{orders.companyMore.province}} - {{orders.companyMore.city}}
+                </td>
+                <td class="name-f">法人姓名</td>
+                <td class="name-v">
+                    {{orders.company.legalPersonName}}
+                </td>
+            </tr>
+            <tr>
+                <td class="name-f">法人身份证号</td>
+                <td class="name-v">
+                    {{orders.companyMore.legalPersonIdCard}}
+                </td>
+                <td class="name-f">法人联系方式</td>
+                <td class="name-v">
+                    {{orders.companyMore.legalPersonPhone}}
+                </td>
+                <td class="name-f">房间数 </td>
+                <td class="name-v">
+                    {{orders.companyMore.roomCount}}
+                </td>
+                <td class="name-f">营业执照号</td>
+                <td class="name-v">
+                    {{orders.company.license}}
+                </td>
+            </tr>
+        <tr>
+        </tr>
+            <tr>
+                <td class="name-f">实控人姓名</td>
+                <td class="name-v">
+                    {{orders.companyMore.actualControllerName}}
+                </td>
+                <td class="name-f">实控人手机号 </td>
+                <td class="name-v">
+                    {{orders.companyMore.actualControllerPhone}}
+                </td>
+                <td class="name-f">财务姓名</td>
+                <td class="name-v">
+                    {{orders.companyMore.financeContactName}}
+                </td>
+                <td class="name-f">财务手机号</td>
+                <td class="name-v">
+                    {{orders.companyMore.financeContactPhone}}
+                </td>
+            </tr>
+            </tbody>
+        </table>
+
+        <div class="tab-title">合作信息</div>
+        <table class="table table-style-1">
+            <tbody>
+            <tr>
+                <td class="name-f">合作期起</td>
+                <td class="name-v">
+                    {{orders.companyMore.cooperationStart}}
+                </td>
+                <td class="name-f">合作期止</td>
+                <td class="name-v">
+                    {{orders.companyMore.cooperationEnd}}
+                </td>
+
+                <td class="name-f">提现手续费率</td>
+                <td class="name-v">
+                    {{orders.companyMore.withdrawFeeRate}}
+                </td>
+                <td class="name-f">最小提现手续费金额 (分)</td>
+                <td class="name-v">
+                    {{orders.companyMore.minFeeMoney}}
+                </td>
+            </tr>
+            <tr>
+                <td class="name-f">租客拖欠罚息(%)</td>
+                <td class="name-v">
+                    {{orders.companyMore.overdueRate}}
+                </td>
+
+                <td class="name-f">活体识别成功匹配度</td>
+                <td class="name-v">
+                    {{orders.companyMore.faceMatchPassRate}}
+                </td>
+                <td class="name-f">活体识别失败匹配度</td>
+                <td class="name-v">
+                    {{orders.companyMore.faceMatchRefuseRate}}
+                </td>
+            </tr>
+            </tbody>
+        </table>
+        <div class="tab-title">月付信息</div>
+        <table class="table table-style-1">
+            <tbody>
+            <tr>
+                <td class="name-f">是否可月付</td>
+                <td class="name-v">
+                    {{orders.companyMore.canYuefu==1?"是":"否"}}
+                </td>
+                <td class="name-f">月付费率（%）</td>
+                <td class="name-v">
+                    {{orders.companyMore.loanMonthRate}}
+                </td>
+                <td class="name-f">支持分期月数(个月)</td>
+                <td class="name-v">
+                    {{orders.companyMore.maxYuefuMonth}}
+                </td>
+                <td class="name-f">月付最大比例(%)</td>
+                <td class="name-v">
+                    {{orders.companyMore.yuefuMaxRate}}
+                </td>
+
+
+            </tr>
+            <tr>
+                <td class="name-f">月付最大借款总额(分)</td>
+                <td class="name-v">
+                    {{orders.companyMore.yuefuMaxMoney}}
+                </td>
+                <td class="name-f">清退公寓是否返回服务费</td>
+                <td class="name-v">
+                    {{orders.companyMore.qingtuiReturnServiceMoney==1?"是":"否"}}
+                </td>
+                <!--<td class="name-f">最小租住月数</td>-->
+                <!--<td class="name-v">-->
+                    <!--{{orders.companyMore.minLoanMonth}}-->
+                <!--</td>-->
+                <!--<td class="name-f">最大租住月数</td>-->
+                <!--<td class="name-v">-->
+                    <!--{{orders.companyMore.maxLoanMonth}}-->
+                <!--</td>-->
+
+            </tr>
+            <!--<tr>-->
+                <!--<td class="name-f">最大房管员数</td>-->
+                <!--<td class="name-v">-->
+                    <!--{{orders.companyMore.maxAgentNum}}-->
+                <!--</td>-->
+                <!--<td class="name-f">收单模式分润美月付占比(%)</td>-->
+                <!--<td class="name-v">-->
+                    <!--{{orders.companyMore.profitRate}}-->
+                <!--</td>-->
+                <!--<td class="name-f">公司logo</td>-->
+                <!--<td class="name-v" colspan="3">-->
+                    <!--{{orders.companyMore.logoUrl}}-->
+                <!--</td>-->
+            <!--</tr>-->
+            </tbody>
+        </table>
+        <!--<div class="tab-title">公司配置信息</div>-->
+        <!--<div class="row">-->
+        <!--<div class="col-md-6">-->
+            <!--<table class="table table-style-1">-->
+                <!--<tbody>-->
+                <!--<tr>-->
+                    <!--<td class="name-f">最大月租金（元）</td>-->
+                    <!--<td class="name-v">-->
+                        <!--{{orders.companyRelation.maxMonthRent}}-->
+                    <!--</td>-->
+                    <!--<td class="name-f">首次还款日区间</td>-->
+                    <!--<td class="name-v">-->
+                        <!--{{orders.companyRelation.sys_rentStartDateSection}}-->
+                    <!--</td>-->
+                <!--</tr>-->
+                <!--</tbody>-->
+            <!--</table>-->
+        <!--</div>-->
+        <!--</div>-->
+        <div class="tab-title">公司收租银行卡信息</div>
+        <table class="table table-style-1">
+            <tbody>
+            <tr>
+                <td class="name-f">持卡人姓名 </td>
+                <td class="name-v">
+                    {{orders.bankcard.ownerName}}
+                </td>
+                <td class="name-f">银行卡号</td>
+                <td class="name-v">
+                    {{orders.bankcard.accountText}}
+                </td>
+
+                <td class="name-f">银行预留手机号码</td>
+                <td class="name-v">
+                    {{orders.bankcard.reservePhone}}
+                </td>
+                <!--<td class="name-f">持卡人身份证号</td>-->
+                <!--<td class="name-v">-->
+                    <!--{{orders.bankcard.idCard}}-->
+                <!--</td>-->
+            </tr>
+            <tr>
+                <td class="name-f">开户行所在省-市</td>
+                <td class="name-v" >
+                    {{orders.bankcard.provinceName}}-{{orders.bankcard.provinceName}}
+                </td>
+                <!--<td class="name-f">开户行所在市-编码</td>-->
+                <!--<td class="name-v">-->
+                    <!--{{orders.bankcard.provinceName}}-{{orders.bankcard.provinceCode}}-->
+                <!--</td>-->
+                <td class="name-f">开户行名称</td>
+                <td class="name-v">
+                    {{orders.bankcard.bankName}}
+                </td>
+                <td class="name-f">支行名称</td>
+                <td class="name-v">
+                    {{orders.bankcard.branchBankName}}
+                </td>
+
+            </tr>
+            <tr>
+                <td class="name-f">是否对公</td>
+                <td class="name-v">
+                    {{orders.bankcard.isPublic==1?"对公":"对私"}}
+                </td>
+                <td class="name-f">支行联行号</td>
+                <td class="name-v">
+                    {{orders.bankcard.bankChain}}
+                </td>
+
+            </tr>
+            </tbody>
+        </table>
+    </form>
+</div>
+<div class="block clearfix col-md-12 edit" ng-if="queryParams.type=='add'||(queryParams.type=='edit'&&loading)">
+<form name="searchForm" ng-submit="save($event)">
+    <div class="pos-rb">
+        <div class="list-filter-col">
+            <button class="btn btn-primary" type="submit" ng-if="queryParams.type=='add'">新增</button>
+            <button class="btn btn-primary" type="submit" ng-if="queryParams.type=='edit'">保存</button>
+        </div>
+    </div>
+    <div class="tab-title">公司基本信息</div>
+
+    <table class="table table-style-1">
+        <tbody>
+        <tr>
+
+            <td class="name-f">公司名称<span class="red">*</span></td>
+            <td class="name-v">
+                <input type="text" class="form-control" ng-model="orders.company.companyName" style="width: 90%;" jr-placeholder="" required/>
+            </td>
+            <td class="name-f">公司简称<span class="red">*</span></td>
+            <td class="name-v">
+                <input type="text" class="form-control" ng-model="orders.company.briefName" jr-placeholder="" required/>
+            </td>
+            <td class="name-f">所在省/市<span class="red">*</span></td>
+            <td class="name-v" colspan="3">
+                <jr-dropdown-button id="companyProvinceCode" options="queryOptions.companyProvinceCode" value="orders.companyMore.companyProvinceCode"></jr-dropdown-button>
+                <jr-dropdown-button id="companyCityCode" options="queryOptions.companyCityCode" value="orders.companyMore.companyCityCode"></jr-dropdown-button>
+
+            </td>
+
+        </tr>
+        <tr>
+            <td class="name-f">法人姓名<span class="red">*</span></td>
+            <td class="name-v">
+                <input type="text" class="form-control" ng-model="orders.company.legalPersonName" style="width: 90%;" jr-placeholder="" required/>
+
+            </td>
+            <td class="name-f">法人身份证号<span class="red">*</span></td>
+            <td class="name-v">
+                <input type="text" class="form-control" style="width: 150px;" ng-model="orders.companyMore.legalPersonIdCard" jr-placeholder="" required/>
+
+            </td>
+            <td class="name-f">法人联系方式<span class="red">*</span></td>
+            <td class="name-v">
+                <input type="text" class="form-control" ng-model="orders.companyMore.legalPersonPhone" jr-placeholder="" required/>
+
+            </td>
+            <td class="name-f">房间数<span class="red">*</span> </td>
+            <td class="name-v">
+                <input type="text" class="form-control" ng-model="orders.companyMore.roomCount" jr-placeholder="" required/>
+
+            </td>
+        </tr>
+        <tr>
+
+            <td class="name-f">实控人姓名</td>
+            <td class="name-v">
+                <input type="text" class="form-control" ng-model="orders.companyMore.actualControllerName" jr-placeholder=""/>
+
+            </td>
+            <td class="name-f">实控人手机号 </td>
+            <td class="name-v">
+                <input type="text" class="form-control" ng-model="orders.companyMore.actualControllerPhone" jr-placeholder="" />
+
+            </td>
+            <td class="name-f">财务姓名</td>
+            <td class="name-v">
+                <input type="text" class="form-control" ng-model="orders.companyMore.financeContactName" jr-placeholder="" />
+
+            </td>
+            <td class="name-f">财务手机号</td>
+            <td class="name-v">
+                <input type="text" class="form-control" ng-model="orders.companyMore.financeContactPhone" jr-placeholder="" />
+            </td>
+        </tr>
+        <!--<tr>-->
+            <!--<td class="name-f">营业执照号</td>-->
+            <!--<td class="name-v">-->
+                <!--<input type="text" class="form-control" style="width: 90%;" ng-model="orders.company.license" jr-placeholder=""/>-->
+            <!--</td>-->
+        <!--</tr>-->
+        </tbody>
+    </table>
+
+    <div class="tab-title">合作信息</div>
+    <table class="table table-style-1">
+        <tbody>
+        <tr>
+            <td class="name-f">合作期起<span class="red">*</span></td>
+            <td class="name-v">
+                <jr-datepicker placeholder="合作期起"  time="orders.companyMore.cooperationStart"></jr-datepicker>
+            </td>
+            <td class="name-f">合作期止<span class="red">*</span></td>
+            <td class="name-v">
+                <jr-datepicker placeholder="合作期止"  time="orders.companyMore.cooperationEnd"></jr-datepicker>
+            </td>
+            <!--<td class="name-f">最小租住月数<span class="red">*</span></td>-->
+            <!--<td class="name-v">-->
+                <!--<input type="text" class="form-control" ng-model="orders.companyMore.minLoanMonth" ng-required="" jr-placeholder="" required/>-->
+            <!--</td>-->
+            <!--<td class="name-f">最大租住月数<span class="red">*</span></td>-->
+            <!--<td class="name-v">-->
+                <!--<input type="text" class="form-control" ng-model="orders.companyMore.maxLoanMonth" jr-placeholder="" required/>-->
+            <!--</td>-->
+            <td class="name-f">提现手续费率（%）<span class="red">*</span></td>
+            <td class="name-v">
+                <input type="text" class="form-control" ng-model="orders.companyMore.withdrawFeeRate" jr-placeholder="" required/>
+
+            </td>
+            <td class="name-f">最小提现手续费金额 (分)<span class="red">*</span></td>
+            <td class="name-v">
+                <input type="text" class="form-control" ng-model="orders.companyMore.minFeeMoney" jr-placeholder="" required/>
+
+            </td>
+        </tr>
+        <tr>
+            <td class="name-f">租客拖欠罚息(%)<span class="red">*</span></td>
+            <td class="name-v">
+                <input type="text" class="form-control" ng-model="orders.companyMore.overdueRate" jr-placeholder="" required/>
+            </td>
+            <td class="name-f">活体识别成功匹配度<span class="red">*</span></td>
+            <td class="name-v">
+                <input type="text" class="form-control" ng-model="orders.companyMore.faceMatchPassRate" jr-placeholder="" required/>
+
+            </td>
+            <td class="name-f">活体识别失败匹配度<span class="red">*</span></td>
+            <td class="name-v">
+                <input type="text" class="form-control" ng-model="orders.companyMore.faceMatchRefuseRate" jr-placeholder="" required/>
+
+            </td>
+        </tr>
+
+        </tbody>
+    </table>
+    <div class="tab-title">月付信息</div>
+    <table class="table table-style-1">
+        <tbody>
+
+        <!--<tr>-->
+            <!--<td class="name-f">最大房管员数<span class="red">*</span></td>-->
+            <!--<td class="name-v">-->
+                <!--<input type="text" class="form-control" ng-model="orders.companyMore.maxAgentNum" jr-placeholder="" required/>-->
+
+            <!--</td>-->
+        <!--</tr>-->
+
+        <tr>
+            <td class="name-f">是否可月付<span class="red">*</span></td>
+            <td class="name-v">
+                <jr-dropdown-button options="queryOptions.canYuefu" value="orders.companyMore.canYuefu"></jr-dropdown-button>
+            </td>
+            <td class="name-f">月付费率（%）<span class="red">*</span></td>
+            <td class="name-v">
+                <input type="text" class="form-control" ng-model="orders.companyMore.loanMonthRate" jr-placeholder="" required/>
+
+            </td>
+            <td class="name-f">支持分期月数(个月)<span class="red">*</span></td>
+            <td class="name-v">
+                <input type="text" class="form-control" ng-model="orders.companyMore.maxYuefuMonth" jr-placeholder="" required/>
+
+            </td>
+            <td class="name-f">月付最大比例(%)<span class="red">*</span></td>
+            <td class="name-v">
+                <input type="text" class="form-control" ng-model="orders.companyMore.yuefuMaxRate" jr-placeholder="" required/>
+
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td class="name-f">月付最大借款总额(分)<span class="red">*</span></td>
+            <td class="name-v">
+                <input type="text" class="form-control" ng-model="orders.companyMore.yuefuMaxMoney" jr-placeholder="" required/>
+            </td>
+            <td class="name-f">清退公寓是否返回服务费<span class="red">*</span></td>
+            <td class="name-v">
+                <jr-dropdown-button options="queryOptions.qingtuiReturnServiceMoney" value="orders.companyMore.qingtuiReturnServiceMoney"></jr-dropdown-button>
+            </td>
+        </tr>
+        </tbody>
+    </table>
+    <div class="tab-title">公司收租银行卡信息</div>
+    <table class="table table-style-1">
+        <tbody>
+        <tr>
+            <td class="name-f">持卡人姓名 <span class="red">*</span></td>
+            <td class="name-v">
+                <input type="text" class="form-control" ng-model="orders.bankcard.ownerName" jr-placeholder="" required/>
+
+            </td>
+            <td class="name-f">银行卡号<span class="red">*</span></td>
+            <td class="name-v">
+                <input type="text" class="form-control" ng-model="orders.bankcard.accountText" jr-placeholder="" required/>
+
+            </td>
+
+            <td class="name-f">银行预留手机号码</td>
+            <td class="name-v">
+                <input type="text" class="form-control" ng-model="orders.bankcard.reservePhone" jr-placeholder="" />
+
+            </td>
+            <td class="name-f">开户行所在省<span class="red">*</span></td>
+            <td class="name-v" colspan="3">
+                <jr-dropdown-button id="provinceCode" options="queryOptions.provinceCode" value="orders.bankcard.provinceCode"></jr-dropdown-button>
+                <jr-dropdown-button id="cityCode" options="queryOptions.cityCode" value="orders.bankcard.cityCode"></jr-dropdown-button>
+
+            </td>
+        </tr>
+        <tr>
+
+            <td class="name-f">开户行名称<span class="red">*</span></td>
+            <td class="name-v">
+                <div class="ui-suggestion">
+                    <input type="text" class="form-control" ng-model="orders.bankcard.bankName" ng-change="changeself()" ng-blur="blurself()" jr-placeholder="" required/>
+                    <div class="dropdown-tooltip" ng-if="queryOptions.bankName.length > 0">
+                        <ul>
+                            <li ng-repeat="item in queryOptions.bankName" ng-model="queryOptions.bankName" ng-click="selectbankName(item.bankName)">
+                                <cite>{{item.bankName}}</cite>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+            </td>
+            <td class="name-f">支行名称<span class="red">*</span></td>
+            <td class="name-v">
+                <input type="text" class="form-control" ng-model="orders.bankcard.branchBankName" jr-placeholder="" required/>
+
+            </td>
+            <td class="name-f">是否对公<span class="red">*</span></td>
+            <td class="name-v">
+                <jr-dropdown-button options="queryOptions.isPublic" value="orders.bankcard.isPublic"></jr-dropdown-button>
+
+            </td>
+            <td class="name-f">支行联行号</td>
+            <td class="name-v">
+                <input type="text" class="form-control" ng-model="orders.bankcard.bankChain" jr-placeholder="" />
+
+            </td>
+        </tr>
+        </tbody>
+    </table>
+</form>
+</div>

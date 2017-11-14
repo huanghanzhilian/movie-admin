@@ -1,0 +1,13 @@
+{
+  "success": true,
+  "object": [
+    {
+      "systemName": "admin",
+      "systemDesc": "审核系统"
+    },
+    {
+      "systemName": "stat",
+      "systemDesc": "运营系统"
+    }
+  ]
+}

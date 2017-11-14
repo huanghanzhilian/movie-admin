@@ -1,0 +1,22 @@
+<div class="modal-header">
+    <a href="javascript:void(0)" ng-click="$dismiss('cancel')" class="modal-close"></a>
+    <h3 class="modal-title">{{title}}:</h3>
+</div>
+<form name="rejectForm" novalidate ng-submit="submit()">
+<div class="modal-body">
+    <table class="lh-2-5">
+        <tbody>
+            <tr ng-repeat="reason in reasons">
+                <td ng-repeat="item in reason"><jr-checkbox checked="item.checked" text="{{item.text}}"></jr-checkbox></td>
+            </tr>
+            <tr>
+                <td colspan="2"><textarea class="form-modal mt-s" rows="2" ng-model="addition.text" jr-placeholder="其他理由补充说明,100个字以内" maxlength="100"></textarea></td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+<div class="modal-footer">
+    <span class="error-info">{{errorInfo}}</span>
+    <button class="btn btn-primary btn-submit" type="submit">提交</button>
+</div>
+</form>

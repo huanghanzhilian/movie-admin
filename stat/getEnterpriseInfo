@@ -1,0 +1,302 @@
+{
+  "success": true,
+  "object": {
+    "logo": {
+      "base": {
+        "recordStatus": "0",
+        "createTime": "2016-04-19 19:53:57",
+        "updateTime": "2016-04-19 19:53:57"
+      },
+      "id": "722392799395209216",
+      "attachmentName": "Tulips.jpg",
+      "attachmentUrl": "http://file-10011010.file.myqcloud.com/yuefu/722392796794748928.Tulips.jpg",
+      "optType": "4",
+      "foreignId": "722263632519393280",
+      "attachmentDesc": "logo"
+    },
+    "financialStatement": {
+      "base": {
+        "recordStatus": "0",
+        "createTime": "2016-04-19 17:04:14",
+        "updateTime": "2016-04-19 17:04:14"
+      },
+      "id": "722350086566215680",
+      "attachmentName": "合作方法人资料+财务联系方式.xls",
+      "attachmentUrl": "http://file-10011010.file.myqcloud.com/yuefu/722350087056945152.%E5%90%88%E4%BD%9C%E6%96%B9%E6%B3%95%E4%BA%BA%E8%B5%84%E6%96%99%2B%E8%B4%A2%E5%8A%A1%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F.xls",
+      "optType": "4",
+      "foreignId": "722263632519393280",
+      "attachmentDesc": "financialStatement"
+    },
+    "permit": {
+      "base": {
+        "recordStatus": "0",
+        "createTime": "2016-04-19 17:03:45",
+        "updateTime": "2016-04-19 17:03:45"
+      },
+      "id": "722349962033135616",
+      "attachmentName": "Penguins.jpg",
+      "attachmentUrl": "http://pic.58.com/manage.yuefu.58.com/n_v1bl2lwklr6qkvposccvva_d016075a4f426d09.jpg",
+      "optType": "4",
+      "foreignId": "722263632519393280",
+      "attachmentDesc": "permit"
+    },
+    "enterprise": {
+      "base": {
+        "recordStatus": "0",
+        "createTime": "2016-04-19 11:20:42",
+        "updateTime": "2016-04-21 11:48:45"
+      },
+      "id": "722263632519393280",
+      "companyId": "722263630313185280",
+      "companyName": "测试caoke",
+      "companyRegisteredCapital": "1",
+      "companyLicenseNumber": "9999",
+      "hasBankBorrowing": "0",
+      "officeAddress": "2",
+      "officeProvince": "山西省",
+      "officeCity": "大同市",
+      "officeProvinceCode": "140000",
+      "officeCityCode": "140200",
+      "is58orAngu": "1",
+      "wubaOrAnguUserName": "1",
+      "subCompanyCount": "1",
+      "roomCount": "1",
+      "houseCount": "1",
+      "avgRentRoomCount": "1",
+      "agentCount": "1",
+      "agentAvgWage": "1",
+      "roomType": "1",
+      "decorationCost": "99999999",
+      "gainRoomType": "1",
+      "roomCntPerSubCom": "99999999",
+      "rentMin": "99999999",
+      "rentMax": "99999999",
+      "rentalPopulation": "0",
+      "occupancyRate": "9999",
+      "avgRentalCost": "99999999",
+      "avgRentalIncome": "99999999",
+      "grossMargin": "0",
+      "unRentalRate": "0",
+      "corporateName": "2",
+      "corporateIdCard": "Lg/AwoaRiun0+Rr2h/0axiLmX1DpWjcUn4inQuNqvfH4i/jGWIJPT1EsqSPv1eNwFJRkU5hQkZEs J3b4J3kKB0JalU9fGxA6qyG2BG0wFERDsJylqjETnWSk8yzgTZCIQKtrCO+eHSPey4KQPsFfemPd pxz6TfJU52T9aOz5A50= ",
+      "corporateIdCardMd5": "67ebf51f35f55add6378d9c62c45c292",
+      "corporatePhone": "13488788682",
+      "corporateCity": "北京市",
+      "corporateAddress": "2",
+      "corporateMaritalStatus": "0",
+      "emergencyName": "2",
+      "emergencyRelation": "0",
+      "emergencyPhone": "11111111111",
+      "financePhone": "11111111111",
+      "rentCollectorPhone": "13488788682",
+      "rentCollectorName": "1",
+      "rentCollectorBankCard": "C/hD05VY0S5RN2oh92Ux4MXRTGZ6VOfvVj6B++012BPvsQK7c2CIXYBLCt3F4k6bY9IRVxitESMw jiUTlTOqzYV6RdzKyLCtm+fzkiKjuzPR7eZ8UmZDmDB6zv7IW88o3BnYMT4xb6WRykEMzkr3qEYg /63r/YoUE7Jc4Hdb6gk= ",
+      "rentCollectorBankName": "1",
+      "rentCollectorBankCardMd5": "c4ca4238a0b923820dcc509a6f75849b",
+      "currStatus": "10",
+      "corporateIdCardText": "145685522222222222",
+      "corporateIdCardHide": "1****************2",
+      "accountStatus": "1",
+      "rentCollectorBankCardText": "1",
+      "rentCollectorBankCardHide": "11",
+      "corporateProvince": "北京市",
+      "corporateProvinceCode": "110000",
+      "corporateCityCode": "110100"
+    },
+    "license_Small": {
+      "base": {
+        "recordStatus": "0",
+        "createTime": "2016-04-19 17:03:42",
+        "updateTime": "2016-04-19 17:03:42"
+      },
+      "id": "722349951803224064",
+      "attachmentName": "Desert.jpg",
+      "attachmentUrl": "http://pic.58.com/manage.yuefu.58.com/n_v1bkuyfvlp6qkvo2dwsywq_4efbf870af0a0e2d.jpg",
+      "optType": "4",
+      "foreignId": "722263632519393280",
+      "attachmentDesc": "license_Small_722349951799025664"
+    },
+    "housePhotos": {
+      "base": {
+        "recordStatus": "0",
+        "createTime": "2016-04-19 17:04:07",
+        "updateTime": "2016-04-19 17:04:07"
+      },
+      "id": "722350058976079872",
+      "attachmentName": "关于使用DB增删改查时身份证、银行卡属性的设置.txt",
+      "attachmentUrl": "http://file-10011010.file.myqcloud.com/yuefu/722350058435010560.%E5%85%B3%E4%BA%8E%E4%BD%BF%E7%94%A8DB%E5%A2%9E%E5%88%A0%E6%94%B9%E6%9F%A5%E6%97%B6%E8%BA%AB%E4%BB%BD%E8%AF%81%E3%80%81%E9%93%B6%E8%A1%8C%E5%8D%A1%E5%B1%9E%E6%80%A7%E7%9A%84%E8%AE%BE%E7%BD%AE.txt",
+      "optType": "4",
+      "foreignId": "722263632519393280",
+      "attachmentDesc": "housePhotos"
+    },
+    "permit_Small": {
+      "base": {
+        "recordStatus": "0",
+        "createTime": "2016-04-19 17:03:45",
+        "updateTime": "2016-04-19 17:03:45"
+      },
+      "id": "722349964327407616",
+      "attachmentName": "Penguins.jpg",
+      "attachmentUrl": "http://pic.58.com/manage.yuefu.58.com/n_v1bl2lwwls6qkvpxytsuza_6666f81f38fd44ce.jpg",
+      "optType": "4",
+      "foreignId": "722263632519393280",
+      "attachmentDesc": "permit_Small_722349962033135616"
+    },
+    "IDCardFront_Small": {
+      "base": {
+        "recordStatus": "0",
+        "createTime": "2016-04-19 17:03:34",
+        "updateTime": "2016-04-19 17:03:34"
+      },
+      "id": "722349920652128256",
+      "attachmentName": "Chrysanthemum.jpg",
+      "attachmentUrl": "http://pic.58.com/manage.yuefu.58.com/n_v1bl2lwwli6qkvp3uaeuwa_6666f81f38fd44ce.jpg",
+      "optType": "4",
+      "foreignId": "722263632519393280",
+      "attachmentDesc": "IDCardFront_Small_722349920614375424"
+    },
+    "leaseContract": {
+      "base": {
+        "recordStatus": "0",
+        "createTime": "2016-04-19 17:04:24",
+        "updateTime": "2016-04-19 17:04:24"
+      },
+      "id": "722350128928677888",
+      "attachmentName": "优化.txt",
+      "attachmentUrl": "http://file-10011010.file.myqcloud.com/yuefu/722350127498416128.%E4%BC%98%E5%8C%96.txt",
+      "optType": "4",
+      "foreignId": "722263632519393280",
+      "attachmentDesc": "leaseContract"
+    },
+    "housingContract": {
+      "base": {
+        "recordStatus": "0",
+        "createTime": "2016-04-19 17:04:19",
+        "updateTime": "2016-04-19 17:04:19"
+      },
+      "id": "722350108087177216",
+      "attachmentName": "需求功能点.txt",
+      "attachmentUrl": "http://file-10011010.file.myqcloud.com/yuefu/722350105289588736.%E9%9C%80%E6%B1%82%E5%8A%9F%E8%83%BD%E7%82%B9.txt",
+      "optType": "4",
+      "foreignId": "722263632519393280",
+      "attachmentDesc": "housingContract"
+    },
+    "IDCardBack": {
+      "base": {
+        "recordStatus": "0",
+        "createTime": "2016-04-19 17:03:38",
+        "updateTime": "2016-04-19 17:03:38"
+      },
+      "id": "722349934946320384",
+      "attachmentName": "Lighthouse.jpg",
+      "attachmentUrl": "http://pic.58.com/manage.yuefu.58.com/n_v1bkujjd3l6qkvofizbfra_cdebc1e04c8f0db9.jpg",
+      "optType": "4",
+      "foreignId": "722263632519393280",
+      "attachmentDesc": "IDCardBack"
+    },
+    "orgCertificate": {
+      "base": {
+        "recordStatus": "0",
+        "createTime": "2016-04-19 17:03:52",
+        "updateTime": "2016-04-19 17:03:52"
+      },
+      "id": "722349994253778944",
+      "attachmentName": "Penguins.jpg",
+      "attachmentUrl": "http://pic.58.com/manage.yuefu.58.com/n_v1bl2lwwlz6qkvovvecnkq_6666f81f38fd44ce.jpg",
+      "optType": "4",
+      "foreignId": "722263632519393280",
+      "attachmentDesc": "orgCertificate"
+    },
+    "officePhotos": {
+      "base": {
+        "recordStatus": "0",
+        "createTime": "2016-04-19 17:04:01",
+        "updateTime": "2016-04-19 17:04:01"
+      },
+      "id": "722350031998312448",
+      "attachmentName": "★工作居住证办理条件及登记表-模板.xlsx",
+      "attachmentUrl": "http://file-10011010.file.myqcloud.com/yuefu/722350027493638144.%E2%98%85%E5%B7%A5%E4%BD%9C%E5%B1%85%E4%BD%8F%E8%AF%81%E5%8A%9E%E7%90%86%E6%9D%A1%E4%BB%B6%E5%8F%8A%E7%99%BB%E8%AE%B0%E8%A1%A8-%E6%A8%A1%E6%9D%BF.xlsx",
+      "optType": "4",
+      "foreignId": "722263632519393280",
+      "attachmentDesc": "officePhotos"
+    },
+    "IDCardFront": {
+      "base": {
+        "recordStatus": "0",
+        "createTime": "2016-04-19 17:03:34",
+        "updateTime": "2016-04-19 17:03:34"
+      },
+      "id": "722349920614375424",
+      "attachmentName": "Chrysanthemum.jpg",
+      "attachmentUrl": "http://pic.58.com/manage.yuefu.58.com/n_v1bl2lwjdh6qkvoocowrlq_30ea4fe579d2740c.jpg",
+      "optType": "4",
+      "foreignId": "722263632519393280",
+      "attachmentDesc": "IDCardFront"
+    },
+    "orgCertificate_Small": {
+      "base": {
+        "recordStatus": "0",
+        "createTime": "2016-04-19 17:03:52",
+        "updateTime": "2016-04-19 17:03:52"
+      },
+      "id": "722349996548050944",
+      "attachmentName": "Penguins.jpg",
+      "attachmentUrl": "http://pic.58.com/manage.yuefu.58.com/n_v1bkuymc326qkvol4ajr3a_55b683d383d7d405.jpg",
+      "optType": "4",
+      "foreignId": "722263632519393280",
+      "attachmentDesc": "orgCertificate_Small_722349994253778944"
+    },
+    "license": {
+      "base": {
+        "recordStatus": "0",
+        "createTime": "2016-04-19 17:03:42",
+        "updateTime": "2016-04-19 17:03:42"
+      },
+      "id": "722349951799025664",
+      "attachmentName": "Desert.jpg",
+      "attachmentUrl": "http://pic.58.com/manage.yuefu.58.com/n_v1bkuymc3p6qkvpbug2i3a_55b683d383d7d405.jpg",
+      "optType": "4",
+      "foreignId": "722263632519393280",
+      "attachmentDesc": "license"
+    },
+    "taxCertificate_Small": {
+      "base": {
+        "recordStatus": "0",
+        "createTime": "2016-04-19 17:03:49",
+        "updateTime": "2016-04-19 17:03:49"
+      },
+      "id": "722349981033328640",
+      "attachmentName": "Koala.jpg",
+      "attachmentUrl": "http://pic.58.com/manage.yuefu.58.com/n_v1bl2lwxtw6qkvpjaftzka_c5e82e3eff7fcb9a.jpg",
+      "optType": "4",
+      "foreignId": "722263632519393280",
+      "attachmentDesc": "taxCertificate_Small_722349981024935936"
+    },
+    "IDCardBack_Small": {
+      "base": {
+        "recordStatus": "0",
+        "createTime": "2016-04-19 17:03:38",
+        "updateTime": "2016-04-19 17:03:38"
+      },
+      "id": "722349937248980992",
+      "attachmentName": "Lighthouse.jpg",
+      "attachmentUrl": "http://pic.58.com/manage.yuefu.58.com/n_v1bl2lwxtl6qkvozjk5zha_c5e82e3eff7fcb9a.jpg",
+      "optType": "4",
+      "foreignId": "722263632519393280",
+      "attachmentDesc": "IDCardBack_Small_722349934946320384"
+    },
+    "taxCertificate": {
+      "base": {
+        "recordStatus": "0",
+        "createTime": "2016-04-19 17:03:49",
+        "updateTime": "2016-04-19 17:03:49"
+      },
+      "id": "722349981024935936",
+      "attachmentName": "Koala.jpg",
+      "attachmentUrl": "http://pic.58.com/manage.yuefu.58.com/n_v1bkujjd3w6qkvof53vema_cdebc1e04c8f0db9.jpg",
+      "optType": "4",
+      "foreignId": "722263632519393280",
+      "attachmentDesc": "taxCertificate"
+    }
+  }
+}

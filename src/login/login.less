@@ -1,0 +1,159 @@
+@import '../_common/less-config.less';
+
+@footer-text-color: #fff;
+@header-login-height: 81px;
+@footer-login-height: 68px;
+@login-form-side: 272px;
+
+body,html {
+    background-color: #f7f9fa;
+}
+
+body {
+    padding-top: 0;
+}
+
+.header-login {
+    .box-shadow();
+    border: none;
+    height: @header-login-height;
+
+    .logo {
+        margin-left: 80px;
+    }
+}
+
+.body-login {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background: url(../_common/img/4.png) no-repeat center;
+    .background-size(cover);
+}
+
+.login-content {
+    position: absolute;  
+    top: 50%;
+    left: 50%;
+    margin-top: -250px;
+    width: 500px;
+    height: 390px;
+    margin-left: -250px;
+
+    .login-title {
+        padding: 25px 0;
+        color: #fff;
+        font-size: 26px;
+    }
+
+    .logo-yuefu {
+        display: inline-block;
+        
+        img {
+            display: inline-block;
+            height: 30px;
+            vertical-align: -4px;
+        }
+    }
+
+    .line-h {
+        display: inline-block;
+        width: 1px;
+        height: 20px;
+        background: #fff;
+        overflow: hidden;
+        margin: 0 10px 0 15px;
+    }
+}
+.modify-agent-info{
+  .usericon {
+    .border-radius(0);
+    height: 32px;
+    padding: 6px 16px;
+    background-color: #fff;
+    background: url(../_common/img/username.png?__sprite) no-repeat 4px 4px;
+
+  }
+}
+
+.login-form {
+    padding: 60px 80px;
+    border-radius: 4px;
+    background-color: #fff;
+    
+    h3 {
+        font-size: 16px;
+        text-align: center;
+        margin-top: 0;
+    }
+    
+    .code-img {
+        .border-radius();
+        float: right;
+        cursor: pointer;
+
+    }
+
+    .input-group {
+        margin-top: @margin;
+        
+        .input-group-addon {
+            .border-radius(0);
+            height: 32px;
+            padding: 6px 16px;
+            background-color: #fff;
+            background: url(../_common/img/username.png?__sprite) no-repeat 4px 4px;
+            border-color: #2980ee;
+        }
+
+        .password-addon {
+            background: url(../_common/img/password.png?__sprite) no-repeat 4px 4px;
+        }
+
+        input {
+            .placeholder();
+            border:1px solid #2980ee;
+        }   
+    }
+    
+    .error-info {
+        height: 18px;
+        margin-top: 14px;
+        margin-bottom: 0;
+        margin-left: 0;
+    }
+
+    .btn-primary {
+        width: 100%;
+    }
+    .btn-findpwd{
+      width: 100%;
+      padding-top: 10px;
+      text-align: right;
+    }
+
+}
+
+.footer-login {
+    position: absolute;
+    bottom: 0;
+    height: @footer-login-height;
+    width: 100%;
+    background-color: transparent;
+    color: @footer-text-color;
+    text-align: center;
+    line-height: 1.2;
+    
+    .footer-links {
+        margin-top: 8px;
+    }
+    
+    .footer-text {
+        margin-top: @margin;
+    }
+
+    a {
+        margin: 8px 18px;
+        color: @footer-text-color;
+    }
+}

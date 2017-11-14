@@ -1,0 +1,27 @@
+{
+  "success": true,
+  "object": {
+    "infoList": [
+        {
+                "companyId": "6",
+                "createTime": "2017-03-02 20:32:43",
+                "briefName": "函数-美月付公寓",
+                "companyName": "函数-美月付科技有限公司",
+                "cooperationEnd": "2018-03-02 20:32:43",
+                "cooperationStart": "2017-03-02 20:32:43",
+                "legalPersonName": "刘天笔"
+            }
+    ],
+    "pageNum": 1,
+    "pageSize": 10,
+    "totalPage": 416,
+    "totalCount": 4159,
+    "defaultPageNum": "10",
+    "__isset_bit_vector": [
+      1,
+      1,
+      1,
+      1
+    ]
+  }
+}

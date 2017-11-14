@@ -1,0 +1,335 @@
+@import '../less-config.less';
+
+@form-input-height: 30px;
+@bg-color-hover: #f7f9fa;
+
+.form-control {
+    .placeholder();
+    .border-radius(0);
+  .box-shadow(none);
+  display: table-cell;
+    width: 112px;
+    /* height: @form-input-height; */
+    padding: 6px 8px;
+    border: 1px solid #dcdcdc;
+    font-size: @default-font-size;
+
+    &:focus {
+        outline: none;
+      -webkit-box-shadow:none;
+      border-color: #61b6f0;
+    }
+}
+.list-text{
+  margin-right: 10px;
+  .form-control {
+    display: inline;
+    width: 200px;
+    height: 30px;
+  }
+}
+.form-text{
+  margin-right: 10px;
+  line-height: 30px;
+}
+.jr-checkbox {
+    display: inline-block;
+    cursor: pointer;
+
+    input {
+        display: none;
+    }
+
+    .icon {
+        width: 17px;
+        height: 17px;
+        margin-right: 0;
+        background-position: -528px 1px;
+    }
+
+    &.checked .icon {
+        background-position: -528px -31px;
+    }
+}
+
+.form-modal {
+    /* .border-radius(); */
+    .box-shadow(~'inset 0 1px 0px #cacaca, inset 0 1px 2px 1px #e4e4e4');
+    padding: 6px 8px;
+    width: 100%;
+    resize: none;
+    border: none;
+    border: 1px solid #e4e4e4\8;
+    background-color: @bg-color-hover;
+    line-height: 1.5;
+
+    &:focus {
+        background-color: @bg-color-hover;
+        outline: none;
+    }
+
+    &.w80 {
+        width: 80px;
+    }
+}
+
+.label-radio {
+    margin-bottom: 0;
+    cursor: pointer;
+    font-weight: normal;
+    height: 32px;
+    line-height: 32px;
+
+    input {
+        margin-top: 0;
+        margin-right: 8px;
+        vertical-align: middle;
+    }
+
+    .glyphicon {
+        margin-left: 0px;
+    }
+
+    * {
+        line-height: 32px;
+        vertical-align: top;
+    }
+}
+
+textarea {
+    padding: 5px;
+}
+
+.textarea {
+    width: 100%;
+    resize: none;
+}
+
+.read-only {
+    
+    .uncheck {
+        display: none;
+    }
+}
+
+.form-group {
+    margin-bottom: 16px;
+    min-height: 50px;
+    label {
+        display: inline-block;
+        width: 80px;
+        font-weight: normal;
+    }
+
+    .form-control {
+        width: 200px;
+    }
+}
+
+
+// ui kit 新UI class 以ui-为前缀
+
+.ui-inputunit{
+    border: 1px solid #B9CBE1;
+    display: inline-block;
+    padding: 0 10px;
+    margin-right: 30px;
+    span{
+        color: #ACACAC;
+    }
+    input{
+        height: 30px;
+        width: 65px;
+        border: none;
+        outline: none;
+        text-align: center;
+    }
+}
+
+.ui-textarea{
+    position: relative;
+    border: 1px solid #B9CBE1;
+    width: 800px;
+    height: 100px;
+    display: inline-block;
+    textarea{
+        height: 100%;
+        width: 100%;
+        resize: none;
+        border: none;
+        outline: none;
+    }
+    .max-length{
+        position: absolute;
+        right: 8px;
+        bottom: 5px;
+        color: #aaa;
+        font-family: arial,tahoma,"Microsoft YaHei","\5b8b\4f53";
+    }
+}
+
+.ui-select{
+    .dropdown-toggle{
+      .box-shadow(none);
+        height: 32px;
+        line-height: 32px;
+        padding: 0;
+        border: 1px solid #B9CBE1;
+        .text{
+            width: 109px;
+            display: inline-block;
+            //color: #aaa;
+            margin-left: 10px;
+            float: left;
+        }
+        .ui-icon{
+            width: 31px;
+            height: 30px;
+            display: inline-block;
+            float: left;
+            border-left: 1px solid #B9CBE1;
+        }
+        &:active{
+            border: 1px solid #8ABCF9;
+        }
+    }
+    &.open{
+        .dropdown-toggle{
+            border: 1px solid #8ABCF9;
+          .box-shadow(none);
+        }
+    }
+    .dropdown-menu{
+        .border-radius(0);
+        padding: 0;
+      .box-shadow(none);
+        a:hover {
+            background-color: #1579f4;
+        }
+    }
+}
+.dropdown-menu{
+  .box-shadow(none);
+}
+
+.ui-checkbox{
+  display: inline-block;
+  cursor: default;
+  position: relative;
+
+  input {
+    display: none;
+  }
+  span{
+    position: relative;
+    top: 2px;
+    display: inline-block;
+    border: 1px solid #B9CBE1;
+    height: 14px;
+    width: 14px;
+    margin-right: 10px;
+    &:hover{
+      box-shadow: inset 1px 1px 5px #ddd;
+    }
+  }
+  .icon {
+    position: absolute;
+    left: -1px;
+    top: 1px;
+    width: 16px;
+    height: 14px;
+    background: none;
+  }
+
+  &.checked {
+    span{
+      box-shadow: inset 1px 1px 5px #ddd;
+    }
+    .icon {
+      background: url(../img/ui-checkbox-icon.png) no-repeat;
+    }
+  }
+}
+
+.ui-radio{
+    position: relative;
+    input {
+        opacity: 0;
+        &:checked + label{
+
+            &:after {
+                content: '';
+                position: absolute;
+                top: 4px;
+                left: 3px;
+                display: inline-block;
+                font-size: 11px;
+                width: 8px;
+                height: 8px;
+                background-color: #428BCA;
+                .border-radius(8px);
+            }
+        }
+    }
+    
+    label {
+        padding-left: 10px;
+        cursor: pointer;
+        margin-bottom: 7px !important;
+        font-weight: normal;
+        color: #4a535e;
+        display: inline-block;
+
+        &:before {
+            width: 14px;
+            height: 14px;
+            position: absolute;
+            top: 1px;
+            left: 0;
+            content: '';
+            display: inline-block;
+            border: 1px solid #dcdcdc;
+            background: #fff;
+            .border-radius(14px);
+        }
+    }
+    .icon {
+        position: absolute;
+        left: 1px;
+        top: 1px;
+        width: 10px;
+        height: 10px;
+        .border-radius(10px);
+        background: none;
+    }
+    &.checked {
+        .icon {
+            background: #1579F4;
+        }
+    }
+}
+
+.ui-datepicker {
+    border: 1px solid #dcdcdc;
+    display: inline-block;
+    margin-right: 30px;
+    position: relative;
+    width: auto;
+    padding-right: 10px;
+    input {
+        padding: 0 10px;
+        height: 30px;
+        width: 120px;
+        border: none;
+        outline: none;
+        text-align: center;
+    }
+
+    i {
+        display: inline-block;
+        width: 16px;
+        height: 16px;
+        background: url(../img/icon.png) -192px 0;
+        vertical-align: -3px;
+    }
+}

@@ -1,0 +1,12 @@
+
+<div class="jr-city-select-wrap">
+    <div class="jr-city-select-item">
+        <jr-dropdown-button-new options="queryOptions.provinces"  value="province" placeholdertext="省" disabled="disabled"></jr-dropdown-button-new>
+    </div>
+    <div class="jr-city-select-item" style="margin-left: 10px;" ng-if="colspan>1">
+        <jr-dropdown-button-new options="queryOptions.cities"  value="city" placeholdertext="市" disabled="disabled"></jr-dropdown-button-new>
+    </div>
+    <div class="jr-city-select-item" style="margin-left: 10px;" ng-if="colspan>2">
+        <jr-dropdown-button-new options="queryOptions.districts"  value="district" placeholdertext="区县" disabled="disabled"></jr-dropdown-button-new>
+    </div>
+</div>

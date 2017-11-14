@@ -1,0 +1,36 @@
+{
+  "success": true,
+  "object": {
+    "lOrdinaryTable": [],
+    "userName": "莫肇康",
+    "lEmergencyTable": [
+      {
+        "time": "0",
+        "agentName": "杜中阳",
+        "userName": "莫肇康",
+        "agentPhone": "17737514579",
+        "briefName": "克尔达",
+        "callDate": "2016-04-26 17:04:28",
+        "callType": "主叫"
+      },
+      {
+        "time": "0",
+        "agentName": "罗静",
+        "userName": "莫肇康",
+        "agentPhone": "15111957355",
+        "briefName": "新凯",
+        "callDate": "2016-10-20 15:24:44",
+        "callType": "主叫"
+      },
+      {
+        "time": "0",
+        "agentName": "任庆腾",
+        "userName": "莫肇康",
+        "agentPhone": "18302381553",
+        "briefName": "房博士",
+        "callDate": "2016-10-25 17:22:56",
+        "callType": "主叫"
+      }
+    ]
+  }
+}

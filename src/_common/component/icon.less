@@ -1,0 +1,140 @@
+@import '../less-config.less';
+
+@icon-side-length: 16px;
+
+.icon {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  margin-right: 4px;
+  background: url(../img/icon.png?__sprite) no-repeat;
+  vertical-align: -3px;
+
+  &.icon-search {
+    background-position: -288px 0;
+  }
+
+  &.icon-export {
+    background-position: -240px 0;
+  }
+
+  &.icon-sort-up {
+    background-position: -364px 0;
+
+    &.sort-cur {
+      background-position: -364px -32px;
+    }
+  }
+
+  &.icon-sort-down {
+    background-position: -336px 0;
+
+    &.sort-cur {
+      background-position: -336px -32px;
+    }
+  }
+}
+.btn:active {
+  .icon-export {
+    background-position: -240px -32px;
+  }
+}
+
+.glyphicon-ok-circle {
+  font-size: 20px;
+  color: #33CC00;
+}
+
+.glyphicon-remove-circle {
+  font-size: 20px;
+  color: red;
+}
+
+.small-icon {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  margin-right: 10px;
+  vertical-align: -5px;
+  margin-left: 10px;
+  background-repeat: no-repeat;
+  background-position: center;
+
+  &.icon-home {
+    background-image: url(../nimg/icon-home.png?__sprite);
+  }
+  &.icon-exit {
+    background-image: url(../nimg/icon-exit.png?__sprite);
+  }
+  &.icon-user {
+    background-image: url(../nimg/icon-user.png?__sprite);
+  }
+  &.icon-agent {
+    background-image: url(../nimg/icon-agent.png?__sprite);
+  }
+
+  &.icon-qingtui {
+    background-image: url(../nimg/icon-qingtui.png?__sprite);
+  }
+
+  &.icon-help {
+    background-image: url(../nimg/icon-help.png?__sprite);
+  }
+  &.icon-estate {
+    background-image: url(../nimg/icon-estate.png?__sprite);
+  }
+  &.icon-corporate {
+    background-image: url(../nimg/icon-corporate.png?__sprite);
+  }
+}
+
+.active{
+  .icon-home {
+    background-image: url(../nimg/icon-home-hover.png?__sprite);
+  }
+  .icon-user {
+    background-image: url(../nimg/icon-user-hover.png?__sprite);
+  }
+  .icon-agent {
+    background-image: url(../nimg/icon-agent-hover.png?__sprite);
+  }
+
+  .icon-qingtui {
+    background-image: url(../nimg/icon-qingtui-hover.png?__sprite);
+  }
+  .icon-help {
+    background-image: url(../nimg/icon-help-hover.png?__sprite);
+  }
+  .icon-estate {
+    background-image: url(../nimg/icon-estate-hover.png?__sprite);
+  }
+  .icon-corporate {
+    background-image: url(../nimg/icon-corporate-hover.png?__sprite);
+  }
+}
+.side>li>a:hover{
+
+  .icon-home {
+    background-image: url(../nimg/icon-home.png?__sprite);
+  }
+  .icon-user {
+    background-image: url(../nimg/icon-user.png?__sprite);
+  }
+  .icon-agent {
+    background-image: url(../nimg/icon-agent.png?__sprite);
+  }
+
+  .icon-qingtui {
+    background-image: url(../nimg/icon-qingtui.png?__sprite);
+  }
+
+  .icon-help {
+    background-image: url(../nimg/icon-help.png?__sprite);
+  }
+  .icon-estate {
+    background-image: url(../nimg/icon-estate.png?__sprite);
+  }
+  .icon-corporate {
+    background-image: url(../nimg/icon-corporate.png?__sprite);
+  }
+}

@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "object": {
+        "infoList": [{
+            "configName": "appTestCompany",
+            "configType": "1",
+            "configDesc": "app灰度测试 0禁止使用app 1可以使用app",
+            "defaultValue": "0",
+            "configId": "662209960494505984"
+        },
+        {
+            "configName": "companyMaxAgentNum",
+            "configType": "1",
+            "configDesc": "公寓最大房管员数",
+            "defaultValue": "50",
+            "configId": "657527818179063808"
+        },
+        {
+            "configName": "CuiShouDay",
+            "configType": "1",
+            "configDesc": "合作方催收期限（起，止）",
+            "defaultValue": "1,3",
+            "configId": "1100"
+        },
+        {
+            "configName": "DaKouDay",
+            "configType": "1",
+            "configDesc": "代扣期限（起，止）",
+            "defaultValue": "-4,5",
+            "configId": "1200"
+        },
+        {
+            "configName": "HuankuanDay",
+            "configType": "1",
+            "configDesc": "首期还款账单日(数量,单位)",
+            "defaultValue": "1,M",
+            "configId": "644803714040729600"
+        },
+        {
+            "configName": "interfaceCompany",
+            "configType": "1",
+            "configDesc": "经济公司是否使用线上接口服务（1是 0不是）",
+            "defaultValue": "0",
+            "configId": "1600"
+        },
+        {
+            "configName": "needEmergency2CompanyIds",
+            "configType": "1",
+            "configDesc": "需要填写第二紧急联系人的公司id",
+            "defaultValue": "641096921355661312,632546068705329152",
+            "configId": "654584820533305344"
+        },
+        {
+            "configName": "OurCuiShouDay",
+            "configType": "1",
+            "configDesc": "58催收期限（起，止）",
+            "defaultValue": "-4,3",
+            "configId": "1050"
+        },
+        {
+            "configName": "penalty",
+            "configType": "1",
+            "configDesc": "清退时公寓支付58违约金费率（返还：月租金*费率）",
+            "defaultValue": "0.1",
+            "configId": "1400"
+        },
+        {
+            "configName": "QingtuiConfigType",
+            "configType": "1",
+            "configDesc": "清退结算方式 1.正常 2.不收违约金不返回手续费",
+            "defaultValue": "1",
+            "configId": "662105144292294656"
+        }],
+        "pageNum": 1,
+        "pageSize": 10,
+        "totalPage": 2,
+        "totalCount": 17
+    }
+}

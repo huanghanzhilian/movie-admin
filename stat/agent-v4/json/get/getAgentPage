@@ -1,0 +1,130 @@
+{
+  "success": true,
+  "object": {
+    "infoList": [
+      {
+        "createTime": "2016-11-07 13:25:37",
+        "isCertification": "",
+        "agentCompanyId": "707439037157236736",
+        "agentId": "795497415657410560",
+        "forbiddenFlag": "-100",
+        "city": "成都市",
+        "agentCompany": "像素公寓",
+        "agentName": "刘汉兵",
+        "agentPhone": "18980439386",
+        "freezeReason": "因合作到期且尚未收到续约协议，需商务继续沟通新版本协议费率及罚息，故冻结"
+      },
+      {
+        "createTime": "2016-07-14 16:38:56",
+        "isCertification": "",
+        "agentCompanyId": "642241530395901952",
+        "agentId": "753509069758689280",
+        "forbiddenFlag": "-1",
+        "city": "合肥市",
+        "agentCompany": "孟邻",
+        "agentName": "郭建",
+        "agentPhone": "17718146527"
+      },
+      {
+        "createTime": "2016-03-07 14:02:07",
+        "isCertification": "",
+        "agentCompanyId": "641186871702982656",
+        "agentId": "706721565961646080",
+        "forbiddenFlag": "0",
+        "city": "郑州市",
+        "agentCompany": "魔飞分租",
+        "agentName": "刘仁杰",
+        "agentPhone": "18537135825"
+      },
+      {
+        "createTime": "2016-11-07 12:35:46",
+        "isCertification": "",
+        "agentCompanyId": "745460429383303168",
+        "agentId": "795484867998547968",
+        "forbiddenFlag": "0",
+        "city": "济南市",
+        "agentCompany": "济南思拓",
+        "agentName": "黄蒙蒙",
+        "agentPhone": "15668379014"
+      },
+      {
+        "createTime": "2016-04-25 09:44:31",
+        "isCertification": "",
+        "agentCompanyId": "715117743971532800",
+        "agentId": "724413751196930048",
+        "forbiddenFlag": "0",
+        "city": "重庆市",
+        "agentCompany": "房保姆",
+        "agentName": "张蜀鸿",
+        "agentPhone": "15123088313"
+      },
+      {
+        "createTime": "2016-04-12 11:35:59",
+        "isCertification": "",
+        "agentCompanyId": "715117743971532800",
+        "agentId": "719730759799169024",
+        "forbiddenFlag": "0",
+        "city": "重庆市",
+        "agentCompany": "房保姆",
+        "agentName": "胡运霞",
+        "agentPhone": "18680736988"
+      },
+      {
+        "createTime": "2016-08-18 21:37:11",
+        "isCertification": "",
+        "agentCompanyId": "757498249710952448",
+        "agentId": "766267705144668160",
+        "forbiddenFlag": "0",
+        "city": "北京市",
+        "agentCompany": "包租婆",
+        "agentName": "王健杰",
+        "agentPhone": "13552937088"
+      },
+      {
+        "createTime": "2016-08-09 14:28:09",
+        "isCertification": "",
+        "agentCompanyId": "757498249710952448",
+        "agentId": "762898241493692416",
+        "forbiddenFlag": "0",
+        "city": "北京市",
+        "agentCompany": "包租婆",
+        "agentName": "贾立贤",
+        "agentPhone": "18801213828"
+      },
+      {
+        "createTime": "2016-11-07 11:09:04",
+        "isCertification": "",
+        "agentCompanyId": "641886322830622721",
+        "agentId": "795463050386759680",
+        "forbiddenFlag": "0",
+        "city": "南京市",
+        "agentCompany": "贝客",
+        "agentName": "余洁",
+        "agentPhone": "13915961459"
+      },
+      {
+        "createTime": "2016-11-07 11:01:40",
+        "isCertification": "",
+        "agentCompanyId": "641819361077633024",
+        "agentId": "795461186136072192",
+        "forbiddenFlag": "0",
+        "city": "武汉市",
+        "agentCompany": "半橙",
+        "agentName": "孙宁",
+        "agentPhone": "13886638961",
+        "freezeReason": "因合作到期且尚未收到续约协议，需商务继续沟通新版本协议费率及罚息，故冻结"
+      }
+    ],
+    "pageNum": 1,
+    "pageSize": 10,
+    "totalPage": 416,
+    "totalCount": 4159,
+    "defaultPageNum": "10",
+    "__isset_bit_vector": [
+      1,
+      1,
+      1,
+      1
+    ]
+  }
+}

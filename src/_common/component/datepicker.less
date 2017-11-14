@@ -1,0 +1,116 @@
+@import '../less-config.less';
+
+@datepicker-width: 175px;
+
+.datepicker {
+    /* .border-radius(); */
+    margin: 0;
+    width: @datepicker-width;
+    background-color: #fff;
+    cursor: pointer;
+    //box-shadow: 0 1px 0 #cacaca,0 1px 2px 1px #e4e4e4;
+    border: 1px solid #dcdcdc;
+    .input-group-addon {
+        padding-left: 16px;
+        padding-right: 6px;
+        background-color: transparent;
+        border: none;
+        font-size: 13px;
+        color: #aaa;
+    }
+
+    .form-control {
+        box-shadow: none;
+        height: 30px;
+        padding: 0px 2px;
+        background-color: transparent;
+        border: none;
+        font-size: 13px;
+        color: #333;
+        cursor: pointer;
+    }
+
+    .input-group-btn {
+      .border-radius(0);
+      position: absolute;
+      top: 0;
+      right: 0;
+      border: 0;
+      padding: 0;
+      border-left: 1px solid #dcdcdc;
+      width: 30px;
+      height: 30px;
+      background: #f5f5f5 url(../nimg/icon-datatime.png) center no-repeat;
+
+
+    }
+  &:hover, &:active,&.open {
+    .input-group-btn{
+        background-color: #dcdcdc;
+
+    }
+  }
+
+    .dropdown-menu {
+      border: 1px solid #dcdcdc;
+      .box-shadow(none);
+        width: @datepicker-width;
+        left: 0!important;
+        
+        table {
+            table-layout: fixed;
+            width: 100%;
+        }
+
+        thead .h6 th{
+            padding: 8px 0;
+        }
+
+        .btn {
+            height: 25px;
+            padding: 0;
+            /* .border-radius(); */
+            border: none;
+            font-size: 12px;
+
+            .text-muted {
+                color: #ccc;
+            }
+        }
+
+        th .btn:hover,
+        th .btn:focus {
+            position: relative;
+        }
+        
+        .btn-block {
+
+        }
+
+        .btn-info {
+            color: #fff;
+            background-color: #2194e1;
+        }
+
+        .pull-left,
+        .pull-right {
+            padding: 0 10px;
+        }
+
+        .glyphicon {
+            display: inline-block;
+            width: 12px;
+            height: 12px;
+            background: url(../img/icon.png) -413px -2px;
+
+            &:before {
+                content: '';
+            }
+        }
+
+        .pull-right .glyphicon {
+            background-position: -440px -2px;
+        }
+    }
+
+}

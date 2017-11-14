@@ -1,0 +1,109 @@
+{
+    "success": true,
+    "object": {
+        "infoList": [{
+            "id": "664409305801302016",
+            "configName": "weixinTestCompany",
+            "configValue": "1",
+            "companyType": "公寓",
+            "companyId": "632546068705329152",
+            "configDesc": "weixin灰度测试 0禁止使用，1可以使用微信",
+            "companyName": "五八测试公寓",
+            "configId": "664407383547588608"
+        },
+        {
+            "id": "645795373301899264",
+            "configName": "HuankuanDay",
+            "configValue": "15,D",
+            "companyType": "公寓",
+            "companyId": "632546068705329152",
+            "configDesc": "首期还款账单日(数量,单位)",
+            "companyName": "五八测试公寓",
+            "configId": "644803714040729600"
+        },
+        {
+            "id": "644488533553197056",
+            "configName": "serviceFeeRate_2",
+            "configValue": "0.01,0.015,0.02,0.025,0.03,0.035,0.04,0.045,0.05,0.055,0.06",
+            "companyType": "公寓",
+            "companyId": "634265272169021440",
+            "configDesc": "公寓公司服务费率（借款1个月费率,借款两个月费率...）",
+            "companyName": "西安好熙家房屋托管有限公司",
+            "configId": "1550"
+        },
+        {
+            "id": "644488608241164288",
+            "configName": "serviceFeeRate_2",
+            "configValue": "0.01,0.015,0.02,0.025,0.03,0.035,0.04,0.045,0.05,0.055,0.06",
+            "companyType": "公寓",
+            "companyId": "637089507551756288",
+            "configDesc": "公寓公司服务费率（借款1个月费率,借款两个月费率...）",
+            "companyName": "四川意合居信息技术有限公司",
+            "configId": "1550"
+        },
+        {
+            "id": "646531000519639040",
+            "configName": "serviceFeeRate_1",
+            "configValue": "0.01,0.015,0.02,0.025,0.03,0.035,0.04,0.045,0.05,0.055,0.06",
+            "companyType": "公司",
+            "companyId": "637184079015448576",
+            "configDesc": "经纪人公司服务费率（借款1个月费率,借款两个月费率...）",
+            "companyName": "北京鹏基伟业房地产经纪有限公司",
+            "configId": "1500"
+        },
+        {
+            "id": "645793484791353344",
+            "configName": "HuankuanDay",
+            "configValue": "15,D",
+            "companyType": "公司",
+            "companyId": "637235140002586624",
+            "configDesc": "首期还款账单日(数量,单位)",
+            "companyName": "北京中联盛世房地产经纪有限公司",
+            "configId": "644803714040729600"
+        },
+        {
+            "id": "644486484795076608",
+            "configName": "serviceFeeRate_1",
+            "configValue": "0.009,0.014,0.018,0.023,0.027,0.032,0.036,0.041,0.046,0.05,0.055",
+            "companyType": "公司",
+            "companyId": "637235140002586624",
+            "configDesc": "经纪人公司服务费率（借款1个月费率,借款两个月费率...）",
+            "companyName": "北京中联盛世房地产经纪有限公司",
+            "configId": "1500"
+        },
+        {
+            "id": "1301",
+            "configName": "QingTuiDay",
+            "configValue": "7,10",
+            "companyType": "公寓",
+            "companyId": "638534065934315520",
+            "configDesc": "清退期限（起，止）",
+            "companyName": "寓见资产管理（上海）有限公司",
+            "configId": "1300"
+        },
+        {
+            "id": "644488595649871872",
+            "configName": "serviceFeeRate_2",
+            "configValue": "0.008,0.013,0.017,0.021,0.025,0.029,0.034,0.038,0.042,0.046,0.05",
+            "companyType": "公寓",
+            "companyId": "638534065934315520",
+            "configDesc": "公寓公司服务费率（借款1个月费率,借款两个月费率...）",
+            "companyName": "寓见资产管理（上海）有限公司",
+            "configId": "1550"
+        },
+        {
+            "id": "1001",
+            "configName": "thirdpartyInterface",
+            "configValue": "com.bj58.finance.zufangdai.v4.thirdparty.datasyn.YujianDataSyn",
+            "companyType": "公寓",
+            "companyId": "638534065934315520",
+            "configDesc": "审核催收等同步接口",
+            "companyName": "寓见资产管理（上海）有限公司",
+            "configId": "1000"
+        }],
+        "pageNum": 1,
+        "pageSize": 10,
+        "totalPage": 8,
+        "totalCount": 76
+    }
+}

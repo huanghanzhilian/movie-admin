@@ -1,0 +1,19 @@
+{
+  "success": true,
+  "object": [
+  {
+              "bankName": "北京大兴九银村镇银行"
+          },
+          {
+              "bankName": "北京怀柔融兴村镇银行"
+          },
+          {
+              "bankName": "北京昌平兆丰村镇银行"
+          },
+          {
+              "bankName": "北京银行"
+          },
+          {
+              "bankName": "北京顺义银座村镇银行"
+          }]
+}

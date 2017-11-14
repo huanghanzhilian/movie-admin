@@ -1,0 +1,19 @@
+{
+  "success": true,
+  "object": [
+    {
+      "checkDesc": "发布",
+      "queryFieldStr": "2015-11-24 10:52:39",
+      "checkMemo": "原因",
+      "checkRecord": "批准"
+    },
+    {
+      "checkDesc": "发布",
+      "queryFieldStr": "2015-11-24 10:52:39",
+      "checkMemo": "原因",
+      "checkRecord": "批准"
+    }
+  ],
+  "returnCode": "0",
+  "message": "成功"
+}

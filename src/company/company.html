@@ -1,0 +1,60 @@
+<link rel="stylesheet" href="company.less?__inline" />
+<div class="block clearfix">
+    <form name="searchForm" novalidate ng-submit="search($event)">
+        <div class="list-filter-col">
+            <input type="text" class="form-control" ng-model="queryParams.companyKey" jr-placeholder="公司" required/>
+        </div>
+
+        <div class="list-filter-col">
+            <input type="text" class="form-control" ng-model="queryParams.cityKey" jr-placeholder="城市" required/>
+        </div>
+        <div class="list-filter-col" ng-if="userInfo.roleId=='101'">
+            <button class="btn btn-output" type="button" ng-click="addCompany()">添加合作伙伴</button>
+        </div>
+        <div class="pos-rb">
+            <div class="list-filter-col">
+                <button class="btn btn-primary" type="submit"><i class="icon icon-search"></i>查找</button>
+            </div>
+            <div class="list-filter-col">
+                <button class="btn btn-default" type="button" ng-click="clearParams()">清空查询项</button>
+            </div>
+
+        </div>
+
+    </form>
+</div>
+
+
+<div class="table-con" id="guest-table">
+<table class="table break-all">
+    <thead>
+        <tr>
+            <th>公司编号</th>
+            <th>城市</th>
+            <th>公司名称</th>
+            <th>公司简称</th>
+            <th>合作起始时间</th>
+            <th>合作终止时间</th>
+            <th>法人姓名</th>
+            <th>操作</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr ng-repeat="order in orders.infoList">
+            <td><a ng-href="#/company/{{order.companyId}}" target="_blank">{{order.companyId}}</a></td>
+            <td>{{order.city}}</td>
+            <td>{{order.companyName}}</td>
+            <td>{{order.briefName}}</td>
+            <td>{{order.cooperationStart}}</td>
+            <td>{{order.cooperationEnd}}</td>
+            <td>{{order.legalPersonName}}</td>
+            <td>
+                <a ng-href="#/company/{{order.companyId}}" target="_blank">详情</a>
+                <a ng-href="#/company/{{order.companyId}}?type=edit"  ng-if="userInfo.roleId=='101'" target="_blank">编辑</a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</div>
+
+<pagination total-items="orders.totalCount" page="orders.pageNum" max-size="9"></pagination>

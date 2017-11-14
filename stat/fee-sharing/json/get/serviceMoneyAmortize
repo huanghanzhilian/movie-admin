@@ -1,0 +1,13 @@
+{
+  "success": true,
+  "object": [
+    {
+      "repayingMoney": "269708.05",
+      "serviceMoneyIncrement": "3559115.16",
+      "endMoney": "5830647.77",
+      "initMoney": "3382095.89",
+      "serviceMoneyMonthIncome": "840855.23",
+      "statDate": "2016-10-07到2016-11-06"
+    }
+  ]
+}

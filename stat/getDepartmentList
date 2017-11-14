@@ -1,0 +1,25 @@
+{
+  "success": true,
+  "object": {
+    "infoList": [
+      {
+        "id": 21,
+        "companyName": "北京世纪鸿源房地产经纪有限公司大牛坊一店",
+        "agentCount": "0",
+        "legalPersonName": "xxx",
+        "legalPersonPhone": "18513852749"
+      }
+    ],
+    "pageNum": 0,
+    "pageSize": 0,
+    "totalPage": 0,
+    "totalCount": 3,
+    "defaultPageNum": "10",
+    "__isset_bit_vector": [
+      1,
+      1,
+      1,
+      1
+    ]
+  }
+}

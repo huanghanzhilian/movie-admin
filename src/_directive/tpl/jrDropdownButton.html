@@ -1,0 +1,9 @@
+<div class="btn-group dropdown-btn">
+    <button type="button" class="btn dropdown-toggle {{theme || 'btn-default'}}" data-toggle="dropdown" ng-disabled="disabled">
+        <span class="displayName">{{displayName}}</span>
+        <span class="caret"></span>
+    </button>
+    <ul class="dropdown-menu" role="menu">
+        <li ng-repeat="option in options"><a ng-click="select(option)">{{option.name || option}}</a></li>
+    </ul>
+</div>

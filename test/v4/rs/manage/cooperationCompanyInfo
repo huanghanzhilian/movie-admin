@@ -1,0 +1,87 @@
+{
+	"success": true,
+	"object": {
+		"agentInfo": {
+			"agentName": "唐婷婷",
+			"agentIdCard": "500225199303019102",
+			"workStatus": "在职",
+			"wbUserName": "管家婆06",
+			"agentPhone": "18723060356",
+			"childCompany": "管家婆"
+		},
+		"bankCardInfo": {
+			"accountText": "31060101040014832",
+			"ownerName": "重庆管家婆房地产经纪有限公司",
+			"bankName": "农业银行",
+			"reservePhone": "",
+			"city": "重庆市"
+		},
+		"rentSituationTable": [{
+			"fieldName": "房间出租数",
+			"fieldValue": "1000套",
+			"isPic": false
+		}, {
+			"fieldName": "已放款笔数",
+			"fieldValue": "12笔",
+			"isPic": false
+		}, {
+			"fieldName": "平均租房价格（月结款额）",
+			"fieldValue": "1468.87/套/月",
+			"isPic": false
+		}, {
+			"fieldName": "平均租房期限（借款期限）",
+			"fieldValue": "8.83个月",
+			"isPic": false
+		}, {
+			"fieldName": "逾期数量/占比",
+			"fieldValue": "0套/0%",
+			"isPic": false
+		}, {
+			"fieldName": "清退数量/占比",
+			"fieldValue": "0套/0%",
+			"isPic": false
+		}],
+		"companyTable": {
+			"legalPersonIdCard": "",
+			"legalPersonPhone": "",
+			"legalPersonName": "",
+			"briefName": "管家婆"
+		},
+		"financeCondition": {
+			"zjqk": "323.67%"
+		},
+		"rentHouseMonitorTable": [{
+			"fieldName": "企业授信额度",
+			"fieldValue": "500000",
+			"isPic": false
+		}, {
+			"fieldName": "已放款金额",
+			"fieldValue": "155700",
+			"isPic": false
+		}, {
+			"fieldName": "已还款金额",
+			"fieldValue": "3900",
+			"isPic": false
+		}, {
+			"fieldName": "待放款金额",
+			"fieldValue": "11550",
+			"isPic": false
+		}, {
+			"fieldName": "未还款金额",
+			"fieldValue": "151800",
+			"isPic": false
+		}, {
+			"fieldName": "逾期金额",
+			"fieldValue": "0",
+			"isPic": false
+		}, {
+			"fieldName": "清退金额",
+			"fieldValue": "0",
+			"isPic": false
+		}, {
+			"fieldName": "剩余信用金额",
+			"fieldValue": "336650",
+			"isPic": false
+		}]
+	}
+}

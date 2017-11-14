@@ -1,0 +1,118 @@
+{
+  "success": true,
+  "object": {
+    "infoList": [
+      {
+        "phone": "13678033211,13678033211,13880727757",
+        "degree": "223",
+        "riskRole": "租客,租客,紧急联系人",
+        "userName": "余清霖",
+        "riskType": "多重角色,多重关联,多重关联",
+        "briefName": "成都住哪儿",
+        "orderId": "20123",
+        "roleDetail": "房管员|租客,房管员|租客,紧急联系人"
+      },
+      {
+        "phone": "18603810530,18603810530",
+        "degree": "175",
+        "riskRole": "紧急联系人,紧急联系人",
+        "userName": "王乾婷",
+        "riskType": "多重角色,多重关联",
+        "briefName": "米客之家",
+        "orderId": "27805",
+        "roleDetail": "房管员|紧急联系人,房管员|紧急联系人"
+      },
+      {
+        "phone": "18603810530,18603810530",
+        "degree": "134",
+        "riskRole": "紧急联系人,紧急联系人",
+        "userName": "梅博振",
+        "riskType": "多重角色,多重关联",
+        "briefName": "米客之家",
+        "orderId": "27272",
+        "roleDetail": "房管员|紧急联系人,房管员|紧急联系人"
+      },
+      {
+        "phone": "15011584258,15011584258,15646505211",
+        "degree": "60",
+        "riskRole": "紧急联系人,紧急联系人,租客",
+        "userName": "杨蓉",
+        "riskType": "多重关联,多重角色,多重关联",
+        "briefName": "世纪鸿源大牛坊一店",
+        "orderId": "1363859",
+        "roleDetail": "房管员|紧急联系人,房管员|紧急联系人,租客"
+      },
+      {
+        "phone": "15011584258,15011584258",
+        "degree": "60",
+        "riskRole": "紧急联系人,紧急联系人",
+        "userName": "王恒",
+        "riskType": "多重关联,多重角色",
+        "briefName": "世纪鸿源大牛坊一店",
+        "orderId": "3546911",
+        "roleDetail": "房管员|紧急联系人,房管员|紧急联系人"
+      },
+      {
+        "phone": "18311166634,18311166634,13146446444",
+        "degree": "53",
+        "riskRole": "租客,租客,紧急联系人",
+        "userName": "孙健",
+        "riskType": "多重角色,多重关联,多重关联",
+        "briefName": "蛋壳",
+        "orderId": "581157",
+        "roleDetail": "房管员|租客,房管员|租客,紧急联系人"
+      },
+      {
+        "phone": "18781986875,18781986875",
+        "degree": "50",
+        "riskRole": "紧急联系人,紧急联系人",
+        "userName": "刘科",
+        "riskType": "多重角色,多重关联",
+        "briefName": "地和",
+        "orderId": "26746",
+        "roleDetail": "房管员|紧急联系人,房管员|紧急联系人"
+      },
+      {
+        "phone": "13971217125,13971217125",
+        "degree": "50",
+        "riskRole": "紧急联系人,紧急联系人",
+        "userName": "龚哲",
+        "riskType": "多重角色,多重关联",
+        "briefName": "可遇",
+        "orderId": "574646",
+        "roleDetail": "房管员|紧急联系人,房管员|紧急联系人"
+      },
+      {
+        "phone": "15937126707,15937126707",
+        "degree": "49",
+        "riskRole": "紧急联系人,紧急联系人",
+        "userName": "杨万杰",
+        "riskType": "多重角色,多重关联",
+        "briefName": "福万家",
+        "orderId": "31341",
+        "roleDetail": "房管员|紧急联系人,房管员|紧急联系人"
+      },
+      {
+        "phone": "18237179533,18237179533",
+        "degree": "45",
+        "riskRole": "紧急联系人,紧急联系人",
+        "userName": "孔金霞",
+        "riskType": "多重角色,多重关联",
+        "briefName": "克尔达",
+        "orderId": "580032",
+        "roleDetail": "房管员|紧急联系人,房管员|紧急联系人"
+      }
+    ],
+    "pageNum": 1,
+    "pageSize": 10,
+    "totalPage": 603,
+    "totalCount": 6029,
+    "defaultPageNum": "10",
+    "__isset_bit_vector": [
+      1,
+      1,
+      1,
+      1
+    ]
+  }
+}

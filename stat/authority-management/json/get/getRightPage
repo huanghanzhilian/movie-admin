@@ -1,0 +1,148 @@
+{
+  "success": true,
+  "object": {
+    "infoList": [
+      {
+        "createTime": "2016-09-09 15:24:54",
+        "groupName": "navigation",
+        "rightName": "agent-company",
+        "linkUrl": "",
+        "groupDesc": "导航项",
+        "systemName": "admin",
+        "id": "9",
+        "extraInfo": "",
+        "displayOrder": "",
+        "systemDesc": "审核系统",
+        "rightDesc": "公寓管理"
+      },
+      {
+        "createTime": "2016-09-09 15:23:57",
+        "groupName": "navigation",
+        "rightName": "agent-v4",
+        "linkUrl": "",
+        "groupDesc": "导航项",
+        "systemName": "admin",
+        "id": "7",
+        "extraInfo": "",
+        "displayOrder": "",
+        "systemDesc": "审核系统",
+        "rightDesc": "房管员管理"
+      },
+      {
+        "createTime": "2016-09-09 18:28:36",
+        "groupName": "button",
+        "rightName": "AgentCompanyManage_Freeze",
+        "linkUrl": "/manage/agent-company/json/update/forbiddenCompany",
+        "groupDesc": "按钮",
+        "systemName": "admin",
+        "id": "69",
+        "extraInfo": "",
+        "displayOrder": "",
+        "systemDesc": "审核系统",
+        "rightDesc": "公寓管理-人工冻结"
+      },
+      {
+        "createTime": "2016-09-14 18:13:43",
+        "groupName": "button",
+        "rightName": "AgentManage_FreezeAndUnFreeze",
+        "linkUrl": "/manage/agent-v4/json/update/forbiddenAgent",
+        "groupDesc": "按钮",
+        "systemName": "admin",
+        "id": "103",
+        "extraInfo": "",
+        "displayOrder": "",
+        "systemDesc": "审核系统",
+        "rightDesc": "房管员管理-人工冻结"
+      },
+      {
+        "createTime": "2016-09-09 15:35:33",
+        "groupName": "navigation",
+        "rightName": "auth-query",
+        "linkUrl": "",
+        "groupDesc": "导航项",
+        "systemName": "admin",
+        "id": "47",
+        "extraInfo": "",
+        "displayOrder": "",
+        "systemDesc": "审核系统",
+        "rightDesc": "认证查询"
+      },
+      {
+        "createTime": "2016-09-09 15:37:08",
+        "groupName": "navigation",
+        "rightName": "authority-management",
+        "linkUrl": "",
+        "groupDesc": "导航项",
+        "systemName": "admin",
+        "id": "49",
+        "extraInfo": "",
+        "displayOrder": "",
+        "systemDesc": "审核系统",
+        "rightDesc": "查看所有权限"
+      },
+      {
+        "createTime": "2016-09-09 15:30:07",
+        "groupName": "navigation",
+        "rightName": "company-warning",
+        "linkUrl": "",
+        "groupDesc": "导航项",
+        "systemName": "admin",
+        "id": "27",
+        "extraInfo": "",
+        "displayOrder": "",
+        "systemDesc": "审核系统",
+        "rightDesc": "公寓预警（新）"
+      },
+      {
+        "createTime": "2016-09-09 15:32:37",
+        "groupName": "navigation",
+        "rightName": "companySys-config",
+        "linkUrl": "",
+        "groupDesc": "导航项",
+        "systemName": "admin",
+        "id": "35",
+        "extraInfo": "",
+        "displayOrder": "",
+        "systemDesc": "审核系统",
+        "rightDesc": "公司系统配置"
+      },
+      {
+        "createTime": "2016-11-04 10:24:25",
+        "groupName": "button",
+        "rightName": "Confirm_ReceivedPayment",
+        "linkUrl": "/manage/repayingList-v4/json/update/confirmrepaying",
+        "groupDesc": "按钮",
+        "systemName": "admin",
+        "id": "117",
+        "extraInfo": "",
+        "displayOrder": "",
+        "systemDesc": "审核系统",
+        "rightDesc": "确认打款"
+      },
+      {
+        "createTime": "2016-11-03 20:47:59",
+        "groupName": "navigation",
+        "rightName": "credit-check",
+        "linkUrl": "",
+        "groupDesc": "导航项",
+        "systemName": "admin",
+        "id": "115",
+        "extraInfo": "",
+        "displayOrder": "",
+        "systemDesc": "审核系统",
+        "rightDesc": "认证查询(新)"
+      }
+    ],
+    "pageNum": 1,
+    "pageSize": 10,
+    "totalPage": 4,
+    "totalCount": 37,
+    "defaultPageNum": "10",
+    "__isset_bit_vector": [
+      1,
+      1,
+      1,
+      1
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+<link rel="stylesheet" href="Riskmigration.less?__inline" />
+<div class="block clearfix">
+    <form name="searchForm" novalidate ng-submit="search($event)">
+
+        <div class="list-filter-col">
+            <jr-dropdown-button options="queryOptions.graphLevel" value="queryParams.graphLevel" class="w120"></jr-dropdown-button>
+        </div>
+        <div class="list-filter-col">
+            <input id="filtername" class="form-control" ng-model="queryParams.filtername" placeholder="请输入用户名" style="width:150px;" />
+        </div>
+        <div class="list-filter-col">
+            <button class="btn btn-primary" type="submit"><i class="icon icon-search"></i>查找</button>
+        </div>
+  </form>
+</div>
+<div class="block clearfix">
+
+    <div class="fenxian">
+        <div class="h2">郑州福万家公寓风险图</div>
+        <div class="mint-cell clearfix" ng-repeat="item in data">
+            <div class="mint-cell-left">
+                {{item.name}}
+            </div>
+            <div class="mint-cell-right">
+                <span ng-repeat="item2 in item.list track by $index" class="mint-badge" ng-style='{"background-color":colorArr[item2]}'>&nbsp;</span>
+            </div>
+        </div>
+        <div class="mint-menu">
+            <div> <span class="mint-badge" style="background-color:#ededed;">&nbsp;</span>无风险</div>
+            <div> <span class="mint-badge" style="background-color:#d4d4d4;">&nbsp;</span>低风险</div>
+            <div> <span class="mint-badge" style="background-color:#a89a8f;">&nbsp;</span>小风险</div>
+            <div> <span class="mint-badge" style="background-color:#fed158;">&nbsp;</span>中风险</div>
+            <div> <span class="mint-badge" style="background-color:#fd0000;">&nbsp;</span>高风险</div>
+        </div>
+    </div>
+
+</div>

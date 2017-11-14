@@ -1,0 +1,111 @@
+{
+  "success": true,
+  "object": {
+    "infoList": [
+      {
+        "id": "1",
+        "authority": "order-v4,financeList-v4,credit-check,repayFinance-v4,repayingList-v4,fee-sharing,highRisk-order,repay-v4,order-warning,loan-moniter,company-warning,forbidden-list,loan-management,overdue,system-config,companySys-config,settings,system-admin,record,feedback,data-operation,auth-query,authority-management,user-v4,role-management,user-management,agent-v4,agent-company,scheduling-table",
+        "status": "0",
+        "rights": "JinJian_ResetCheckMan,AgentManage_FreezeAndUnFreeze,JinJian_CheckManQuery,JinJian_ReCheck,JinJian_firstCheckSuper,QingTui_AddRemark,AgentCompanyManage_Freeze",
+        "userName": "zqm",
+        "type": "1",
+        "roleId": "43"
+      },
+      {
+        "id": "10",
+        "authority": "all",
+        "phone": "",
+        "status": "0",
+        "email": "",
+        "userName": "钟时玉",
+        "type": "1",
+        "roleId": "1"
+      },
+      {
+        "phone": "",
+        "status": "0",
+        "rights": "JinJian_ResetCheckMan,AgentManage_FreezeAndUnFreeze,JinJian_CheckManQuery,JinJian_ReCheck,JinJian_firstCheckSuper,AgentCompanyManage_Freeze",
+        "type": "1",
+        "id": "11",
+        "authority": "order-v4,financeList-v4,repayFinance-v4,repayingList-v4,fee-sharing,highRisk-order,repay-v4,order-warning,loan-moniter,company-warning,forbidden-list,loan-management,overdue,system-config,companySys-config,settings,system-admin,record,feedback,data-operation,auth-query,authority-management,user-v4,role-management,user-management,agent-v4,agent-company,scheduling-table",
+        "email": "",
+        "userName": "chenkai",
+        "roleId": "1"
+      },
+      {
+        "id": "13",
+        "authority": "order-v4,financeList-v4,repayFinance-v4,repayingList-v4,fee-sharing,highRisk-order,repay-v4,order-warning,loan-moniter,company-warning,forbidden-list,loan-management,overdue,system-config,companySys-config,settings,system-admin,record,feedback,data-operation,auth-query,authority-management,user-v4,role-management,user-management,agent-v4,agent-company,scheduling-table",
+        "status": "0",
+        "rights": "JinJian_ResetCheckMan,AgentManage_FreezeAndUnFreeze,JinJian_CheckManQuery,AgentCompanyManage_Freeze",
+        "userName": "杨彩霞",
+        "type": "1",
+        "roleId": "1"
+      },
+      {
+        "id": "19",
+        "authority": "order-v4,financeList-v4,repayFinance-v4,repayingList-v4,company-warning,forbidden-list,loan-management,user-v4,agent-v4,agent-company",
+        "status": "0",
+        "rights": "QingTui_AddRemark",
+        "userName": "贾超宇",
+        "type": "1",
+        "roleId": "13"
+      },
+      {
+        "id": "20",
+        "authority": "order-v4,financeList-v4,repayFinance-v4,repayingList-v4,fee-sharing,highRisk-order,repay-v4,order-warning,loan-moniter,company-warning,forbidden-list,loan-management,overdue,settings,record,feedback,auth-query,user-v4,agent-v4,agent-company",
+        "status": "0",
+        "rights": "JinJian_ResetCheckMan,AgentManage_FreezeAndUnFreeze,JinJian_CheckManQuery,JinJian_ReCheck,QingTui_AddRemark",
+        "userName": "王艺潼",
+        "type": "1",
+        "roleId": "9"
+      },
+      {
+        "id": "21",
+        "authority": "financeList-v4,repayFinance-v4,repayingList-v4,fee-sharing,overdue,user-v4",
+        "status": "0",
+        "rights": "Confirm_ReceivedPayment",
+        "userName": "杨丽丽",
+        "type": "1",
+        "roleId": "19"
+      },
+      {
+        "id": "22",
+        "authority": "order-v4,financeList-v4,repayFinance-v4,repayingList-v4,company-warning,forbidden-list,loan-management,user-v4,agent-v4,agent-company",
+        "status": "0",
+        "rights": "QingTui_AddRemark",
+        "userName": "刘发荣",
+        "type": "1",
+        "roleId": "13"
+      },
+      {
+        "id": "24",
+        "authority": "order-v4,financeList-v4,repayFinance-v4,repayingList-v4,fee-sharing,highRisk-order,repay-v4,order-warning,loan-moniter,company-warning,forbidden-list,loan-management,overdue,settings,record,feedback,auth-query,user-v4,agent-v4,agent-company",
+        "status": "0",
+        "rights": "JinJian_ResetCheckMan,AgentManage_FreezeAndUnFreeze,JinJian_CheckManQuery,JinJian_ReCheck,QingTui_AddRemark",
+        "userName": "崔洁",
+        "type": "1",
+        "roleId": "9"
+      },
+      {
+        "id": "26",
+        "authority": "order-v4,financeList-v4,credit-check,repayFinance-v4,repayingList-v4,fee-sharing,highRisk-order,repay-v4,order-warning,loan-moniter,company-warning,forbidden-list,loan-management,overdue,system-config,companySys-config,settings,system-admin,record,feedback,data-operation,auth-query,authority-management,user-v4,role-management,user-management,agent-v4,agent-company,scheduling-table",
+        "status": "0",
+        "rights": "JinJian_ResetCheckMan,AgentManage_FreezeAndUnFreeze,JinJian_CheckManQuery,JinJian_ReCheck,JinJian_firstCheckSuper",
+        "userName": "gqh",
+        "type": "1",
+        "roleId": "1"
+      }
+    ],
+    "pageNum": 1,
+    "pageSize": 10,
+    "totalPage": 7,
+    "totalCount": 66,
+    "defaultPageNum": "10",
+    "__isset_bit_vector": [
+      1,
+      1,
+      1,
+      1
+    ]
+  }
+}

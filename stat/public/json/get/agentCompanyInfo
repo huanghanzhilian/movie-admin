@@ -1,0 +1,148 @@
+{
+  "success": true,
+  "object": {
+    "agentCompanyId": "720535258222592000",
+    "detailInfo": [
+      {
+        "detailRowList": [
+          {
+            "rows": [
+              {
+                "fieldName": "ID"
+              },
+              {}
+            ],
+            "isPic": false
+          },
+          {
+            "rows": [
+              {
+                "fieldName": "公司名称"
+              },
+              {
+                "fieldName": "杭州坤维房地产咨询代理有限公司"
+              }
+            ],
+            "isPic": false
+          },
+          {
+            "rows": [
+              {
+                "fieldName": "房间数"
+              },
+              {
+                "fieldName": "350"
+              }
+            ],
+            "isPic": false
+          },
+          {
+            "rows": [
+              {
+                "fieldName": "城市"
+              },
+              {
+                "fieldName": "杭州市"
+              }
+            ],
+            "isPic": false
+          },
+          {
+            "rows": [
+              {
+                "fieldName": "营业执照编号"
+              },
+              {
+                "fieldName": "330105000101745"
+              }
+            ],
+            "isPic": false
+          },
+          {
+            "rows": [
+              {
+                "fieldName": "最大借款月数"
+              },
+              {
+                "fieldName": "11"
+              }
+            ],
+            "isPic": false
+          },
+          {
+            "rows": [
+              {
+                "fieldName": "公司类型"
+              },
+              {
+                "fieldName": "公寓"
+              }
+            ],
+            "isPic": false
+          }
+        ],
+        "groupName": "基本信息"
+      },
+      {
+        "detailRowList": [
+          {
+            "rows": [
+              {
+                "fieldName": "银行卡"
+              },
+              {
+                "fieldName": "6226692300239927"
+              }
+            ],
+            "isPic": false
+          },
+          {
+            "rows": [
+              {
+                "fieldName": "账户名"
+              },
+              {
+                "fieldName": "朱可沁"
+              }
+            ],
+            "isPic": false
+          },
+          {
+            "rows": [
+              {
+                "fieldName": "银行名称"
+              },
+              {
+                "fieldName": "光大银行"
+              }
+            ],
+            "isPic": false
+          },
+          {
+            "rows": [
+              {
+                "fieldName": "支行名称"
+              },
+              {
+                "fieldName": "中国光大银行杭州市城西支行"
+              }
+            ],
+            "isPic": false
+          },
+          {
+            "rows": [
+              {
+                "fieldName": "所在城市"
+              },
+              {
+                "fieldName": "浙江省 杭州市"
+              }
+            ],
+            "isPic": false
+          }
+        ],
+        "groupName": "帐户信息"
+      }
+    ]
+  }
+}

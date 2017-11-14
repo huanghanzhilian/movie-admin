@@ -1,0 +1,128 @@
+{
+  "success": true,
+  "object": {
+    "infoList": [
+      {
+        "configName": "orderCheckMan",
+        "configDesc": "进件审核人员",
+        "companyName": "公司",
+        "briefName": "公司",
+        "configId": "712848365355814912",
+        "id": "725858633656590336",
+        "configValue": "孙长禹,刘发荣,王艺潼,王艺潼,sunbingjie,孙彩萍,史娜,张亚利,xuchao05,陈琏妃,文美玲,崔洁,吴文洋,姜路路,李丹,陈凤,周晓敏,陈丞,陈正康,王福建,刘志睿,鲁曙浩,zqm,田乐,maguohui,王翠萍,chenkai,汪倩雯",
+        "companyType": "公寓",
+        "companyId": "1"
+      },
+      {
+        "configName": "HuankuanDay",
+        "configDesc": "（如果填写的是起租日期，不是首次还款日）首期还款账单日(数量,单位) 默认首租账单为起租日后一个月",
+        "companyName": "58-App测试",
+        "briefName": "58-App测试",
+        "configId": "644803714040729600",
+        "id": "645795373301899264",
+        "configValue": "15,D",
+        "companyType": "公寓",
+        "companyId": "632546068705329152"
+      },
+      {
+        "configName": "weixinTestCompany",
+        "configDesc": "weixin灰度测试 0禁止使用，1可以使用微信",
+        "companyName": "58-App测试",
+        "briefName": "58-App测试",
+        "configId": "664407383547588608",
+        "id": "664409305801302016",
+        "configValue": "1",
+        "companyType": "公寓",
+        "companyId": "632546068705329152"
+      },
+      {
+        "configName": "appTestCompany",
+        "configDesc": "app灰度测试 0禁止使用app 1可以使用app",
+        "companyName": "58-App测试",
+        "briefName": "58-App测试",
+        "configId": "662209960494505984",
+        "id": "664677026132668416",
+        "configValue": "1",
+        "companyType": "公寓",
+        "companyId": "632546068705329152"
+      },
+      {
+        "configName": "appTestQingTuiDaiKou",
+        "configDesc": "清退代扣灰度测试：1执行清退代扣，0清退不执行代扣",
+        "companyName": "58-App测试",
+        "briefName": "58-App测试",
+        "configId": "669475867621068800",
+        "id": "669484274725953536",
+        "configValue": "1",
+        "companyType": "公寓",
+        "companyId": "632546068705329152"
+      },
+      {
+        "configName": "penalty",
+        "configDesc": "清退时公寓支付58违约金费率（返还：月租金*费率）",
+        "companyName": "58-App测试",
+        "briefName": "58-App测试",
+        "configId": "1400",
+        "id": "670207607356538880",
+        "configValue": "0.1",
+        "companyType": "公寓",
+        "companyId": "632546068705329152"
+      },
+      {
+        "configName": "serviceFeeRate_2",
+        "configDesc": "公寓公司服务费率（借款1个月费率,借款两个月费率...）",
+        "companyName": "58-App测试",
+        "briefName": "58-App测试",
+        "configId": "1550",
+        "id": "670207608652566528",
+        "configValue": "0.009,0.014,0.018,0.023,0.027,0.032,0.036,0.041,0.046,0.05,0.055",
+        "companyType": "公寓",
+        "companyId": "632546068705329152"
+      },
+      {
+        "configName": "companyIconAndUrl",
+        "configDesc": "公寓图标和详情链接",
+        "companyName": "58-App测试",
+        "briefName": "58-App测试",
+        "configId": "672393749631864832",
+        "id": "672394106470666240",
+        "configValue": "http://j1.58cdn.com.cn/jinrong/realhouse/logo/xinpai.png;http://gongyu.58.com/rh/apartment/introduce/632546068705329152",
+        "companyType": "公寓",
+        "companyId": "632546068705329152"
+      },
+      {
+        "configName": "isRealHouse",
+        "configDesc": "品质房源灰度上线 0非品质房源 1品质房源",
+        "companyName": "58-App测试",
+        "briefName": "58-App测试",
+        "configId": "674039888219213824",
+        "id": "682188956413992960",
+        "configValue": "1",
+        "companyType": "公寓",
+        "companyId": "632546068705329152"
+      },
+      {
+        "configName": "riskSysPassMark",
+        "configDesc": "风控进件低风险标记，触发规则后不需要人工电话核实",
+        "companyName": "58-App测试",
+        "briefName": "58-App测试",
+        "configId": "699776427955875840",
+        "id": "701969764288847872",
+        "configValue": "[{\"monthRent\":\"0~{avgMonthRent}\",\"loanLease\":\"1~5\"},{\"monthRent\":\"0~{avgMonthRent}\",\"loanLease\":\"6~11\"}]",
+        "companyType": "公寓",
+        "companyId": "632546068705329152"
+      }
+    ],
+    "pageNum": 1,
+    "pageSize": 10,
+    "totalPage": 371,
+    "totalCount": 3709,
+    "defaultPageNum": "10",
+    "__isset_bit_vector": [
+      1,
+      1,
+      1,
+      1
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "object": {
+    "infoList": [
+      {
+        "orderId": "20090",
+        "createTime": "2015-11-03 13:27:14",
+        "remark": "",
+        "agentCompanyId": "659917214295535616",
+        "briefName": "世纪鸿源大牛坊一店",
+        "orderStatus": 4000,
+        "payMoney": "12540",
+        "agentName": "程艳武",
+        "overDueDaysStr": "0",
+        "dueAmount": "13200",
+        "userName": "张晓光",
+        "userPhone": "13488671226",
+        "pstatus": "放款中",
+        "oStatus": "申请中",
+        "feeMoney": "660",
+        "loanDate": "2015-11-03 13:27:14"
+      },
+      {
+        "orderId": "660767222259527680",
+        "createTime": "2015-11-01 18:35:55",
+        "remark": "",
+        "agentCompanyId": "659917214295535616",
+        "briefName": "世纪鸿源大牛坊一店",
+        "orderStatus": 4000,
+        "payMoney": "13062.5",
+        "agentName": "许海东",
+        "overDueDaysStr": "0",
+        "dueAmount": "13750",
+        "userName": "姜兆京",
+        "userPhone": "13520684463",
+        "pstatus": "放款中",
+        "oStatus": "申请中",
+        "feeMoney": "687.5"
+      }
+    ],
+    "pageNum": 1,
+    "pageSize": 10,
+    "totalPage": 33,
+    "totalCount": 326
+  }
+}

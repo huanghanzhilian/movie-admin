@@ -1,0 +1,32 @@
+{
+  "success": true,
+  "message": "上传成功",
+  "object": {
+    "pic": {
+      "id": 212,
+      "detailNum": 1,
+      "attachmentName": "卧室",
+      "attachmentUrl": "http://pic.58.com/manage.yuefu.58.com/n_v1bl2lwkjb2jrfnuirse5a_d016075a4f426d09.png",
+      "attachmentDesc": "卧室照片",
+      "picType": 2,
+      "optType": 1,
+      "foreignId": 1,
+      "idStr": "212",
+      "recordStatus": 0,
+      "createTime": "Nov 24, 2015 1:52:14 PM"
+    },
+    "picSmall": {
+      "id": 212,
+      "detailNum": 1,
+      "attachmentName": "卧室",
+      "attachmentUrl": "http://pic.58.com/manage.yuefu.58.com/n_v1bl2lwtjc2jrfnqmfojkq_6c7ea76f39c78102.jpg",
+      "attachmentDesc": "卧室照片",
+      "picType": 2,
+      "optType": 1,
+      "foreignId": 1,
+      "idStr": "212",
+      "recordStatus": 0,
+      "createTime": "Nov 24, 2015 1:52:14 PM"
+    }
+  }
+}

@@ -1,0 +1,112 @@
+﻿列表页查询
+http://10.58.37.32/rs/admin/list?city=wf&checkState=6&startTime=2014-09-01&endTime=2014-09-10
+{
+    "error_msg": "succeed",
+    "error_no": 0,
+    "requestParams": {},
+    "result": {
+        "infoList": [
+            {
+                "applyCity": "wf",
+                "applyLoanAmount": "200.0",
+                "applyLoanMonth": "0",
+                "completeApplyTime": "2014-09-03 22:00:20.0",
+                "orderId": "714097527255759",
+                "phone": "13426171737",
+                "productName": "???"
+            },
+            {
+                "applyCity": "wf",
+                "applyLoanAmount": "500.0",
+                "applyLoanMonth": "0",
+                "completeApplyTime": "2014-09-03 22:00:32.0",
+                "orderId": "114097527256003",
+                "phone": "18612673185",
+                "productName": "???"
+            },
+            {
+                "applyCity": "wf",
+                "applyLoanAmount": "100.0",
+                "applyLoanMonth": "0",
+                "completeApplyTime": "2014-09-03 22:34:10.0",
+                "orderId": "514097548306144",
+                "phone": "18800176407",
+                "productName": "???"
+            },
+            {
+                "applyCity": "wf",
+                "applyLoanAmount": "200.0",
+                "applyLoanMonth": "0",
+                "completeApplyTime": "2014-09-03 22:37:14.0",
+                "orderId": "514097550014835",
+                "phone": "13426171737",
+                "productName": "????"
+            },
+            {
+                "applyCity": "wf",
+                "applyLoanAmount": "0.0",
+                "applyLoanMonth": "0",
+                "completeApplyTime": "2014-09-03 22:43:36.0",
+                "orderId": "914097553491912",
+                "phone": "13581694201",
+                "productName": "???"
+            }
+        ],
+        "pageNumber": 0,
+        "pageSize": 15,
+        "totalCount": 5,
+        "totalPage": 0
+    }
+}
+
+列表页下载
+10.58.37.32/rs/admin/downloadExcel?city=wf&checkState=6&startTime=2014-09-01&endTime=2014-09-10
+列表页设置状态
+http://10.58.37.32/rs/admin/updateState?orderId=414097962154652&checkState=3
+{
+    "error_msg": "succeed",
+    "error_no": 0,
+    "requestParams": {},
+    "result": "3"
+}
+
+详情页详细信息
+{
+    "applyCity": "wf",
+    "completeApplyTime": "2014-09-04 10:06:46.0",
+    "jobInfoPageBean": {
+        "daikuanyt": "买车"
+    },
+    "note": "",
+    "orderId": "414097962154652",
+    "personInfoPageBean": {
+        "chechan": "无车",
+        "chushengnian": "1988",
+        "fangchan": "无房产",
+        "fuzhai": "有",
+        "gongjijin": "有，一年以上",
+        "hunyin": "已婚有子女",
+        "phone": "13678668210",
+        "shebao": "有，一年以上",
+        "shenfenzh": "370786198802276622",
+        "wenhuacd": "大专",
+        "xingbie": "女",
+        "xinyong": "信用记录良好"
+    },
+    "title": "潍坊宜信普惠信息咨询有限公司-精英贷"
+}.
+
+详情页状态信息
+http://10.58.37.32/rs/admin/getCheckState?orderId=414097962154652
+{
+    "error_msg": "succeed",
+    "error_no": 0,
+    "requestParams": {},
+    "result": [
+        {
+            "id": 1,
+            "orderId": "414097962154652",
+            "state": 2
+        }
+    ]
+}

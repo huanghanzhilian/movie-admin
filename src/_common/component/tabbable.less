@@ -1,0 +1,38 @@
+@import '../less-config.less';
+
+.tabbable {
+    .nav-tabs {
+        border: none;
+
+        li {
+            margin-bottom: 0;
+
+            &.disabled {
+                text-decoration: line-through;
+            }
+        }
+
+        .active a {
+            border: none;
+            color: #4d6470;
+            border-color: #fff;
+
+            &:hover,
+            &:focus {
+                border: none;
+            }
+        }
+
+        a {
+            border: none;
+            color: #aaa;
+            cursor: pointer;
+            padding: 7px 20px;
+        }
+    }
+
+    .tab-content {
+        padding-top: 24px;
+        background-color: #fff;
+    }
+}

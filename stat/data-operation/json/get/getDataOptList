@@ -1,0 +1,395 @@
+{
+  "success": true,
+  "object": [
+    {
+      "name": "invorkTest",
+      "desc": "调用测试",
+      "path": "/manage/data-operation/json/operate/invorkTest",
+      "params": []
+    },
+    {
+      "name": "afterErrorQingTui",
+      "desc": "清退误操作回滚",
+      "path": "/manage/data-operation/json/operate/afterErrorQingTui",
+      "params": [
+        {
+          "name": "orderId",
+          "desc": "订单ID",
+          "isNull": false
+        }
+      ]
+    },
+    {
+      "name": "afterErrorConfirmQingTui",
+      "desc": "确认清退误操作回滚",
+      "path": "/manage/data-operation/json/operate/afterErrorConfirmQingTui",
+      "params": [
+        {
+          "name": "orderId",
+          "desc": "订单ID",
+          "isNull": false
+        }
+      ]
+    },
+    {
+      "name": "changeAgentsCompany",
+      "desc": "更换经纪人公司",
+      "path": "/manage/data-operation/json/operate/changeAgentsCompany",
+      "params": [
+        {
+          "name": "agentId",
+          "desc": "房管员ID",
+          "isNull": false
+        },
+        {
+          "name": "companyId",
+          "desc": "公司ID",
+          "isNull": false
+        }
+      ]
+    },
+    {
+      "name": "changeOrderStatusToFushen",
+      "desc": "将审核通过改为复审中",
+      "path": "/manage/data-operation/json/operate/changeOrderStatusToFushen",
+      "params": [
+        {
+          "name": "orderId",
+          "desc": "订单ID",
+          "isNull": false
+        }
+      ]
+    },
+    {
+      "name": "modifyOrderFeeRateAndPenaltyRate",
+      "desc": "修改订单服务费率及违约金率为当前配置值",
+      "path": "/manage/data-operation/json/operate/modifyOrderFeeRateAndPenaltyRate",
+      "params": [
+        {
+          "name": "orderId",
+          "desc": "订单ID",
+          "isNull": false
+        },
+        {
+          "name": "isReturnFeeMoney",
+          "desc": "是否退还服务费(1:是/0:否)",
+          "isNull": false
+        }
+      ]
+    },
+    {
+      "name": "changeUserNameById",
+      "desc": "根据用户ID修改用户名",
+      "path": "/manage/data-operation/json/operate/changeUserNameById",
+      "params": [
+        {
+          "name": "userId",
+          "desc": "用户ID",
+          "isNull": false
+        },
+        {
+          "name": "userName",
+          "desc": "用户名",
+          "isNull": false
+        }
+      ]
+    },
+    {
+      "name": "changeQingtuiLog",
+      "desc": "修改清退金额",
+      "path": "/manage/data-operation/json/operate/changeQingtuiLog",
+      "params": [
+        {
+          "name": "orderId",
+          "desc": "订单ID",
+          "isNull": false
+        },
+        {
+          "name": "total",
+          "desc": "返还58合计",
+          "isNull": false
+        },
+        {
+          "name": "return58Money",
+          "desc": "公寓返还58金融租金",
+          "isNull": false
+        },
+        {
+          "name": "penaltyMoney",
+          "desc": "公寓支付58违约金",
+          "isNull": false
+        },
+        {
+          "name": "serviceMoney",
+          "desc": "58金融返还公寓服务费",
+          "isNull": false
+        }
+      ]
+    },
+    {
+      "name": "setOutManagerAuthority",
+      "desc": "设置合作伙伴账号导航权限",
+      "path": "/manage/data-operation/json/operate/setOutManagerAuthority",
+      "params": [
+        {
+          "name": "userName",
+          "desc": "用户姓名",
+          "isNull": false
+        },
+        {
+          "name": "authority",
+          "desc": "导航权限",
+          "isNull": false
+        }
+      ]
+    },
+    {
+      "name": "updateTopCompanyId",
+      "desc": "修正公司的顶级父公司",
+      "path": "/manage/data-operation/json/operate/updateTopCompanyId",
+      "params": [
+        {
+          "name": "companyId",
+          "desc": "公司ID",
+          "isNull": false
+        }
+      ]
+    },
+    {
+      "name": "deleteOrder",
+      "desc": "删除订单",
+      "path": "/manage/data-operation/json/operate/deleteOrder",
+      "params": [
+        {
+          "name": "orderId",
+          "desc": "订单ID",
+          "isNull": false
+        }
+      ]
+    },
+    {
+      "name": "updateBillCheckPayDate",
+      "desc": "修改还款日（账单往前推两天 变化天数=-2,往后推两天 变化天数=2）",
+      "path": "/manage/data-operation/json/operate/updateBillCheckPayDate",
+      "params": [
+        {
+          "name": "orderId",
+          "desc": "订单ID",
+          "isNull": false
+        },
+        {
+          "name": "day",
+          "desc": "变化天数",
+          "isNull": false
+        }
+      ]
+    },
+    {
+      "name": "yujianContract",
+      "desc": "重存寓见合同到Hbase",
+      "path": "/manage/data-operation/json/operate/yujianContract",
+      "params": [
+        {
+          "name": "orderId",
+          "desc": "订单ID",
+          "isNull": false
+        }
+      ]
+    },
+    {
+      "name": "getCompanyInfo",
+      "desc": "获取公寓账号信息",
+      "path": "/manage/data-operation/json/operate/getCompanyInfo",
+      "params": [
+        {
+          "name": "companyName",
+          "desc": "公寓名称或简称",
+          "isNull": false
+        }
+      ]
+    },
+    {
+      "name": "modifyErrorActivePay",
+      "desc": "修正用户主动还款还错期数",
+      "path": "/manage/data-operation/json/operate/modifyErrorActivePay",
+      "params": [
+        {
+          "name": "orderId",
+          "desc": "订单ID",
+          "isNull": false
+        },
+        {
+          "name": "hopePeriod",
+          "desc": "应还期数",
+          "isNull": false
+        },
+        {
+          "name": "errorPeriod",
+          "desc": "实际还款期数",
+          "isNull": false
+        },
+        {
+          "name": "paymentType",
+          "desc": "主动还款方式(2:连连/5:微信)",
+          "isNull": false
+        }
+      ]
+    },
+    {
+      "name": "updateCompanyRecordStatus",
+      "desc": "删除公司/恢复删除",
+      "path": "/manage/data-operation/json/operate/updateCompanyRecordStatus",
+      "params": [
+        {
+          "name": "companyId",
+          "desc": "公司ID",
+          "isNull": false
+        },
+        {
+          "name": "recordStatus",
+          "desc": "是否删除(0不删除/-1删除)",
+          "isNull": false
+        }
+      ]
+    },
+    {
+      "name": "getBankCardText",
+      "desc": "获取银行卡号",
+      "path": "/manage/data-operation/json/operate/getBankCardText",
+      "params": [
+        {
+          "name": "bankCardId",
+          "desc": "银行卡ID",
+          "isNull": false
+        }
+      ]
+    },
+    {
+      "name": "updatePaylogRec",
+      "desc": "删除支付流水/恢复删除",
+      "path": "/manage/data-operation/json/operate/updatePaylogRec",
+      "params": [
+        {
+          "name": "paylogRecId",
+          "desc": "支付流水ID（paylogRecId）",
+          "isNull": false
+        },
+        {
+          "name": "recordStatus",
+          "desc": "是否删除(0不删除/-1删除)",
+          "isNull": false
+        }
+      ]
+    },
+    {
+      "name": "changeCompanyBankCard",
+      "desc": "修改公司银行卡号",
+      "path": "/manage/data-operation/json/operate/changeCompanyBankCard",
+      "params": [
+        {
+          "name": "companyId",
+          "desc": "公司ID",
+          "isNull": false
+        },
+        {
+          "name": "bankCard",
+          "desc": "银行卡号",
+          "isNull": false
+        },
+        {
+          "name": "bankName",
+          "desc": "银行名称",
+          "isNull": false
+        },
+        {
+          "name": "branchBankName",
+          "desc": "支行名称",
+          "isNull": false
+        },
+        {
+          "name": "ownerName",
+          "desc": "银行卡账户名",
+          "isNull": false
+        },
+        {
+          "name": "reservePhone",
+          "desc": "预留手机号",
+          "isNull": false
+        }
+      ]
+    },
+    {
+      "name": "changeCompanyParentPath",
+      "desc": "修改公司parentPath",
+      "path": "/manage/data-operation/json/operate/changeCompanyParentPath",
+      "params": [
+        {
+          "name": "companyId",
+          "desc": "公司ID",
+          "isNull": false
+        },
+        {
+          "name": "parentId",
+          "desc": "父公司ID",
+          "isNull": false
+        }
+      ]
+    },
+    {
+      "name": "changeOutManageUser",
+      "desc": "修改合作伙伴登录账号",
+      "path": "/manage/data-operation/json/operate/changeOutManageUser",
+      "params": [
+        {
+          "name": "outId",
+          "desc": "合作伙伴系统登录账户ID",
+          "isNull": false
+        },
+        {
+          "name": "userName",
+          "desc": "用户名",
+          "isNull": false
+        },
+        {
+          "name": "phone",
+          "desc": "电话",
+          "isNull": false
+        },
+        {
+          "name": "password",
+          "desc": "密码",
+          "isNull": true
+        }
+      ]
+    },
+    {
+      "name": "changeIsBreezingByUserId",
+      "desc": "根据用户ID修改是否需要重传身份证",
+      "path": "/manage/data-operation/json/operate/changeIsBreezingByUserId",
+      "params": [
+        {
+          "name": "userId",
+          "desc": "用户ID",
+          "isNull": false
+        },
+        {
+          "name": "isBreezing",
+          "desc": "是否需要重传身份证",
+          "isNull": false
+        }
+      ]
+    },
+    {
+      "name": "delQingtuiPayVoucher",
+      "desc": "撤销上传清退打款凭证",
+      "path": "/manage/data-operation/json/operate/delQingtuiPayVoucher",
+      "params": [
+        {
+          "name": "orderId",
+          "desc": "订单ID",
+          "isNull": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "success": true,
+  "object": [
+    {
+      "detailRowList": [
+        {
+          "rows": [
+            {
+              "fieldName": "姓名"
+            },
+            {
+              "fieldName": "刘汉兵",
+              "linkUrl": ""
+            }
+          ],
+          "isPic": false
+        },
+        {
+          "rows": [
+            {
+              "fieldName": "身份证"
+            },
+            {
+              "fieldName": "510902198307111417(四川省遂宁市市中区)"
+            }
+          ],
+          "isPic": false
+        },
+        {
+          "rows": [
+            {
+              "fieldName": "手机号"
+            },
+            {
+              "fieldName": "18980439386(成都)"
+            }
+          ],
+          "isPic": false
+        },
+        {
+          "rows": [
+            {
+              "fieldName": "微信号或QQ号"
+            },
+            {}
+          ],
+          "isPic": false
+        },
+        {
+          "rows": [
+            {
+              "fieldName": "性别"
+            },
+            {
+              "fieldName": "男"
+            }
+          ],
+          "isPic": false
+        },
+        {
+          "rows": [
+            {
+              "fieldName": "工作证明"
+            }
+          ],
+          "isPic": true
+        },
+        {
+          "rows": [
+            {
+              "fieldName": "所在公司"
+            },
+            {
+              "fieldName": "成都品合祐德科技有限公司"
+            }
+          ],
+          "isPic": false
+        }
+      ],
+      "groupName": "基本信息"
+    },
+    {
+      "detailRowList": [
+        {
+          "rows": [
+            {
+              "fieldName": "wbId"
+            },
+            {}
+          ],
+          "isPic": false
+        },
+        {
+          "rows": [
+            {
+              "fieldName": "58用户名"
+            },
+            {}
+          ],
+          "isPic": false
+        }
+      ],
+      "groupName": "账号信息"
+    }
+  ]
+}

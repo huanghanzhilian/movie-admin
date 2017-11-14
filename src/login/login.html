@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>请登录 - 运营管理系统</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="shortcut icon" href="../_common/img/favicon.ico" />
+        <link rel="stylesheet" href="../../dep/bootstrap_3.3.4/css/bootstrap.min.css"/>
+        <link rel="stylesheet" href="../_common/common.less?${__version__}"/>
+        <link rel="stylesheet" href="login.less?${__version__}"/>
+        <script src="http://apps.bdimg.com/libs/jquery/1.10.2/jquery.min.js"></script>
+
+
+    </head>
+    <body ng-app="app" ng-controller="CtrlLogin">
+        <div class="body-login">
+            <div class="login-content">
+                <div class="login-title">
+                    <span class="logo-yuefu">运营后台</span>
+                    <i class="line-h"></i>
+                    <span class="logo-text">美月付</span>
+                </div>
+                <div class="login-form">
+                    <form name="loginForm" novalidate>
+                    <div class="input-group first-group">
+                        <span class="input-group-addon"></span>
+                        <input id="username" type="text" ng-model="loginData.userName" name="username" class="form-control" ng-required="true" jr-placeholder="用户名" ng-blur="blur()" ng-keypress="enter($event)" />
+                    </div>
+                    <div class="input-group">
+                        <span class="input-group-addon password-addon"></span>
+                        <input id="password" type="password" ng-model="loginData.password" name="password" class="form-control" ng-required="true" jr-placeholder="请输入密码" />
+                    </div>
+                    <div class="input-group" ng-if="verif">
+                        <span class="input-group-addon password-addon"></span>
+                        <input id="verif" style="width:100px;" type="text" ng-model="loginData.random" name="verif" class="form-control" ng-required="true" jr-placeholder="请输入验证码" /><img id="verif-img" ng-src="{{verif}}" style="margin-left:20px;width:100px;height:33px;cursor:pointer" ng-click="refresh()"/>
+                    </div>
+                    <p class="error-info" ng-bind="loginForm.errorInfo"></p>
+                    <button type="submit" class="btn btn-primary" ng-disabled="loginForm.$invalid" ng-click="login()">登录</button>
+                     <!--<p class="btn-findpwd"><a href="javascript:;" type="button" ng-click="findpwd()">忘记密码</a></p>-->
+                    </form>
+                </div>   
+            </div>
+        </div>
+        <div class="footer-login">
+            <p class="footer-text">Copyright © 2017 北京月付科技有限公司<a href="http://www.miibeian.gov.cn/" target="_blank" rel="nofollow">京ICP备17013339号</a></p>
+        </div>
+    </body>
+    <script src="../../dep/angularjs_1.2.25/angular.min.js"></script>
+    <scripe src="../../dep/angular-couch-potato_0.1.1/angular-couch-potato.min.js"></scripe>
+    <script src="../../dep/angular-bootstrap_0.10.0/ui-bootstrap-tpls.min.js"></script>
+    <script src="../../dep/angular-bootstrap_0.10.0/ui-bootstrap.min.js"></script>
+
+
+    <script src="login.js?${__version__}"></script>
+    <script src="../_service/md5.js?${__version__}"></script>
+</html>

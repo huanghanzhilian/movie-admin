@@ -1,0 +1,138 @@
+{
+  "success": true,
+  "object": {
+    "infoList": [
+      {
+        "roleDesc": "超级管理员",
+        "createTime": "",
+        "phone": "",
+        "systemName": "admin",
+        "roleName": "superAdmin",
+        "email": "",
+        "userId": "1",
+        "userName": "zqm",
+        "systemDesc": "审核系统",
+        "roleId": "43"
+      },
+      {
+        "roleDesc": "开发人员",
+        "createTime": "",
+        "phone": "",
+        "systemName": "admin",
+        "roleName": "RD",
+        "email": "",
+        "userId": "10",
+        "userName": "钟时玉",
+        "systemDesc": "审核系统",
+        "roleId": "1"
+      },
+      {
+        "roleDesc": "开发人员",
+        "createTime": "",
+        "phone": "",
+        "systemName": "admin",
+        "roleName": "RD",
+        "email": "",
+        "userId": "11",
+        "userName": "chenkai",
+        "systemDesc": "审核系统",
+        "roleId": "1"
+      },
+      {
+        "roleDesc": "开发人员",
+        "createTime": "",
+        "phone": "",
+        "systemName": "admin",
+        "roleName": "RD",
+        "email": "",
+        "userId": "13",
+        "userName": "杨彩霞",
+        "systemDesc": "审核系统",
+        "roleId": "1"
+      },
+      {
+        "roleDesc": "市场专员",
+        "createTime": "",
+        "phone": "",
+        "systemName": "admin",
+        "roleName": "Marketing_Specialist",
+        "email": "",
+        "userId": "19",
+        "userName": "贾超宇",
+        "systemDesc": "审核系统",
+        "roleId": "13"
+      },
+      {
+        "roleDesc": "风控经理",
+        "createTime": "",
+        "phone": "",
+        "systemName": "admin",
+        "roleName": "Risk_ Manager",
+        "email": "",
+        "userId": "20",
+        "userName": "王艺潼",
+        "systemDesc": "审核系统",
+        "roleId": "9"
+      },
+      {
+        "roleDesc": "财务专员",
+        "createTime": "",
+        "phone": "",
+        "systemName": "admin",
+        "roleName": "Finance_User",
+        "email": "",
+        "userId": "21",
+        "userName": "杨丽丽",
+        "systemDesc": "审核系统",
+        "roleId": "19"
+      },
+      {
+        "roleDesc": "市场专员",
+        "createTime": "",
+        "phone": "",
+        "systemName": "admin",
+        "roleName": "Marketing_Specialist",
+        "email": "",
+        "userId": "22",
+        "userName": "刘发荣",
+        "systemDesc": "审核系统",
+        "roleId": "13"
+      },
+      {
+        "roleDesc": "风控经理",
+        "createTime": "",
+        "phone": "",
+        "systemName": "admin",
+        "roleName": "Risk_ Manager",
+        "email": "",
+        "userId": "24",
+        "userName": "崔洁",
+        "systemDesc": "审核系统",
+        "roleId": "9"
+      },
+      {
+        "roleDesc": "开发人员",
+        "createTime": "",
+        "phone": "",
+        "systemName": "admin",
+        "roleName": "RD",
+        "email": "",
+        "userId": "26",
+        "userName": "gqh",
+        "systemDesc": "审核系统",
+        "roleId": "1"
+      }
+    ],
+    "pageNum": 1,
+    "pageSize": 10,
+    "totalPage": 7,
+    "totalCount": 67,
+    "defaultPageNum": "10",
+    "__isset_bit_vector": [
+      1,
+      1,
+      1,
+      1
+    ]
+  }
+}

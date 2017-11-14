@@ -1,0 +1,32 @@
+{
+  "success": true,
+  "object": {
+    "infoList": [
+      {
+        "warningStatus": "待解决",
+        "ruleGroup": "推单预警",
+        "ruleDesc": "近14天重传合同的次数达到10次",
+        "triggerTime": "2016-11-06 09:00",
+        "agentId": "777682112491839488",
+        "relativeOrderCount": "8",
+        "agentName": "李润鑫",
+        "topCompanyName": "大城小窝",
+        "orderIds": "5656755,5727498,5640423,5689738,5365837,5674733,5660922,5731332",
+        "dealType": "禁止推单48小时",
+        "agentPhone": "17340110693",
+        "agentStatus": "系统冻结"
+      }
+    ],
+    "pageNum": 1,
+    "pageSize": 10,
+    "totalPage": 1,
+    "totalCount": 1,
+    "defaultPageNum": "10",
+    "__isset_bit_vector": [
+      1,
+      1,
+      1,
+      1
+    ]
+  }
+}

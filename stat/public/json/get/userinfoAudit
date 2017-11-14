@@ -1,0 +1,60 @@
+{
+  "success": true,
+  "object": {
+
+                "userName": "张三",
+                "userPhone": "13466666666",
+                "idCard": "110108100000000000",
+                "emergencyName": "李四",
+                "gender": "男",
+                "emergencyPhone": "1348888888",
+            "emergencyRelation": "配偶",
+
+                "account": "6049605220000354",
+            "reservePhone": "13466666666",
+                "facePass": "认证通过",
+                "faceSimilarity": "95",
+                "facePic": [
+                    {
+                        "smallUrl": "http://meiyuefu-offline.oss-cn-beijing.aliyuncs.com/meiyuefu/face/28108131index1.jpg",
+                        "oriUrl": "http://meiyuefu-offline.oss-cn-beijing.aliyuncs.com/meiyuefu/face/28108131index1.jpg"
+                    },
+                    {
+                        "smallUrl":"http://meiyuefu-offline.oss-cn-beijing.aliyuncs.com/meiyuefu/face/28108131index2.jpg",
+                        "oriUrl": "http://meiyuefu-offline.oss-cn-beijing.aliyuncs.com/meiyuefu/face/28108131index2.jpg"
+                    }
+                ],
+
+                "area": "北京市 海淀区",
+                "houseAddress": "牡丹园小区1号楼1单元101室",
+                "rentArea": "30㎡",
+            "rentType": "整租",
+
+            "monthRent": "2000元",
+            "feeRate": "4%",
+            "feeMoney": "20元",
+            "rentTotal": "2020元",
+                "loanLease": "12期",
+            "rentStartDate": "2016-01-01",
+
+
+                "contractNo": "ht000000000001",
+                "contractPic": [
+                    {
+                        "smallUrl":"http://meiyuefu-offline.oss-cn-beijing.aliyuncs.com/meiyuefu/face/28108131index1.jpg",
+                        "oriUrl": "http://meiyuefu-offline.oss-cn-beijing.aliyuncs.com/meiyuefu/face/28108131index1.jpg"
+                    },
+                    {
+                        "smallUrl":"http://meiyuefu-offline.oss-cn-beijing.aliyuncs.com/meiyuefu/face/28108131index2.jpg",
+                        "oriUrl": "http://meiyuefu-offline.oss-cn-beijing.aliyuncs.com/meiyuefu/face/28108131index2.jpg"
+                    }
+            ],
+            "agentName":"管家姓名",
+            "agentPhone":"管家手机号",
+            "legalPersonName":"法人姓名",
+            "compamyName":"公寓注册名称",
+            "briefName":"公寓简称"
+
+            }
+
+}

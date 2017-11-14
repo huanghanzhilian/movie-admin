@@ -1,0 +1,183 @@
+{
+	"success": true,
+	"object": {
+		"logTable": [{
+			"fieldName": "系统审核",
+			"fieldValue": "2015-10-15 16:11:25",
+			"fieldExtra": "system",
+			"isPic": false
+		}],
+		"userTable": [{
+			"fieldName": "orderId",
+			"fieldValue": "654467783920205824",
+			"isPic": false
+		}, {
+			"fieldName": "姓名",
+			"fieldValue": "冉强",
+			"isPic": false
+		}, {
+			"fieldName": "wbId",
+			"fieldValue": "21929826494983",
+			"isPic": false
+		}, {
+			"fieldName": "58用户名",
+			"fieldValue": "dpwzw_f0",
+			"isPic": false
+		}, {
+			"fieldName": "当前状态",
+			"fieldValue": "系统审核成功",
+			"isPic": false
+		}, {
+			"fieldName": "身份证",
+			"fieldValue": "500108198912301713(重庆市南岸区)",
+			"isPic": false
+		}, {
+			"fieldName": "性别",
+			"fieldValue": "男",
+			"isPic": false
+		}, {
+			"fieldName": "手机号",
+			"fieldValue": "13650500359(未知)",
+			"fieldExtra": "1次",
+			"fieldExtra2": "",
+			"linkUrl": "/user-v4/search/phone/654467783920205824/13650500359",
+			"isPic": false
+		}, {
+			"fieldName": "银行卡号",
+			"fieldValue": "6217996900033570236",
+			"isPic": false
+		}, {
+			"fieldName": "银行名称",
+			"fieldValue": "储蓄银行",
+			"isPic": false
+		}, {
+			"fieldName": "支行名称",
+			"fieldValue": "",
+			"isPic": false
+		}, {
+			"fieldName": "银行预留手机号",
+			"fieldValue": "13594091940",
+			"isPic": false
+		}],
+		"emergencyTable": [{
+			"fieldName": "姓名",
+			"fieldValue": "冉強",
+			"isPic": false
+		}, {
+			"fieldName": "关系",
+			"fieldValue": "配偶",
+			"isPic": false
+		}, {
+			"fieldName": "联系方式",
+			"fieldValue": "13594091940(未知)",
+			"fieldExtra": "2次",
+			"fieldExtra2": "FontRed",
+			"linkUrl": "/user-v4/search/phone/654467783920205824/13594091940",
+			"isPic": false
+		}],
+		"payeeTable": [{
+			"fieldName": "姓名",
+			"fieldValue": "重庆管家婆房地产经纪有限公司-左喜",
+			"isPic": false
+		}, {
+			"fieldName": "电话",
+			"fieldValue": "13983127520(未知)",
+			"isPic": false
+		}, {
+			"fieldName": "银行卡号",
+			"fieldValue": "31060101040014832",
+			"isPic": false
+		}, {
+			"fieldName": "开户行",
+			"fieldValue": "农业银行",
+			"isPic": false
+		}, {
+			"fieldName": "所在地",
+			"fieldValue": "重庆市 重庆市",
+			"isPic": false
+		}],
+		"loginTable": [{
+			"fieldName": "223.104.25.76(中国移动 北京市 北京;)",
+			"fieldValue": "self",
+			"fieldExtra": "2015-10-15 15:48:39",
+			"isPic": false
+		}, {
+			"fieldName": "223.104.248.131(中国移动 北京市 北京;)",
+			"fieldValue": "self",
+			"fieldExtra": "2015-10-15 14:20:49",
+			"isPic": false
+		}, {
+			"fieldName": "223.104.248.131(中国移动 北京市 北京;)",
+			"fieldValue": "",
+			"fieldExtra": "2015-10-15 14:14:35",
+			"isPic": false
+		}],
+		"systemTable": [{
+			"fieldName": "用户ip",
+			"fieldValue": "中国移动 北京市 北京;(223.104.25.76)",
+			"fieldExtra": "更多",
+			"linkUrl": "/user-v4/search/ip/654467783920205824/",
+			"isPic": false
+		}, {
+			"fieldName": "入口来源",
+			"isPic": false
+		}, {
+			"fieldName": "终端来源",
+			"fieldValue": "null",
+			"isPic": false
+		}],
+		"houseTable": [{
+			"fieldName": "月租金",
+			"fieldValue": "1300.0",
+			"isPic": false
+		}, {
+			"fieldName": "支付方式",
+			"fieldValue": "半年付",
+			"isPic": false
+		}, {
+			"fieldName": "借款月数",
+			"fieldValue": "11",
+			"isPic": false
+		}, {
+			"fieldName": "首次还款日",
+			"fieldValue": "12",
+			"fieldExtra": "",
+			"fieldExtra2": "FontRed",
+			"linkUrl": "",
+			"isPic": false
+		}, {
+			"fieldName": "小区名称",
+			"fieldValue": "苹果城",
+			"isPic": false
+		}, {
+			"fieldName": "房屋详细地址",
+			"fieldValue": "9栋15-9",
+			"isPic": false
+		}],
+		"workTable": [{
+			"fieldName": "工作单位",
+			"fieldValue": "敏捷汽车服务部",
+			"isPic": false
+		}, {
+			"fieldName": "单位地址",
+			"fieldValue": "巴南区西部汽车城",
+			"isPic": false
+		}, {
+			"fieldName": "职位",
+			"fieldValue": "司机",
+			"isPic": false
+		}, {
+			"fieldName": "工作年限",
+			"isPic": false
+		}, {
+			"fieldName": "收入情况",
+			"fieldValue": "4000~6000",
+			"isPic": false
+		}, {
+			"fieldName": "邮箱",
+			"fieldValue": "",
+			"fieldExtra": "未验证",
+			"isPic": false
+		}]
+	}
+}

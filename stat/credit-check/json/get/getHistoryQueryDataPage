@@ -1,0 +1,118 @@
+{
+  "success": true,
+  "object": {
+    "infoList": [
+      {
+        "queryStatus": "待返回",
+        "optMan": "xiedi",
+        "userName": "周旺",
+        "queryChannels": "英奇征信",
+        "userPhone": "15208204361",
+        "queryTime": "2016-11-03 20:54:34",
+        "orderId": "40",
+        "thirdCallDesc": "近30天距离差"
+      },
+      {
+        "queryStatus": "待返回",
+        "optMan": "xiedi",
+        "userName": "赵晓彧",
+        "queryChannels": "英奇征信",
+        "userPhone": "15838196193",
+        "queryTime": "2016-11-03 20:54:34",
+        "orderId": "41",
+        "thirdCallDesc": "近30天距离差"
+      },
+      {
+        "queryStatus": "待返回",
+        "optMan": "xiedi",
+        "userName": "田梅",
+        "queryChannels": "英奇征信",
+        "userPhone": "15102308437",
+        "queryTime": "2016-11-03 20:54:34",
+        "orderId": "42",
+        "thirdCallDesc": "近30天距离差"
+      },
+      {
+        "queryStatus": "待返回",
+        "optMan": "xiedi",
+        "userName": "段胡宝",
+        "queryChannels": "英奇征信",
+        "userPhone": "18911728902",
+        "queryTime": "2016-11-03 20:54:34",
+        "orderId": "43",
+        "thirdCallDesc": "近30天距离差"
+      },
+      {
+        "queryStatus": "待返回",
+        "optMan": "xiedi",
+        "userName": "申红艳",
+        "queryChannels": "英奇征信",
+        "userPhone": "18201611876",
+        "queryTime": "2016-11-03 20:54:34",
+        "orderId": "44",
+        "thirdCallDesc": "近30天距离差"
+      },
+      {
+        "queryStatus": "待返回",
+        "optMan": "xiedi",
+        "userName": "张广胜",
+        "queryChannels": "英奇征信",
+        "userPhone": "18769553055",
+        "queryTime": "2016-11-03 20:54:34",
+        "orderId": "45",
+        "thirdCallDesc": "近30天距离差"
+      },
+      {
+        "queryStatus": "待返回",
+        "optMan": "xiedi",
+        "userName": "杨博",
+        "queryChannels": "英奇征信",
+        "userPhone": "13520546020",
+        "queryTime": "2016-11-03 20:54:34",
+        "orderId": "46",
+        "thirdCallDesc": "近30天距离差"
+      },
+      {
+        "queryStatus": "待返回",
+        "optMan": "xiedi",
+        "userName": "鞠孟永",
+        "queryChannels": "英奇征信",
+        "userPhone": "15041496182",
+        "queryTime": "2016-11-03 20:54:34",
+        "orderId": "47",
+        "thirdCallDesc": "近30天距离差"
+      },
+      {
+        "queryStatus": "待返回",
+        "optMan": "xiedi",
+        "userName": "罗金洲",
+        "queryChannels": "英奇征信",
+        "userPhone": "13661261169",
+        "queryTime": "2016-11-03 20:54:34",
+        "orderId": "48",
+        "thirdCallDesc": "近30天距离差"
+      },
+      {
+        "queryStatus": "待返回",
+        "optMan": "xiedi",
+        "userName": "曾霞",
+        "queryChannels": "英奇征信",
+        "userPhone": "18328404850",
+        "queryTime": "2016-11-03 20:54:34",
+        "orderId": "49",
+        "thirdCallDesc": "近30天距离差"
+      }
+    ],
+    "pageNum": 1,
+    "pageSize": 10,
+    "totalPage": 2,
+    "totalCount": 15,
+    "defaultPageNum": "10",
+    "__isset_bit_vector": [
+      1,
+      1,
+      1,
+      1
+    ]
+  }
+}

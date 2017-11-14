@@ -1,0 +1,40 @@
+<div class="modal-header">
+    <a href="javascript:void(0)" ng-click="$dismiss('cancel')" class="modal-close"></a>
+    <h3 class="modal-title">找回密码</h3>
+</div>
+<form name="addConfigForm" novalidate  class="modify-agent-info">
+    <div class="modal-body" style="padding: 10px 10px;">
+        <div class="input-group first-group" style="margin-top: 10px;">
+            <div class="input-group-addon" style="background-color: #fff;border: 0;width: 120px;">用户名</div>
+            <input id="userName" type="text" ng-model="data.userName" name="userName" style="width: 140px;" class="form-control" disabled="disabled"  />
+        </div>
+        <div class="input-group first-group" style="margin-top: 10px;">
+            <div class="input-group-addon" style="background-color: #fff;border: 0;width: 120px;">法人手机号码</div>
+            <input type="text" ng-model="data.phone" autocomplete="off" class="form-control" disabled="disabled" style="width: 140px;margin-right: 10px;"   />
+            <button id="getPhonePin" class="btn btn-primary" ng-click="getPhonePin()">获取验证码</button>
+        </div>
+        <div style="text-align: center;margin-top: 10px;display: none;" id="pin">
+            <p><span id="pintext">180</span>秒，重发手机确认码</p>
+            <p>确认码短信已经发到您的手机，请查收！</p>
+        </div>
+        <div class="input-group first-group" style="margin-top: 10px;">
+            <div class="input-group-addon" style="background-color: #fff;border: 0;width: 120px;">手机验证码</div>
+            <input type="text" ng-model="data.phonePin" style="width: 140px;" class="form-control" ng-required="true"  />
+        </div>
+        <div class="input-group first-group" style="margin-top: 10px;">
+            <div class="input-group-addon" style="background-color: #fff;border: 0;width: 120px;">请输入新密码</div>
+            <input type="password" ng-model="data.password" style="width: 140px;" class="form-control" ng-required="true"  />
+        </div>
+        <div class="input-group first-group" style="margin-top: 10px;">
+            <div class="input-group-addon" style="background-color: #fff;border: 0;width: 120px;">再次输入新密码</div>
+            <input type="password" ng-model="data.confirmPassword" style="width: 140px;" class="form-control" ng-required="true"  />
+        </div>
+        <div class="input-group first-group" style="padding-top: 20px;">
+            <p style="margin-left: 10px;" class="error-info" ng-bind="errorInfo"></p>
+        </div>
+    </div>
+    <div class="modal-footer">
+        <button class="btn btn-primary btn-submit" ng-disabled="addConfigForm.$invalid" ng-click="submit()" type="submit">确定</button>
+        <button class="btn btn-cancel" ng-click="$dismiss('cancel')" >取消</button>
+    </div>
+</form>

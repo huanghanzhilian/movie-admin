@@ -1,0 +1,69 @@
+{
+  "success": true,
+  "object": {
+    "infoList": [
+      {
+        "orderHouseStatusStr": "待联系",
+        "expectTime": "2016-01-01",
+        "houseInfo": "珞狮南路 2室1厅 整租",
+        "houseInfoforApp": "珞狮南路 655555555555555 111111111111",
+        "agentId": "636136819343233025",
+        "orderHouseStatus": "1000",
+        "orderTime": "2016-02-19 14:25",
+        "companyName": "58-App测试",
+        "id": "700566963318968320",
+        "districtName": "655555555555555",
+        "houseid": "201601160000021",
+        "agentName": "陈立功",
+        "houseInfoimageurl": "http://pic.58.com/gongyu/n_v1bl2lwkhe62mvn35i54ka_d016075a4f426d09.jpg?w=750",
+        "userName": "徐光耀 先生",
+        "userPhone": "13466327312"
+      },
+      {
+        "orderHouseStatusStr": "待联系",
+        "expectTime": "2016-01-01",
+        "houseInfo": "珞狮南路 2室1厅 整租",
+        "houseInfoforApp": "珞狮南路 655555555555555 111111111111",
+        "agentId": "636136819343233025",
+        "orderHouseStatus": "0",
+        "orderTime": "2016-02-19 14:10",
+        "companyName": "58-App测试",
+        "id": "700563189359730688",
+        "districtName": "655555555555555",
+        "houseid": "201601160000021",
+        "agentName": "陈立功",
+        "houseInfoimageurl": "http://pic.58.com/gongyu/n_v1bl2lwkhe62mvn35i54ka_d016075a4f426d09.jpg?w=750",
+        "userName": "徐光耀 先生",
+        "userPhone": "18511128405"
+      },
+      {
+        "orderHouseStatusStr": "待联系",
+        "expectTime": "2016-01-01",
+        "houseInfo": "珞狮南路 2室1厅 整租",
+        "houseInfoforApp": "珞狮南路 655555555555555 111111111111",
+        "agentId": "636136819343233025",
+        "orderHouseStatus": "0",
+        "orderTime": "2016-02-16 11:26",
+        "companyName": "58-App测试",
+        "id": "699434547271454720",
+        "districtName": "655555555555555",
+        "houseid": "201601160000021",
+        "agentName": "陈立功",
+        "houseInfoimageurl": "http://pic.58.com/gongyu/n_v1bl2lwkhe62mvn35i54ka_d016075a4f426d09.jpg?w=750",
+        "userName": "徐光耀 先生",
+        "userPhone": "18511128405"
+      }
+    ],
+    "pageNum": 1,
+    "pageSize": 10,
+    "totalPage": 1,
+    "totalCount": 3,
+    "defaultPageNum": "10",
+    "__isset_bit_vector": [
+      1,
+      1,
+      1,
+      1
+    ]
+  }
+}
